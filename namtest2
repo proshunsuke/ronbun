@@ -1,0 +1,6665 @@
+%!PS-Adobe-2.0 EPSF-2.0
+%%Creator: nam
+%%DocumentFonts: Helvetica
+%%BoundingBox: 36 162 526 587
+%%EndComments
+gsave 36 36 translate
+/namdict 20 dict def
+namdict begin
+/ft {/Helvetica findfont exch scalefont setfont
+newpath 0 0 moveto (0) true charpath flattenpath
+pathbbox /fh exch def pop pop pop} def
+/center_show {/s exch def moveto s stringwidth
+pop 2 div neg fh 2 div neg rmoveto s show} def
+/north_show {/s exch def moveto s stringwidth
+pop 2 div neg fh neg rmoveto s show} def
+/south_show {/s exch def moveto s stringwidth
+pop 2 div neg 0 rmoveto s show} def
+/east_show {/s exch def moveto s stringwidth
+pop neg fh 2 div neg rmoveto s show} def
+/west_show {/s exch def moveto 
+0 fh 2 div neg rmoveto s show} def
+/rect {newpath /h exch def /w exch def moveto
+w 0 rlineto 0 h rlineto w neg 0 rlineto
+0 h neg rlineto closepath stroke} def
+/line {newpath moveto lineto stroke} def
+/circle {newpath 0 360 arc stroke} def
+end
+%%EndProlog
+namdict begin
+0.00 0.00 0.00 setrgbcolor
+214.9 399.7 280.6 340.5 line
+0.00 0.00 0.00 setrgbcolor
+280.6 340.5 214.9 399.7 line
+0.00 0.00 0.00 setrgbcolor
+190.8 424.3 122.2 438.3 line
+0.00 0.00 0.00 setrgbcolor
+122.2 438.3 190.8 424.3 line
+0.00 0.00 0.00 setrgbcolor
+190.8 423.7 120.7 426.2 line
+0.00 0.00 0.00 setrgbcolor
+120.7 426.2 190.8 423.7 line
+0.00 0.00 0.00 setrgbcolor
+191.4 425.8 142.0 457.5 line
+0.00 0.00 0.00 setrgbcolor
+142.0 457.5 191.4 425.8 line
+0.00 0.00 0.00 setrgbcolor
+191.2 421.7 148.3 400.8 line
+0.00 0.00 0.00 setrgbcolor
+148.3 400.8 191.2 421.7 line
+0.00 0.00 0.00 setrgbcolor
+190.8 423.0 130.5 415.9 line
+0.00 0.00 0.00 setrgbcolor
+130.5 415.9 190.8 423.0 line
+0.00 0.00 0.00 setrgbcolor
+194.6 427.7 192.4 454.3 line
+0.00 0.00 0.00 setrgbcolor
+192.4 454.3 194.6 427.7 line
+0.00 0.00 0.00 setrgbcolor
+197.5 420.3 209.2 405.7 line
+0.00 0.00 0.00 setrgbcolor
+209.2 405.7 197.5 420.3 line
+0.00 0.00 0.00 setrgbcolor
+146.2 434.6 120.6 427.5 line
+0.00 0.00 0.00 setrgbcolor
+120.6 427.5 146.2 434.6 line
+0.00 0.00 0.00 setrgbcolor
+148.4 439.5 140.3 456.0 line
+0.00 0.00 0.00 setrgbcolor
+140.3 456.0 148.4 439.5 line
+0.00 0.00 0.00 setrgbcolor
+149.6 431.7 145.2 403.1 line
+0.00 0.00 0.00 setrgbcolor
+145.2 403.1 149.6 431.7 line
+0.00 0.00 0.00 setrgbcolor
+147.1 433.1 129.5 418.1 line
+0.00 0.00 0.00 setrgbcolor
+129.5 418.1 147.1 433.1 line
+0.00 0.00 0.00 setrgbcolor
+153.9 437.7 188.4 456.5 line
+0.00 0.00 0.00 setrgbcolor
+188.4 456.5 153.9 437.7 line
+0.00 0.00 0.00 setrgbcolor
+153.9 433.8 208.2 404.4 line
+0.00 0.00 0.00 setrgbcolor
+208.2 404.4 153.9 433.8 line
+0.00 0.00 0.00 setrgbcolor
+154.2 434.7 190.9 424.6 line
+0.00 0.00 0.00 setrgbcolor
+190.9 424.6 154.2 434.7 line
+0.00 0.00 0.00 setrgbcolor
+191.3 445.6 142.5 458.6 line
+0.00 0.00 0.00 setrgbcolor
+142.5 458.6 191.3 445.6 line
+0.00 0.00 0.00 setrgbcolor
+192.2 441.8 147.6 401.7 line
+0.00 0.00 0.00 setrgbcolor
+147.6 401.7 192.2 441.8 line
+0.00 0.00 0.00 setrgbcolor
+191.5 443.0 130.2 417.0 line
+0.00 0.00 0.00 setrgbcolor
+130.2 417.0 191.5 443.0 line
+0.00 0.00 0.00 setrgbcolor
+194.4 448.6 193.0 454.4 line
+0.00 0.00 0.00 setrgbcolor
+193.0 454.4 194.4 448.6 line
+0.00 0.00 0.00 setrgbcolor
+196.9 440.7 210.3 406.3 line
+0.00 0.00 0.00 setrgbcolor
+210.3 406.3 196.9 440.7 line
+0.00 0.00 0.00 setrgbcolor
+195.3 440.4 195.0 427.7 line
+0.00 0.00 0.00 setrgbcolor
+195.0 427.7 195.3 440.4 line
+0.00 0.00 0.00 setrgbcolor
+191.3 443.8 154.3 436.6 line
+0.00 0.00 0.00 setrgbcolor
+154.3 436.6 191.3 443.8 line
+0.00 0.00 0.00 setrgbcolor
+185.5 465.4 146.7 402.5 line
+0.00 0.00 0.00 setrgbcolor
+146.7 402.5 185.5 465.4 line
+0.00 0.00 0.00 setrgbcolor
+184.6 466.2 129.5 418.1 line
+0.00 0.00 0.00 setrgbcolor
+129.5 418.1 184.6 466.2 line
+0.00 0.00 0.00 setrgbcolor
+189.3 465.1 190.5 462.3 line
+0.00 0.00 0.00 setrgbcolor
+190.5 462.3 189.3 465.1 line
+0.00 0.00 0.00 setrgbcolor
+189.2 465.1 210.4 406.4 line
+0.00 0.00 0.00 setrgbcolor
+210.4 406.4 189.2 465.1 line
+0.00 0.00 0.00 setrgbcolor
+188.4 464.9 194.3 427.6 line
+0.00 0.00 0.00 setrgbcolor
+194.3 427.6 188.4 464.9 line
+0.00 0.00 0.00 setrgbcolor
+184.6 466.2 153.3 438.5 line
+0.00 0.00 0.00 setrgbcolor
+153.3 438.5 184.6 466.2 line
+0.00 0.00 0.00 setrgbcolor
+189.0 465.0 194.1 448.6 line
+0.00 0.00 0.00 setrgbcolor
+194.1 448.6 189.0 465.0 line
+0.00 0.00 0.00 setrgbcolor
+178.8 474.4 129.1 418.5 line
+0.00 0.00 0.00 setrgbcolor
+129.1 418.5 178.8 474.4 line
+0.00 0.00 0.00 setrgbcolor
+183.6 473.9 190.1 462.1 line
+0.00 0.00 0.00 setrgbcolor
+190.1 462.1 183.6 473.9 line
+0.00 0.00 0.00 setrgbcolor
+183.1 473.7 210.3 406.3 line
+0.00 0.00 0.00 setrgbcolor
+210.3 406.3 183.1 473.7 line
+0.00 0.00 0.00 setrgbcolor
+182.6 473.5 193.9 427.6 line
+0.00 0.00 0.00 setrgbcolor
+193.9 427.6 182.6 473.5 line
+0.00 0.00 0.00 setrgbcolor
+179.1 474.2 152.7 439.1 line
+0.00 0.00 0.00 setrgbcolor
+152.7 439.1 179.1 474.2 line
+0.00 0.00 0.00 setrgbcolor
+183.2 473.7 193.7 448.4 line
+0.00 0.00 0.00 setrgbcolor
+193.7 448.4 183.2 473.7 line
+0.00 0.00 0.00 setrgbcolor
+184.0 474.1 185.3 472.3 line
+0.00 0.00 0.00 setrgbcolor
+185.3 472.3 184.0 474.1 line
+0.00 0.00 0.00 setrgbcolor
+173.3 476.5 189.1 461.3 line
+0.00 0.00 0.00 setrgbcolor
+189.1 461.3 173.3 476.5 line
+0.00 0.00 0.00 setrgbcolor
+172.3 475.7 209.9 406.1 line
+0.00 0.00 0.00 setrgbcolor
+209.9 406.1 172.3 475.7 line
+0.00 0.00 0.00 setrgbcolor
+172.0 475.6 193.2 427.3 line
+0.00 0.00 0.00 setrgbcolor
+193.2 427.3 172.0 475.6 line
+0.00 0.00 0.00 setrgbcolor
+168.6 475.6 152.0 439.5 line
+0.00 0.00 0.00 setrgbcolor
+152.0 439.5 168.6 475.6 line
+0.00 0.00 0.00 setrgbcolor
+172.8 476.0 192.9 448.0 line
+0.00 0.00 0.00 setrgbcolor
+192.9 448.0 172.8 476.0 line
+0.00 0.00 0.00 setrgbcolor
+173.9 477.3 184.2 471.1 line
+0.00 0.00 0.00 setrgbcolor
+184.2 471.1 173.9 477.3 line
+0.00 0.00 0.00 setrgbcolor
+174.4 478.7 177.5 478.2 line
+0.00 0.00 0.00 setrgbcolor
+177.5 478.2 174.4 478.7 line
+0.00 0.00 0.00 setrgbcolor
+156.5 480.7 209.5 405.8 line
+0.00 0.00 0.00 setrgbcolor
+209.5 405.8 156.5 480.7 line
+0.00 0.00 0.00 setrgbcolor
+156.4 480.7 192.6 427.0 line
+0.00 0.00 0.00 setrgbcolor
+192.6 427.0 156.4 480.7 line
+0.00 0.00 0.00 setrgbcolor
+153.7 480.0 150.6 439.9 line
+0.00 0.00 0.00 setrgbcolor
+150.6 439.9 153.7 480.0 line
+0.00 0.00 0.00 setrgbcolor
+157.1 481.2 192.3 447.5 line
+0.00 0.00 0.00 setrgbcolor
+192.3 447.5 157.1 481.2 line
+0.00 0.00 0.00 setrgbcolor
+157.9 482.4 183.9 470.7 line
+0.00 0.00 0.00 setrgbcolor
+183.9 470.7 157.9 482.4 line
+0.00 0.00 0.00 setrgbcolor
+158.1 483.1 177.5 478.5 line
+0.00 0.00 0.00 setrgbcolor
+177.5 478.5 158.1 483.1 line
+0.00 0.00 0.00 setrgbcolor
+158.1 483.0 166.3 480.6 line
+0.00 0.00 0.00 setrgbcolor
+166.3 480.6 158.1 483.0 line
+0.00 0.00 0.00 setrgbcolor
+168.6 482.1 193.2 427.3 line
+0.00 0.00 0.00 setrgbcolor
+193.2 427.3 168.6 482.1 line
+0.00 0.00 0.00 setrgbcolor
+165.5 482.0 151.5 439.7 line
+0.00 0.00 0.00 setrgbcolor
+151.5 439.7 165.5 482.0 line
+0.00 0.00 0.00 setrgbcolor
+169.2 482.5 193.0 448.0 line
+0.00 0.00 0.00 setrgbcolor
+193.0 448.0 169.2 482.5 line
+0.00 0.00 0.00 setrgbcolor
+170.1 483.3 184.5 471.6 line
+0.00 0.00 0.00 setrgbcolor
+184.5 471.6 170.1 483.3 line
+0.00 0.00 0.00 setrgbcolor
+170.5 483.9 177.9 479.6 line
+0.00 0.00 0.00 setrgbcolor
+177.9 479.6 170.5 483.9 line
+0.00 0.00 0.00 setrgbcolor
+168.8 482.3 168.4 483.1 line
+0.00 0.00 0.00 setrgbcolor
+168.4 483.1 168.8 482.3 line
+0.00 0.00 0.00 setrgbcolor
+162.7 485.3 158.2 484.7 line
+0.00 0.00 0.00 setrgbcolor
+158.2 484.7 162.7 485.3 line
+0.00 0.00 0.00 setrgbcolor
+147.6 484.3 150.0 439.9 line
+0.00 0.00 0.00 setrgbcolor
+150.0 439.9 147.6 484.3 line
+0.00 0.00 0.00 setrgbcolor
+150.5 485.6 192.3 447.4 line
+0.00 0.00 0.00 setrgbcolor
+192.3 447.4 150.5 485.6 line
+0.00 0.00 0.00 setrgbcolor
+151.2 486.6 184.0 470.8 line
+0.00 0.00 0.00 setrgbcolor
+184.0 470.8 151.2 486.6 line
+0.00 0.00 0.00 setrgbcolor
+151.4 487.2 177.6 478.8 line
+0.00 0.00 0.00 setrgbcolor
+177.6 478.8 151.4 487.2 line
+0.00 0.00 0.00 setrgbcolor
+151.3 486.9 166.5 480.9 line
+0.00 0.00 0.00 setrgbcolor
+166.5 480.9 151.3 486.9 line
+0.00 0.00 0.00 setrgbcolor
+150.9 486.2 150.6 486.4 line
+0.00 0.00 0.00 setrgbcolor
+150.6 486.4 150.9 486.2 line
+0.00 0.00 0.00 setrgbcolor
+151.6 487.9 162.7 486.5 line
+0.00 0.00 0.00 setrgbcolor
+162.7 486.5 151.6 487.9 line
+0.00 0.00 0.00 setrgbcolor
+160.3 491.1 192.8 447.9 line
+0.00 0.00 0.00 setrgbcolor
+192.8 447.9 160.3 491.1 line
+0.00 0.00 0.00 setrgbcolor
+161.0 491.7 184.6 471.7 line
+0.00 0.00 0.00 setrgbcolor
+184.6 471.7 161.0 491.7 line
+0.00 0.00 0.00 setrgbcolor
+161.2 492.0 178.2 479.9 line
+0.00 0.00 0.00 setrgbcolor
+178.2 479.9 161.2 492.0 line
+0.00 0.00 0.00 setrgbcolor
+160.5 491.2 167.7 482.6 line
+0.00 0.00 0.00 setrgbcolor
+167.7 482.6 160.5 491.2 line
+0.00 0.00 0.00 setrgbcolor
+156.4 490.5 155.5 488.0 line
+0.00 0.00 0.00 setrgbcolor
+155.5 488.0 156.4 490.5 line
+0.00 0.00 0.00 setrgbcolor
+160.9 491.6 163.8 488.8 line
+0.00 0.00 0.00 setrgbcolor
+163.8 488.8 160.9 491.6 line
+0.00 0.00 0.00 setrgbcolor
+154.2 492.4 151.0 490.5 line
+0.00 0.00 0.00 setrgbcolor
+151.0 490.5 154.2 492.4 line
+0.00 0.00 0.00 setrgbcolor
+141.9 487.3 183.9 470.5 line
+0.00 0.00 0.00 setrgbcolor
+183.9 470.5 141.9 487.3 line
+0.00 0.00 0.00 setrgbcolor
+142.0 487.8 177.5 478.6 line
+0.00 0.00 0.00 setrgbcolor
+177.5 478.6 142.0 487.8 line
+0.00 0.00 0.00 setrgbcolor
+142.0 487.7 166.3 480.6 line
+0.00 0.00 0.00 setrgbcolor
+166.3 480.6 142.0 487.7 line
+0.00 0.00 0.00 setrgbcolor
+142.0 487.7 150.1 485.3 line
+0.00 0.00 0.00 setrgbcolor
+150.1 485.3 142.0 487.7 line
+0.00 0.00 0.00 setrgbcolor
+142.2 488.5 162.7 486.4 line
+0.00 0.00 0.00 setrgbcolor
+162.7 486.4 142.2 488.5 line
+0.00 0.00 0.00 setrgbcolor
+142.2 488.7 143.3 488.6 line
+0.00 0.00 0.00 setrgbcolor
+143.3 488.6 142.2 488.7 line
+0.00 0.00 0.00 setrgbcolor
+142.0 490.0 153.8 493.3 line
+0.00 0.00 0.00 setrgbcolor
+153.8 493.3 142.0 490.0 line
+0.00 0.00 0.00 setrgbcolor
+145.5 495.4 177.8 479.4 line
+0.00 0.00 0.00 setrgbcolor
+177.8 479.4 145.5 495.4 line
+0.00 0.00 0.00 setrgbcolor
+145.3 495.0 166.8 481.6 line
+0.00 0.00 0.00 setrgbcolor
+166.8 481.6 145.3 495.0 line
+0.00 0.00 0.00 setrgbcolor
+144.6 494.2 151.2 487.2 line
+0.00 0.00 0.00 setrgbcolor
+151.2 487.2 144.6 494.2 line
+0.00 0.00 0.00 setrgbcolor
+145.6 495.5 163.1 487.6 line
+0.00 0.00 0.00 setrgbcolor
+163.1 487.6 145.6 495.5 line
+0.00 0.00 0.00 setrgbcolor
+144.0 493.7 145.2 492.0 line
+0.00 0.00 0.00 setrgbcolor
+145.2 492.0 144.0 493.7 line
+0.00 0.00 0.00 setrgbcolor
+145.9 496.5 153.7 495.2 line
+0.00 0.00 0.00 setrgbcolor
+153.7 495.2 145.9 496.5 line
+0.00 0.00 0.00 setrgbcolor
+140.1 493.4 139.7 492.7 line
+0.00 0.00 0.00 setrgbcolor
+139.7 492.7 140.1 493.4 line
+0.00 0.00 0.00 setrgbcolor
+134.1 486.2 166.2 480.2 line
+0.00 0.00 0.00 setrgbcolor
+166.2 480.2 134.1 486.2 line
+0.00 0.00 0.00 setrgbcolor
+134.1 486.4 149.9 484.6 line
+0.00 0.00 0.00 setrgbcolor
+149.9 484.6 134.1 486.4 line
+0.00 0.00 0.00 setrgbcolor
+134.1 486.8 162.7 486.0 line
+0.00 0.00 0.00 setrgbcolor
+162.7 486.0 134.1 486.8 line
+0.00 0.00 0.00 setrgbcolor
+134.1 487.3 143.3 488.1 line
+0.00 0.00 0.00 setrgbcolor
+143.3 488.1 134.1 487.3 line
+0.00 0.00 0.00 setrgbcolor
+134.0 488.0 153.8 493.4 line
+0.00 0.00 0.00 setrgbcolor
+153.8 493.4 134.0 488.0 line
+0.00 0.00 0.00 setrgbcolor
+134.0 487.9 134.0 487.9 line
+0.00 0.00 0.00 setrgbcolor
+134.0 487.9 134.0 487.9 line
+0.00 0.00 0.00 setrgbcolor
+133.1 489.7 138.7 494.5 line
+0.00 0.00 0.00 setrgbcolor
+138.7 494.5 133.1 489.7 line
+0.00 0.00 0.00 setrgbcolor
+128.6 487.8 149.9 484.7 line
+0.00 0.00 0.00 setrgbcolor
+149.9 484.7 128.6 487.8 line
+0.00 0.00 0.00 setrgbcolor
+128.6 488.1 162.7 486.2 line
+0.00 0.00 0.00 setrgbcolor
+162.7 486.2 128.6 488.1 line
+0.00 0.00 0.00 setrgbcolor
+128.6 488.4 143.3 488.4 line
+0.00 0.00 0.00 setrgbcolor
+143.3 488.4 128.6 488.4 line
+0.00 0.00 0.00 setrgbcolor
+128.6 489.1 153.7 493.7 line
+0.00 0.00 0.00 setrgbcolor
+153.7 493.7 128.6 489.1 line
+0.00 0.00 0.00 setrgbcolor
+128.6 488.5 133.9 488.7 line
+0.00 0.00 0.00 setrgbcolor
+133.9 488.7 128.6 488.5 line
+0.00 0.00 0.00 setrgbcolor
+128.2 490.2 138.1 495.3 line
+0.00 0.00 0.00 setrgbcolor
+138.1 495.3 128.2 490.2 line
+0.00 0.00 0.00 setrgbcolor
+128.5 487.3 126.0 488.0 line
+0.00 0.00 0.00 setrgbcolor
+126.0 488.0 128.5 487.3 line
+0.00 0.00 0.00 setrgbcolor
+118.6 484.4 162.7 485.8 line
+0.00 0.00 0.00 setrgbcolor
+162.7 485.8 118.6 484.4 line
+0.00 0.00 0.00 setrgbcolor
+118.6 484.8 143.3 487.9 line
+0.00 0.00 0.00 setrgbcolor
+143.3 487.9 118.6 484.8 line
+0.00 0.00 0.00 setrgbcolor
+118.5 485.2 153.8 493.5 line
+0.00 0.00 0.00 setrgbcolor
+153.8 493.5 118.5 485.2 line
+0.00 0.00 0.00 setrgbcolor
+118.5 485.0 133.9 488.1 line
+0.00 0.00 0.00 setrgbcolor
+133.9 488.1 118.5 485.0 line
+0.00 0.00 0.00 setrgbcolor
+118.2 486.0 138.0 495.4 line
+0.00 0.00 0.00 setrgbcolor
+138.0 495.4 118.2 486.0 line
+0.00 0.00 0.00 setrgbcolor
+118.5 484.9 125.9 486.2 line
+0.00 0.00 0.00 setrgbcolor
+125.9 486.2 118.5 484.9 line
+0.00 0.00 0.00 setrgbcolor
+118.3 485.8 120.6 486.8 line
+0.00 0.00 0.00 setrgbcolor
+120.6 486.8 118.3 485.8 line
+0.00 0.00 0.00 setrgbcolor
+112.1 459.3 144.2 485.8 line
+0.00 0.00 0.00 setrgbcolor
+144.2 485.8 112.1 459.3 line
+0.00 0.00 0.00 setrgbcolor
+112.1 459.2 154.5 491.9 line
+0.00 0.00 0.00 setrgbcolor
+154.5 491.9 112.1 459.2 line
+0.00 0.00 0.00 setrgbcolor
+111.6 459.8 135.2 485.8 line
+0.00 0.00 0.00 setrgbcolor
+135.2 485.8 111.6 459.8 line
+0.00 0.00 0.00 setrgbcolor
+111.5 459.9 139.2 494.0 line
+0.00 0.00 0.00 setrgbcolor
+139.2 494.0 111.5 459.9 line
+0.00 0.00 0.00 setrgbcolor
+111.2 460.1 127.6 483.5 line
+0.00 0.00 0.00 setrgbcolor
+127.6 483.5 111.2 460.1 line
+0.00 0.00 0.00 setrgbcolor
+110.7 460.4 122.6 484.6 line
+0.00 0.00 0.00 setrgbcolor
+122.6 484.6 110.7 460.4 line
+0.00 0.00 0.00 setrgbcolor
+109.7 460.8 113.6 480.1 line
+0.00 0.00 0.00 setrgbcolor
+113.6 480.1 109.7 460.8 line
+0.00 0.00 0.00 setrgbcolor
+111.4 469.3 154.2 492.5 line
+0.00 0.00 0.00 setrgbcolor
+154.2 492.5 111.4 469.3 line
+0.00 0.00 0.00 setrgbcolor
+111.1 469.7 134.6 486.5 line
+0.00 0.00 0.00 setrgbcolor
+134.6 486.5 111.1 469.7 line
+0.00 0.00 0.00 setrgbcolor
+110.8 470.1 138.7 494.5 line
+0.00 0.00 0.00 setrgbcolor
+138.7 494.5 110.8 470.1 line
+0.00 0.00 0.00 setrgbcolor
+110.8 470.1 126.9 484.2 line
+0.00 0.00 0.00 setrgbcolor
+126.9 484.2 110.8 470.1 line
+0.00 0.00 0.00 setrgbcolor
+110.3 470.6 121.9 485.1 line
+0.00 0.00 0.00 setrgbcolor
+121.9 485.1 110.3 470.6 line
+0.00 0.00 0.00 setrgbcolor
+109.2 471.2 112.9 480.4 line
+0.00 0.00 0.00 setrgbcolor
+112.9 480.4 109.2 471.2 line
+0.00 0.00 0.00 setrgbcolor
+108.1 463.2 108.4 460.8 line
+0.00 0.00 0.00 setrgbcolor
+108.4 460.8 108.1 463.2 line
+0.00 0.00 0.00 setrgbcolor
+122.5 479.3 134.5 486.7 line
+0.00 0.00 0.00 setrgbcolor
+134.5 486.7 122.5 479.3 line
+0.00 0.00 0.00 setrgbcolor
+122.1 479.9 138.7 494.5 line
+0.00 0.00 0.00 setrgbcolor
+138.7 494.5 122.1 479.9 line
+0.00 0.00 0.00 setrgbcolor
+122.0 479.9 126.9 484.2 line
+0.00 0.00 0.00 setrgbcolor
+126.9 484.2 122.0 479.9 line
+0.00 0.00 0.00 setrgbcolor
+120.8 480.8 122.6 484.6 line
+0.00 0.00 0.00 setrgbcolor
+122.6 484.6 120.8 480.8 line
+0.00 0.00 0.00 setrgbcolor
+116.7 480.6 116.7 480.7 line
+0.00 0.00 0.00 setrgbcolor
+116.7 480.7 116.7 480.6 line
+0.00 0.00 0.00 setrgbcolor
+117.1 473.4 110.7 460.4 line
+0.00 0.00 0.00 setrgbcolor
+110.7 460.4 117.1 473.4 line
+0.00 0.00 0.00 setrgbcolor
+115.8 474.4 110.8 470.0 line
+0.00 0.00 0.00 setrgbcolor
+110.8 470.0 115.8 474.4 line
+0.00 0.00 0.00 setrgbcolor
+112.6 449.0 139.6 493.7 line
+0.00 0.00 0.00 setrgbcolor
+139.6 493.7 112.6 449.0 line
+0.00 0.00 0.00 setrgbcolor
+112.2 449.3 128.2 483.2 line
+0.00 0.00 0.00 setrgbcolor
+128.2 483.2 112.2 449.3 line
+0.00 0.00 0.00 setrgbcolor
+111.8 449.4 123.2 484.4 line
+0.00 0.00 0.00 setrgbcolor
+123.2 484.4 111.8 449.4 line
+0.00 0.00 0.00 setrgbcolor
+110.9 449.6 114.0 480.1 line
+0.00 0.00 0.00 setrgbcolor
+114.0 480.1 110.9 449.6 line
+0.00 0.00 0.00 setrgbcolor
+109.9 449.6 109.4 452.6 line
+0.00 0.00 0.00 setrgbcolor
+109.4 452.6 109.9 449.6 line
+0.00 0.00 0.00 setrgbcolor
+109.9 449.6 108.2 463.2 line
+0.00 0.00 0.00 setrgbcolor
+108.2 463.2 109.9 449.6 line
+0.00 0.00 0.00 setrgbcolor
+111.5 449.5 117.9 473.1 line
+0.00 0.00 0.00 setrgbcolor
+117.9 473.1 111.5 449.5 line
+0.00 0.00 0.00 setrgbcolor
+119.9 472.6 127.6 483.5 line
+0.00 0.00 0.00 setrgbcolor
+127.6 483.5 119.9 472.6 line
+0.00 0.00 0.00 setrgbcolor
+118.9 473.1 123.0 484.4 line
+0.00 0.00 0.00 setrgbcolor
+123.0 484.4 118.9 473.1 line
+0.00 0.00 0.00 setrgbcolor
+116.7 473.3 115.3 480.1 line
+0.00 0.00 0.00 setrgbcolor
+115.3 480.1 116.7 473.3 line
+0.00 0.00 0.00 setrgbcolor
+115.2 465.8 111.2 460.1 line
+0.00 0.00 0.00 setrgbcolor
+111.2 460.1 115.2 465.8 line
+0.00 0.00 0.00 setrgbcolor
+113.4 468.4 111.8 468.1 line
+0.00 0.00 0.00 setrgbcolor
+111.8 468.1 113.4 468.4 line
+0.00 0.00 0.00 setrgbcolor
+118.2 473.3 118.2 473.0 line
+0.00 0.00 0.00 setrgbcolor
+118.2 473.0 118.2 473.3 line
+0.00 0.00 0.00 setrgbcolor
+116.3 465.2 111.7 449.5 line
+0.00 0.00 0.00 setrgbcolor
+111.7 449.5 116.3 465.2 line
+0.00 0.00 0.00 setrgbcolor
+120.6 461.8 123.9 484.2 line
+0.00 0.00 0.00 setrgbcolor
+123.9 484.2 120.6 461.8 line
+0.00 0.00 0.00 setrgbcolor
+119.1 461.8 115.3 480.2 line
+0.00 0.00 0.00 setrgbcolor
+115.3 480.2 119.1 461.8 line
+0.00 0.00 0.00 setrgbcolor
+115.8 457.3 113.0 457.1 line
+0.00 0.00 0.00 setrgbcolor
+113.0 457.1 115.8 457.3 line
+0.00 0.00 0.00 setrgbcolor
+116.7 460.3 111.0 464.8 line
+0.00 0.00 0.00 setrgbcolor
+111.0 464.8 116.7 460.3 line
+0.00 0.00 0.00 setrgbcolor
+119.8 461.9 119.2 472.9 line
+0.00 0.00 0.00 setrgbcolor
+119.2 472.9 119.8 461.9 line
+0.00 0.00 0.00 setrgbcolor
+117.4 454.4 113.0 448.8 line
+0.00 0.00 0.00 setrgbcolor
+113.0 448.8 117.4 454.4 line
+0.00 0.00 0.00 setrgbcolor
+119.1 461.8 118.4 465.2 line
+0.00 0.00 0.00 setrgbcolor
+118.4 465.2 119.1 461.8 line
+0.00 0.00 0.00 setrgbcolor
+117.8 443.3 114.8 480.1 line
+0.00 0.00 0.00 setrgbcolor
+114.8 480.1 117.8 443.3 line
+0.00 0.00 0.00 setrgbcolor
+116.2 442.8 110.8 453.0 line
+0.00 0.00 0.00 setrgbcolor
+110.8 453.0 116.2 442.8 line
+0.00 0.00 0.00 setrgbcolor
+116.7 443.0 109.1 463.4 line
+0.00 0.00 0.00 setrgbcolor
+109.1 463.4 116.7 443.0 line
+0.00 0.00 0.00 setrgbcolor
+118.2 443.3 118.8 472.9 line
+0.00 0.00 0.00 setrgbcolor
+118.8 472.9 118.2 443.3 line
+0.00 0.00 0.00 setrgbcolor
+115.0 441.8 113.7 442.8 line
+0.00 0.00 0.00 setrgbcolor
+113.7 442.8 115.0 441.8 line
+0.00 0.00 0.00 setrgbcolor
+118.1 443.3 117.6 465.1 line
+0.00 0.00 0.00 setrgbcolor
+117.6 465.1 118.1 443.3 line
+0.00 0.00 0.00 setrgbcolor
+118.6 443.2 119.6 453.6 line
+0.00 0.00 0.00 setrgbcolor
+119.6 453.6 118.6 443.2 line
+0.00 0.00 0.00 setrgbcolor
+115.5 430.4 109.9 452.7 line
+0.00 0.00 0.00 setrgbcolor
+109.9 452.7 115.5 430.4 line
+0.00 0.00 0.00 setrgbcolor
+115.7 430.4 108.6 463.2 line
+0.00 0.00 0.00 setrgbcolor
+108.6 463.2 115.7 430.4 line
+0.00 0.00 0.00 setrgbcolor
+116.8 430.5 118.7 472.9 line
+0.00 0.00 0.00 setrgbcolor
+118.7 472.9 116.8 430.5 line
+0.00 0.00 0.00 setrgbcolor
+115.3 430.3 111.7 441.5 line
+0.00 0.00 0.00 setrgbcolor
+111.7 441.5 115.3 430.3 line
+0.00 0.00 0.00 setrgbcolor
+116.7 430.5 117.4 465.1 line
+0.00 0.00 0.00 setrgbcolor
+117.4 465.1 116.7 430.5 line
+0.00 0.00 0.00 setrgbcolor
+117.0 430.5 119.5 453.6 line
+0.00 0.00 0.00 setrgbcolor
+119.5 453.6 117.0 430.5 line
+0.00 0.00 0.00 setrgbcolor
+117.1 430.5 117.6 435.0 line
+0.00 0.00 0.00 setrgbcolor
+117.6 435.0 117.1 430.5 line
+0.00 0.00 0.00 setrgbcolor
+134.4 460.7 111.7 466.3 line
+0.00 0.00 0.00 setrgbcolor
+111.7 466.3 134.4 460.7 line
+0.00 0.00 0.00 setrgbcolor
+135.4 462.5 122.0 474.3 line
+0.00 0.00 0.00 setrgbcolor
+122.0 474.3 135.4 462.5 line
+0.00 0.00 0.00 setrgbcolor
+134.8 457.8 114.2 447.4 line
+0.00 0.00 0.00 setrgbcolor
+114.2 447.4 134.8 457.8 line
+0.00 0.00 0.00 setrgbcolor
+134.7 461.4 121.3 467.5 line
+0.00 0.00 0.00 setrgbcolor
+121.3 467.5 134.7 461.4 line
+0.00 0.00 0.00 setrgbcolor
+134.3 459.3 124.1 458.2 line
+0.00 0.00 0.00 setrgbcolor
+124.1 458.2 134.3 459.3 line
+0.00 0.00 0.00 setrgbcolor
+135.6 456.7 121.1 442.1 line
+0.00 0.00 0.00 setrgbcolor
+121.1 442.1 135.6 456.7 line
+0.00 0.00 0.00 setrgbcolor
+136.2 456.2 118.8 429.9 line
+0.00 0.00 0.00 setrgbcolor
+118.8 429.9 136.2 456.2 line
+0.00 0.00 0.00 setrgbcolor
+143.2 402.9 120.2 473.1 line
+0.00 0.00 0.00 setrgbcolor
+120.2 473.1 143.2 402.9 line
+0.00 0.00 0.00 setrgbcolor
+142.1 402.3 112.9 442.1 line
+0.00 0.00 0.00 setrgbcolor
+112.9 442.1 142.1 402.3 line
+0.00 0.00 0.00 setrgbcolor
+143.0 402.8 119.0 465.3 line
+0.00 0.00 0.00 setrgbcolor
+119.0 465.3 143.0 402.8 line
+0.00 0.00 0.00 setrgbcolor
+142.9 402.8 121.6 453.9 line
+0.00 0.00 0.00 setrgbcolor
+121.6 453.9 142.9 402.8 line
+0.00 0.00 0.00 setrgbcolor
+142.2 402.4 120.4 435.6 line
+0.00 0.00 0.00 setrgbcolor
+120.4 435.6 142.2 402.4 line
+0.00 0.00 0.00 setrgbcolor
+141.5 401.9 119.5 423.5 line
+0.00 0.00 0.00 setrgbcolor
+119.5 423.5 141.5 401.9 line
+0.00 0.00 0.00 setrgbcolor
+144.1 403.1 138.9 455.6 line
+0.00 0.00 0.00 setrgbcolor
+138.9 455.6 144.1 403.1 line
+0.00 0.00 0.00 setrgbcolor
+124.4 419.1 112.4 441.8 line
+0.00 0.00 0.00 setrgbcolor
+112.4 441.8 124.4 419.1 line
+0.00 0.00 0.00 setrgbcolor
+125.7 419.5 118.2 465.1 line
+0.00 0.00 0.00 setrgbcolor
+118.2 465.1 125.7 419.5 line
+0.00 0.00 0.00 setrgbcolor
+125.8 419.5 120.6 453.6 line
+0.00 0.00 0.00 setrgbcolor
+120.6 453.6 125.8 419.5 line
+0.00 0.00 0.00 setrgbcolor
+125.0 419.3 119.5 435.2 line
+0.00 0.00 0.00 setrgbcolor
+119.5 435.2 125.0 419.3 line
+0.00 0.00 0.00 setrgbcolor
+123.6 418.5 119.3 423.3 line
+0.00 0.00 0.00 setrgbcolor
+119.3 423.3 123.6 418.5 line
+0.00 0.00 0.00 setrgbcolor
+127.5 419.4 137.4 455.7 line
+0.00 0.00 0.00 setrgbcolor
+137.4 455.7 127.5 419.4 line
+0.00 0.00 0.00 setrgbcolor
+129.5 412.6 141.4 401.7 line
+0.00 0.00 0.00 setrgbcolor
+141.4 401.7 129.5 412.6 line
+0.00 0.00 0.00 setrgbcolor
+188.0 459.1 121.6 468.6 line
+0.00 0.00 0.00 setrgbcolor
+121.6 468.6 188.0 459.1 line
+0.00 0.00 0.00 setrgbcolor
+187.9 458.4 124.1 457.8 line
+0.00 0.00 0.00 setrgbcolor
+124.1 457.8 187.9 458.4 line
+0.00 0.00 0.00 setrgbcolor
+188.1 457.4 122.2 440.2 line
+0.00 0.00 0.00 setrgbcolor
+122.2 440.2 188.1 457.4 line
+0.00 0.00 0.00 setrgbcolor
+188.3 456.8 120.4 428.0 line
+0.00 0.00 0.00 setrgbcolor
+120.4 428.0 188.3 456.8 line
+0.00 0.00 0.00 setrgbcolor
+187.9 458.6 142.6 459.6 line
+0.00 0.00 0.00 setrgbcolor
+142.6 459.6 187.9 458.6 line
+0.00 0.00 0.00 setrgbcolor
+189.5 455.2 147.1 402.2 line
+0.00 0.00 0.00 setrgbcolor
+147.1 402.2 189.5 455.2 line
+0.00 0.00 0.00 setrgbcolor
+188.6 456.2 129.9 417.7 line
+0.00 0.00 0.00 setrgbcolor
+129.9 417.7 188.6 456.2 line
+0.00 0.00 0.00 setrgbcolor
+208.3 404.6 123.5 455.6 line
+0.00 0.00 0.00 setrgbcolor
+123.5 455.6 208.3 404.6 line
+0.00 0.00 0.00 setrgbcolor
+208.0 404.0 122.0 437.6 line
+0.00 0.00 0.00 setrgbcolor
+122.0 437.6 208.0 404.0 line
+0.00 0.00 0.00 setrgbcolor
+207.8 403.5 120.6 425.4 line
+0.00 0.00 0.00 setrgbcolor
+120.6 425.4 207.8 403.5 line
+0.00 0.00 0.00 setrgbcolor
+208.6 405.0 141.8 457.1 line
+0.00 0.00 0.00 setrgbcolor
+141.8 457.1 208.6 405.0 line
+0.00 0.00 0.00 setrgbcolor
+207.7 402.2 148.7 399.2 line
+0.00 0.00 0.00 setrgbcolor
+148.7 399.2 207.7 402.2 line
+0.00 0.00 0.00 setrgbcolor
+207.7 403.1 130.5 414.8 line
+0.00 0.00 0.00 setrgbcolor
+130.5 414.8 207.7 403.1 line
+0.00 0.00 0.00 setrgbcolor
+210.5 406.4 193.5 454.5 line
+0.00 0.00 0.00 setrgbcolor
+193.5 454.5 210.5 406.4 line
+0.00 0.00 0.00 setrgbcolor
+266.7 263.9 282.7 333.6 line
+0.00 0.00 0.00 setrgbcolor
+282.7 333.6 266.7 263.9 line
+0.00 0.00 0.00 setrgbcolor
+234.6 207.6 268.2 153.7 line
+0.00 0.00 0.00 setrgbcolor
+268.2 153.7 234.6 207.6 line
+0.00 0.00 0.00 setrgbcolor
+236.4 210.0 305.1 191.4 line
+0.00 0.00 0.00 setrgbcolor
+305.1 191.4 236.4 210.0 line
+0.00 0.00 0.00 setrgbcolor
+236.2 209.3 301.3 178.4 line
+0.00 0.00 0.00 setrgbcolor
+301.3 178.4 236.2 209.3 line
+0.00 0.00 0.00 setrgbcolor
+236.5 210.5 300.2 201.7 line
+0.00 0.00 0.00 setrgbcolor
+300.2 201.7 236.5 210.5 line
+0.00 0.00 0.00 setrgbcolor
+236.5 211.4 294.2 216.4 line
+0.00 0.00 0.00 setrgbcolor
+294.2 216.4 236.5 211.4 line
+0.00 0.00 0.00 setrgbcolor
+235.8 213.5 259.0 230.0 line
+0.00 0.00 0.00 setrgbcolor
+259.0 230.0 235.8 213.5 line
+0.00 0.00 0.00 setrgbcolor
+234.7 214.5 263.4 256.4 line
+0.00 0.00 0.00 setrgbcolor
+263.4 256.4 234.7 214.5 line
+0.00 0.00 0.00 setrgbcolor
+231.2 194.6 305.0 190.5 line
+0.00 0.00 0.00 setrgbcolor
+305.0 190.5 231.2 194.6 line
+0.00 0.00 0.00 setrgbcolor
+231.1 193.9 301.0 177.5 line
+0.00 0.00 0.00 setrgbcolor
+301.0 177.5 231.1 193.9 line
+0.00 0.00 0.00 setrgbcolor
+231.2 195.2 300.1 200.7 line
+0.00 0.00 0.00 setrgbcolor
+300.1 200.7 231.2 195.2 line
+0.00 0.00 0.00 setrgbcolor
+231.0 196.1 294.4 215.6 line
+0.00 0.00 0.00 setrgbcolor
+294.4 215.6 231.0 196.1 line
+0.00 0.00 0.00 setrgbcolor
+229.9 197.9 259.5 229.3 line
+0.00 0.00 0.00 setrgbcolor
+259.5 229.3 229.9 197.9 line
+0.00 0.00 0.00 setrgbcolor
+229.2 198.4 263.7 256.3 line
+0.00 0.00 0.00 setrgbcolor
+263.7 256.3 229.2 198.4 line
+0.00 0.00 0.00 setrgbcolor
+228.4 198.8 231.1 207.1 line
+0.00 0.00 0.00 setrgbcolor
+231.1 207.1 228.4 198.8 line
+0.00 0.00 0.00 setrgbcolor
+286.8 220.5 303.5 180.4 line
+0.00 0.00 0.00 setrgbcolor
+303.5 180.4 286.8 220.5 line
+0.00 0.00 0.00 setrgbcolor
+287.9 221.1 301.7 204.3 line
+0.00 0.00 0.00 setrgbcolor
+301.7 204.3 287.9 221.1 line
+0.00 0.00 0.00 setrgbcolor
+288.9 222.3 294.8 218.9 line
+0.00 0.00 0.00 setrgbcolor
+294.8 218.9 288.9 222.3 line
+0.00 0.00 0.00 setrgbcolor
+281.3 225.7 266.3 231.0 line
+0.00 0.00 0.00 setrgbcolor
+266.3 231.0 281.3 225.7 line
+0.00 0.00 0.00 setrgbcolor
+283.2 228.0 267.8 256.2 line
+0.00 0.00 0.00 setrgbcolor
+267.8 256.2 283.2 228.0 line
+0.00 0.00 0.00 setrgbcolor
+281.2 223.4 236.4 212.1 line
+0.00 0.00 0.00 setrgbcolor
+236.4 212.1 281.2 223.4 line
+0.00 0.00 0.00 setrgbcolor
+281.5 222.5 230.8 196.8 line
+0.00 0.00 0.00 setrgbcolor
+230.8 196.8 281.5 222.5 line
+0.00 0.00 0.00 setrgbcolor
+231.6 183.6 300.2 200.1 line
+0.00 0.00 0.00 setrgbcolor
+300.2 200.1 231.6 183.6 line
+0.00 0.00 0.00 setrgbcolor
+231.3 184.4 294.6 215.0 line
+0.00 0.00 0.00 setrgbcolor
+294.6 215.0 231.3 184.4 line
+0.00 0.00 0.00 setrgbcolor
+229.9 186.0 260.0 229.0 line
+0.00 0.00 0.00 setrgbcolor
+260.0 229.0 229.9 186.0 line
+0.00 0.00 0.00 setrgbcolor
+229.4 186.3 263.9 256.1 line
+0.00 0.00 0.00 setrgbcolor
+263.9 256.1 229.4 186.3 line
+0.00 0.00 0.00 setrgbcolor
+228.2 186.7 231.7 207.0 line
+0.00 0.00 0.00 setrgbcolor
+231.7 207.0 228.2 186.7 line
+0.00 0.00 0.00 setrgbcolor
+227.4 186.8 227.2 190.7 line
+0.00 0.00 0.00 setrgbcolor
+227.2 190.7 227.4 186.8 line
+0.00 0.00 0.00 setrgbcolor
+230.9 185.0 281.9 221.9 line
+0.00 0.00 0.00 setrgbcolor
+281.9 221.9 230.9 185.0 line
+0.00 0.00 0.00 setrgbcolor
+234.5 167.6 295.1 214.2 line
+0.00 0.00 0.00 setrgbcolor
+295.1 214.2 234.5 167.6 line
+0.00 0.00 0.00 setrgbcolor
+232.9 168.8 260.6 228.6 line
+0.00 0.00 0.00 setrgbcolor
+260.6 228.6 232.9 168.8 line
+0.00 0.00 0.00 setrgbcolor
+232.6 169.0 264.4 255.9 line
+0.00 0.00 0.00 setrgbcolor
+264.4 255.9 232.6 169.0 line
+0.00 0.00 0.00 setrgbcolor
+231.3 169.2 232.3 206.9 line
+0.00 0.00 0.00 setrgbcolor
+232.3 206.9 231.3 169.2 line
+0.00 0.00 0.00 setrgbcolor
+230.6 169.2 227.6 190.7 line
+0.00 0.00 0.00 setrgbcolor
+227.6 190.7 230.6 169.2 line
+0.00 0.00 0.00 setrgbcolor
+234.0 168.1 282.4 221.3 line
+0.00 0.00 0.00 setrgbcolor
+282.4 221.3 234.0 168.1 line
+0.00 0.00 0.00 setrgbcolor
+230.3 169.1 228.4 178.5 line
+0.00 0.00 0.00 setrgbcolor
+228.4 178.5 230.3 169.1 line
+0.00 0.00 0.00 setrgbcolor
+230.0 177.0 260.3 228.8 line
+0.00 0.00 0.00 setrgbcolor
+260.3 228.8 230.0 177.0 line
+0.00 0.00 0.00 setrgbcolor
+229.6 177.3 264.1 256.0 line
+0.00 0.00 0.00 setrgbcolor
+264.1 256.0 229.6 177.3 line
+0.00 0.00 0.00 setrgbcolor
+228.4 177.6 231.9 207.0 line
+0.00 0.00 0.00 setrgbcolor
+231.9 207.0 228.4 177.6 line
+0.00 0.00 0.00 setrgbcolor
+227.8 177.6 227.2 190.7 line
+0.00 0.00 0.00 setrgbcolor
+227.2 190.7 227.8 177.6 line
+0.00 0.00 0.00 setrgbcolor
+231.0 176.2 282.1 221.6 line
+0.00 0.00 0.00 setrgbcolor
+282.1 221.6 231.0 176.2 line
+0.00 0.00 0.00 setrgbcolor
+227.7 177.6 227.7 178.4 line
+0.00 0.00 0.00 setrgbcolor
+227.7 178.4 227.7 177.6 line
+0.00 0.00 0.00 setrgbcolor
+229.4 169.6 229.7 168.9 line
+0.00 0.00 0.00 setrgbcolor
+229.7 168.9 229.4 169.6 line
+0.00 0.00 0.00 setrgbcolor
+234.5 161.9 264.5 255.9 line
+0.00 0.00 0.00 setrgbcolor
+264.5 255.9 234.5 161.9 line
+0.00 0.00 0.00 setrgbcolor
+233.2 162.1 232.5 206.9 line
+0.00 0.00 0.00 setrgbcolor
+232.5 206.9 233.2 162.1 line
+0.00 0.00 0.00 setrgbcolor
+232.6 162.0 227.8 190.8 line
+0.00 0.00 0.00 setrgbcolor
+227.8 190.8 232.6 162.0 line
+0.00 0.00 0.00 setrgbcolor
+235.8 161.2 282.7 221.1 line
+0.00 0.00 0.00 setrgbcolor
+282.7 221.1 235.8 161.2 line
+0.00 0.00 0.00 setrgbcolor
+232.3 162.0 228.5 178.5 line
+0.00 0.00 0.00 setrgbcolor
+228.5 178.5 232.3 162.0 line
+0.00 0.00 0.00 setrgbcolor
+232.1 161.9 232.4 161.1 line
+0.00 0.00 0.00 setrgbcolor
+232.4 161.1 232.1 161.9 line
+0.00 0.00 0.00 setrgbcolor
+231.9 161.9 229.3 169.5 line
+0.00 0.00 0.00 setrgbcolor
+229.3 169.5 231.9 161.9 line
+0.00 0.00 0.00 setrgbcolor
+245.9 144.7 233.2 207.0 line
+0.00 0.00 0.00 setrgbcolor
+233.2 207.0 245.9 144.7 line
+0.00 0.00 0.00 setrgbcolor
+245.3 144.6 228.5 191.0 line
+0.00 0.00 0.00 setrgbcolor
+228.5 191.0 245.3 144.6 line
+0.00 0.00 0.00 setrgbcolor
+248.4 144.4 283.5 220.6 line
+0.00 0.00 0.00 setrgbcolor
+283.5 220.6 248.4 144.4 line
+0.00 0.00 0.00 setrgbcolor
+245.0 144.4 229.2 178.8 line
+0.00 0.00 0.00 setrgbcolor
+229.2 178.8 245.0 144.4 line
+0.00 0.00 0.00 setrgbcolor
+244.5 144.2 233.4 161.5 line
+0.00 0.00 0.00 setrgbcolor
+233.4 161.5 244.5 144.2 line
+0.00 0.00 0.00 setrgbcolor
+244.6 144.3 230.0 169.8 line
+0.00 0.00 0.00 setrgbcolor
+230.0 169.8 244.6 144.3 line
+0.00 0.00 0.00 setrgbcolor
+244.2 143.9 235.8 154.6 line
+0.00 0.00 0.00 setrgbcolor
+235.8 154.6 244.2 143.9 line
+0.00 0.00 0.00 setrgbcolor
+236.9 155.0 228.1 190.8 line
+0.00 0.00 0.00 setrgbcolor
+228.1 190.8 236.9 155.0 line
+0.00 0.00 0.00 setrgbcolor
+240.1 154.4 283.0 220.9 line
+0.00 0.00 0.00 setrgbcolor
+283.0 220.9 240.1 154.4 line
+0.00 0.00 0.00 setrgbcolor
+236.6 154.9 228.8 178.6 line
+0.00 0.00 0.00 setrgbcolor
+228.8 178.6 236.6 154.9 line
+0.00 0.00 0.00 setrgbcolor
+236.1 154.7 233.0 161.3 line
+0.00 0.00 0.00 setrgbcolor
+233.0 161.3 236.1 154.7 line
+0.00 0.00 0.00 setrgbcolor
+236.2 154.7 229.6 169.6 line
+0.00 0.00 0.00 setrgbcolor
+229.6 169.6 236.2 154.7 line
+0.00 0.00 0.00 setrgbcolor
+235.6 154.4 235.6 154.4 line
+0.00 0.00 0.00 setrgbcolor
+235.6 154.4 235.6 154.4 line
+0.00 0.00 0.00 setrgbcolor
+240.6 147.8 244.0 143.8 line
+0.00 0.00 0.00 setrgbcolor
+244.0 143.8 240.6 147.8 line
+0.00 0.00 0.00 setrgbcolor
+257.3 144.8 283.9 220.4 line
+0.00 0.00 0.00 setrgbcolor
+283.9 220.4 257.3 144.8 line
+0.00 0.00 0.00 setrgbcolor
+253.6 144.3 229.9 179.2 line
+0.00 0.00 0.00 setrgbcolor
+229.9 179.2 253.6 144.3 line
+0.00 0.00 0.00 setrgbcolor
+252.9 143.8 234.2 162.1 line
+0.00 0.00 0.00 setrgbcolor
+234.2 162.1 252.9 143.8 line
+0.00 0.00 0.00 setrgbcolor
+253.2 144.0 230.6 170.3 line
+0.00 0.00 0.00 setrgbcolor
+230.6 170.3 253.2 144.0 line
+0.00 0.00 0.00 setrgbcolor
+252.6 143.4 236.6 155.4 line
+0.00 0.00 0.00 setrgbcolor
+236.6 155.4 252.6 143.4 line
+0.00 0.00 0.00 setrgbcolor
+251.8 140.8 250.9 140.8 line
+0.00 0.00 0.00 setrgbcolor
+250.9 140.8 251.8 140.8 line
+0.00 0.00 0.00 setrgbcolor
+252.3 142.9 241.5 148.9 line
+0.00 0.00 0.00 setrgbcolor
+241.5 148.9 252.3 142.9 line
+0.00 0.00 0.00 setrgbcolor
+237.1 148.0 228.6 178.6 line
+0.00 0.00 0.00 setrgbcolor
+228.6 178.6 237.1 148.0 line
+0.00 0.00 0.00 setrgbcolor
+236.9 148.0 232.5 161.1 line
+0.00 0.00 0.00 setrgbcolor
+232.5 161.1 236.9 148.0 line
+0.00 0.00 0.00 setrgbcolor
+236.8 147.9 229.3 169.5 line
+0.00 0.00 0.00 setrgbcolor
+229.3 169.5 236.8 147.9 line
+0.00 0.00 0.00 setrgbcolor
+236.8 147.9 234.7 154.0 line
+0.00 0.00 0.00 setrgbcolor
+234.7 154.0 236.8 147.9 line
+0.00 0.00 0.00 setrgbcolor
+242.1 142.5 242.8 142.2 line
+0.00 0.00 0.00 setrgbcolor
+242.8 142.2 242.1 142.5 line
+0.00 0.00 0.00 setrgbcolor
+238.0 148.2 238.0 146.8 line
+0.00 0.00 0.00 setrgbcolor
+238.0 146.8 238.0 148.2 line
+0.00 0.00 0.00 setrgbcolor
+242.3 143.3 251.8 141.6 line
+0.00 0.00 0.00 setrgbcolor
+251.8 141.6 242.3 143.3 line
+0.00 0.00 0.00 setrgbcolor
+251.8 133.3 233.4 161.6 line
+0.00 0.00 0.00 setrgbcolor
+233.4 161.6 251.8 133.3 line
+0.00 0.00 0.00 setrgbcolor
+252.0 133.4 230.1 169.9 line
+0.00 0.00 0.00 setrgbcolor
+230.1 169.9 252.0 133.4 line
+0.00 0.00 0.00 setrgbcolor
+251.6 133.2 235.8 154.6 line
+0.00 0.00 0.00 setrgbcolor
+235.8 154.6 251.6 133.2 line
+0.00 0.00 0.00 setrgbcolor
+251.8 133.3 249.1 137.2 line
+0.00 0.00 0.00 setrgbcolor
+249.1 137.2 251.8 133.3 line
+0.00 0.00 0.00 setrgbcolor
+251.6 133.1 240.4 147.6 line
+0.00 0.00 0.00 setrgbcolor
+240.4 147.6 251.6 133.1 line
+0.00 0.00 0.00 setrgbcolor
+254.8 133.9 255.3 136.8 line
+0.00 0.00 0.00 setrgbcolor
+255.3 136.8 254.8 133.9 line
+0.00 0.00 0.00 setrgbcolor
+251.0 132.6 241.3 141.2 line
+0.00 0.00 0.00 setrgbcolor
+241.3 141.2 251.0 132.6 line
+0.00 0.00 0.00 setrgbcolor
+257.5 135.5 230.5 170.2 line
+0.00 0.00 0.00 setrgbcolor
+230.5 170.2 257.5 135.5 line
+0.00 0.00 0.00 setrgbcolor
+257.1 135.1 236.3 155.1 line
+0.00 0.00 0.00 setrgbcolor
+236.3 155.1 257.1 135.1 line
+0.00 0.00 0.00 setrgbcolor
+256.5 134.5 250.2 138.4 line
+0.00 0.00 0.00 setrgbcolor
+250.2 138.4 256.5 134.5 line
+0.00 0.00 0.00 setrgbcolor
+256.9 134.9 241.0 148.2 line
+0.00 0.00 0.00 setrgbcolor
+241.0 148.2 256.9 134.9 line
+0.00 0.00 0.00 setrgbcolor
+258.3 136.0 257.7 137.1 line
+0.00 0.00 0.00 setrgbcolor
+257.7 137.1 258.3 136.0 line
+0.00 0.00 0.00 setrgbcolor
+256.4 134.2 241.8 142.0 line
+0.00 0.00 0.00 setrgbcolor
+241.8 142.0 256.4 134.2 line
+0.00 0.00 0.00 setrgbcolor
+256.2 130.7 258.0 131.4 line
+0.00 0.00 0.00 setrgbcolor
+258.0 131.4 256.2 130.7 line
+0.00 0.00 0.00 setrgbcolor
+264.6 137.2 236.8 155.6 line
+0.00 0.00 0.00 setrgbcolor
+236.8 155.6 264.6 137.2 line
+0.00 0.00 0.00 setrgbcolor
+264.1 136.0 250.7 139.6 line
+0.00 0.00 0.00 setrgbcolor
+250.7 139.6 264.1 136.0 line
+0.00 0.00 0.00 setrgbcolor
+264.4 136.9 241.5 149.0 line
+0.00 0.00 0.00 setrgbcolor
+241.5 149.0 264.4 136.9 line
+0.00 0.00 0.00 setrgbcolor
+264.4 136.8 259.7 139.1 line
+0.00 0.00 0.00 setrgbcolor
+259.7 139.1 264.4 136.8 line
+0.00 0.00 0.00 setrgbcolor
+264.1 136.2 242.2 142.8 line
+0.00 0.00 0.00 setrgbcolor
+242.2 142.8 264.1 136.2 line
+0.00 0.00 0.00 setrgbcolor
+264.2 133.5 258.0 131.3 line
+0.00 0.00 0.00 setrgbcolor
+258.0 131.3 264.2 133.5 line
+0.00 0.00 0.00 setrgbcolor
+264.2 133.6 264.0 133.6 line
+0.00 0.00 0.00 setrgbcolor
+264.0 133.6 264.2 133.6 line
+0.00 0.00 0.00 setrgbcolor
+272.0 136.9 250.8 140.1 line
+0.00 0.00 0.00 setrgbcolor
+250.8 140.1 272.0 136.9 line
+0.00 0.00 0.00 setrgbcolor
+272.3 137.8 241.7 149.4 line
+0.00 0.00 0.00 setrgbcolor
+241.7 149.4 272.3 137.8 line
+0.00 0.00 0.00 setrgbcolor
+272.1 137.2 260.0 140.0 line
+0.00 0.00 0.00 setrgbcolor
+260.0 140.0 272.1 137.2 line
+0.00 0.00 0.00 setrgbcolor
+272.1 137.2 242.3 143.2 line
+0.00 0.00 0.00 setrgbcolor
+242.3 143.2 272.1 137.2 line
+0.00 0.00 0.00 setrgbcolor
+272.2 135.2 258.1 131.0 line
+0.00 0.00 0.00 setrgbcolor
+258.1 131.0 272.2 135.2 line
+0.00 0.00 0.00 setrgbcolor
+272.1 135.3 264.1 133.3 line
+0.00 0.00 0.00 setrgbcolor
+264.1 133.3 272.1 135.3 line
+0.00 0.00 0.00 setrgbcolor
+272.0 135.6 272.2 135.7 line
+0.00 0.00 0.00 setrgbcolor
+272.2 135.7 272.0 135.6 line
+0.00 0.00 0.00 setrgbcolor
+281.3 139.1 241.9 149.8 line
+0.00 0.00 0.00 setrgbcolor
+241.9 149.8 281.3 139.1 line
+0.00 0.00 0.00 setrgbcolor
+281.2 138.4 260.1 140.5 line
+0.00 0.00 0.00 setrgbcolor
+260.1 140.5 281.2 138.4 line
+0.00 0.00 0.00 setrgbcolor
+281.2 138.5 242.3 143.5 line
+0.00 0.00 0.00 setrgbcolor
+242.3 143.5 281.2 138.5 line
+0.00 0.00 0.00 setrgbcolor
+281.3 137.0 258.1 130.9 line
+0.00 0.00 0.00 setrgbcolor
+258.1 130.9 281.3 137.0 line
+0.00 0.00 0.00 setrgbcolor
+281.2 137.1 264.1 133.2 line
+0.00 0.00 0.00 setrgbcolor
+264.1 133.2 281.2 137.1 line
+0.00 0.00 0.00 setrgbcolor
+281.2 137.3 272.2 135.7 line
+0.00 0.00 0.00 setrgbcolor
+272.2 135.7 281.2 137.3 line
+0.00 0.00 0.00 setrgbcolor
+281.2 137.3 280.2 137.1 line
+0.00 0.00 0.00 setrgbcolor
+280.2 137.1 281.2 137.3 line
+0.00 0.00 0.00 setrgbcolor
+280.7 144.9 260.0 141.6 line
+0.00 0.00 0.00 setrgbcolor
+260.0 141.6 280.7 144.9 line
+0.00 0.00 0.00 setrgbcolor
+280.6 145.4 242.3 144.1 line
+0.00 0.00 0.00 setrgbcolor
+242.3 144.1 280.6 145.4 line
+0.00 0.00 0.00 setrgbcolor
+281.1 143.7 257.8 131.7 line
+0.00 0.00 0.00 setrgbcolor
+257.8 131.7 281.1 143.7 line
+0.00 0.00 0.00 setrgbcolor
+281.1 143.6 263.7 134.2 line
+0.00 0.00 0.00 setrgbcolor
+263.7 134.2 281.1 143.6 line
+0.00 0.00 0.00 setrgbcolor
+281.3 143.3 271.6 137.2 line
+0.00 0.00 0.00 setrgbcolor
+271.6 137.2 281.3 143.3 line
+0.00 0.00 0.00 setrgbcolor
+281.9 142.5 279.0 139.4 line
+0.00 0.00 0.00 setrgbcolor
+279.0 139.4 281.9 142.5 line
+0.00 0.00 0.00 setrgbcolor
+285.1 141.4 285.0 142.2 line
+0.00 0.00 0.00 setrgbcolor
+285.0 142.2 285.1 141.4 line
+0.00 0.00 0.00 setrgbcolor
+292.0 142.3 242.3 143.9 line
+0.00 0.00 0.00 setrgbcolor
+242.3 143.9 292.0 142.3 line
+0.00 0.00 0.00 setrgbcolor
+292.2 141.0 258.1 131.0 line
+0.00 0.00 0.00 setrgbcolor
+258.1 131.0 292.2 141.0 line
+0.00 0.00 0.00 setrgbcolor
+292.2 141.0 264.1 133.3 line
+0.00 0.00 0.00 setrgbcolor
+264.1 133.3 292.2 141.0 line
+0.00 0.00 0.00 setrgbcolor
+292.1 141.1 272.1 136.0 line
+0.00 0.00 0.00 setrgbcolor
+272.1 136.0 292.1 141.1 line
+0.00 0.00 0.00 setrgbcolor
+292.2 141.0 280.1 137.5 line
+0.00 0.00 0.00 setrgbcolor
+280.1 137.5 292.2 141.0 line
+0.00 0.00 0.00 setrgbcolor
+292.3 140.7 289.2 139.5 line
+0.00 0.00 0.00 setrgbcolor
+289.2 139.5 292.3 140.7 line
+0.00 0.00 0.00 setrgbcolor
+292.2 143.3 288.8 144.4 line
+0.00 0.00 0.00 setrgbcolor
+288.8 144.4 292.2 143.3 line
+0.00 0.00 0.00 setrgbcolor
+297.3 148.8 257.9 131.5 line
+0.00 0.00 0.00 setrgbcolor
+257.9 131.5 297.3 148.8 line
+0.00 0.00 0.00 setrgbcolor
+297.4 148.8 263.9 133.9 line
+0.00 0.00 0.00 setrgbcolor
+263.9 133.9 297.4 148.8 line
+0.00 0.00 0.00 setrgbcolor
+297.4 148.7 271.9 136.7 line
+0.00 0.00 0.00 setrgbcolor
+271.9 136.7 297.4 148.7 line
+0.00 0.00 0.00 setrgbcolor
+297.5 148.4 279.8 138.4 line
+0.00 0.00 0.00 setrgbcolor
+279.8 138.4 297.5 148.4 line
+0.00 0.00 0.00 setrgbcolor
+297.9 147.9 288.6 140.6 line
+0.00 0.00 0.00 setrgbcolor
+288.6 140.6 297.9 147.9 line
+0.00 0.00 0.00 setrgbcolor
+297.2 149.3 288.8 146.7 line
+0.00 0.00 0.00 setrgbcolor
+288.8 146.7 297.2 149.3 line
+0.00 0.00 0.00 setrgbcolor
+299.0 146.9 298.3 145.7 line
+0.00 0.00 0.00 setrgbcolor
+298.3 145.7 299.0 146.9 line
+0.00 0.00 0.00 setrgbcolor
+302.8 160.2 263.5 134.5 line
+0.00 0.00 0.00 setrgbcolor
+263.5 134.5 302.8 160.2 line
+0.00 0.00 0.00 setrgbcolor
+302.9 160.1 271.5 137.4 line
+0.00 0.00 0.00 setrgbcolor
+271.5 137.4 302.9 160.1 line
+0.00 0.00 0.00 setrgbcolor
+303.2 159.8 279.3 139.1 line
+0.00 0.00 0.00 setrgbcolor
+279.3 139.1 303.2 159.8 line
+0.00 0.00 0.00 setrgbcolor
+303.6 159.4 288.0 141.2 line
+0.00 0.00 0.00 setrgbcolor
+288.0 141.2 303.6 159.4 line
+0.00 0.00 0.00 setrgbcolor
+303.0 160.0 288.0 148.1 line
+0.00 0.00 0.00 setrgbcolor
+288.0 148.1 303.0 160.0 line
+0.00 0.00 0.00 setrgbcolor
+304.4 158.8 298.0 145.9 line
+0.00 0.00 0.00 setrgbcolor
+298.0 145.9 304.4 158.8 line
+0.00 0.00 0.00 setrgbcolor
+304.7 158.7 302.8 154.3 line
+0.00 0.00 0.00 setrgbcolor
+302.8 154.3 304.7 158.7 line
+0.00 0.00 0.00 setrgbcolor
+290.8 158.7 271.0 138.0 line
+0.00 0.00 0.00 setrgbcolor
+271.0 138.0 290.8 158.7 line
+0.00 0.00 0.00 setrgbcolor
+291.4 158.3 278.5 139.8 line
+0.00 0.00 0.00 setrgbcolor
+278.5 139.8 291.4 158.3 line
+0.00 0.00 0.00 setrgbcolor
+292.3 157.8 286.7 141.9 line
+0.00 0.00 0.00 setrgbcolor
+286.7 141.9 292.3 157.8 line
+0.00 0.00 0.00 setrgbcolor
+291.7 158.1 286.8 149.2 line
+0.00 0.00 0.00 setrgbcolor
+286.8 149.2 291.7 158.1 line
+0.00 0.00 0.00 setrgbcolor
+294.2 157.6 295.7 146.3 line
+0.00 0.00 0.00 setrgbcolor
+295.7 146.3 294.2 157.6 line
+0.00 0.00 0.00 setrgbcolor
+296.0 158.2 298.9 154.0 line
+0.00 0.00 0.00 setrgbcolor
+298.9 154.0 296.0 158.2 line
+0.00 0.00 0.00 setrgbcolor
+297.9 162.0 302.1 162.3 line
+0.00 0.00 0.00 setrgbcolor
+302.1 162.3 297.9 162.0 line
+0.00 0.00 0.00 setrgbcolor
+272.0 146.3 274.5 140.2 line
+0.00 0.00 0.00 setrgbcolor
+274.5 140.2 272.0 146.3 line
+0.00 0.00 0.00 setrgbcolor
+273.6 147.5 282.1 140.6 line
+0.00 0.00 0.00 setrgbcolor
+282.1 140.6 273.6 147.5 line
+0.00 0.00 0.00 setrgbcolor
+274.3 148.9 280.8 146.8 line
+0.00 0.00 0.00 setrgbcolor
+280.8 146.8 274.3 148.9 line
+0.00 0.00 0.00 setrgbcolor
+274.3 148.9 292.2 143.4 line
+0.00 0.00 0.00 setrgbcolor
+292.2 143.4 274.3 148.9 line
+0.00 0.00 0.00 setrgbcolor
+274.5 150.2 297.0 150.4 line
+0.00 0.00 0.00 setrgbcolor
+297.0 150.4 274.5 150.2 line
+0.00 0.00 0.00 setrgbcolor
+274.3 151.5 302.4 161.2 line
+0.00 0.00 0.00 setrgbcolor
+302.4 161.2 274.3 151.5 line
+0.00 0.00 0.00 setrgbcolor
+274.1 152.0 290.0 159.9 line
+0.00 0.00 0.00 setrgbcolor
+290.0 159.9 274.1 152.0 line
+0.00 0.00 0.00 setrgbcolor
+307.4 186.5 287.0 141.8 line
+0.00 0.00 0.00 setrgbcolor
+287.0 141.8 307.4 186.5 line
+0.00 0.00 0.00 setrgbcolor
+307.2 186.6 286.8 149.2 line
+0.00 0.00 0.00 setrgbcolor
+286.8 149.2 307.2 186.6 line
+0.00 0.00 0.00 setrgbcolor
+308.1 186.3 297.3 146.1 line
+0.00 0.00 0.00 setrgbcolor
+297.3 146.1 308.1 186.3 line
+0.00 0.00 0.00 setrgbcolor
+308.3 186.2 302.0 154.6 line
+0.00 0.00 0.00 setrgbcolor
+302.0 154.6 308.3 186.2 line
+0.00 0.00 0.00 setrgbcolor
+308.7 186.1 306.7 166.7 line
+0.00 0.00 0.00 setrgbcolor
+306.7 166.7 308.7 186.1 line
+0.00 0.00 0.00 setrgbcolor
+307.2 186.6 295.7 165.4 line
+0.00 0.00 0.00 setrgbcolor
+295.7 165.4 307.2 186.6 line
+0.00 0.00 0.00 setrgbcolor
+306.3 187.3 273.3 153.1 line
+0.00 0.00 0.00 setrgbcolor
+273.3 153.1 306.3 187.3 line
+0.00 0.00 0.00 setrgbcolor
+302.8 173.1 287.0 149.0 line
+0.00 0.00 0.00 setrgbcolor
+287.0 149.0 302.8 173.1 line
+0.00 0.00 0.00 setrgbcolor
+304.1 172.6 297.2 146.2 line
+0.00 0.00 0.00 setrgbcolor
+297.2 146.2 304.1 172.6 line
+0.00 0.00 0.00 setrgbcolor
+304.5 172.5 301.8 154.6 line
+0.00 0.00 0.00 setrgbcolor
+301.8 154.6 304.5 172.5 line
+0.00 0.00 0.00 setrgbcolor
+305.4 172.4 305.9 166.7 line
+0.00 0.00 0.00 setrgbcolor
+305.9 166.7 305.4 172.4 line
+0.00 0.00 0.00 setrgbcolor
+302.6 173.3 296.3 165.0 line
+0.00 0.00 0.00 setrgbcolor
+296.3 165.0 302.6 173.3 line
+0.00 0.00 0.00 setrgbcolor
+301.8 174.1 273.7 152.7 line
+0.00 0.00 0.00 setrgbcolor
+273.7 152.7 301.8 174.1 line
+0.00 0.00 0.00 setrgbcolor
+306.3 180.6 308.0 186.3 line
+0.00 0.00 0.00 setrgbcolor
+308.0 186.3 306.3 180.6 line
+0.00 0.00 0.00 setrgbcolor
+303.7 197.0 296.7 146.2 line
+0.00 0.00 0.00 setrgbcolor
+296.7 146.2 303.7 197.0 line
+0.00 0.00 0.00 setrgbcolor
+304.0 196.9 301.4 154.6 line
+0.00 0.00 0.00 setrgbcolor
+301.4 154.6 304.0 196.9 line
+0.00 0.00 0.00 setrgbcolor
+304.5 196.9 306.1 166.7 line
+0.00 0.00 0.00 setrgbcolor
+306.1 166.7 304.5 196.9 line
+0.00 0.00 0.00 setrgbcolor
+303.2 197.1 294.8 165.7 line
+0.00 0.00 0.00 setrgbcolor
+294.8 165.7 303.2 197.1 line
+0.00 0.00 0.00 setrgbcolor
+302.0 197.6 272.7 153.6 line
+0.00 0.00 0.00 setrgbcolor
+272.7 153.6 302.0 197.6 line
+0.00 0.00 0.00 setrgbcolor
+306.0 197.3 307.5 194.1 line
+0.00 0.00 0.00 setrgbcolor
+307.5 194.1 306.0 197.3 line
+0.00 0.00 0.00 setrgbcolor
+304.4 196.9 305.0 180.8 line
+0.00 0.00 0.00 setrgbcolor
+305.0 180.8 304.4 196.9 line
+0.00 0.00 0.00 setrgbcolor
+298.6 212.6 301.0 154.6 line
+0.00 0.00 0.00 setrgbcolor
+301.0 154.6 298.6 212.6 line
+0.00 0.00 0.00 setrgbcolor
+299.0 212.7 305.7 166.6 line
+0.00 0.00 0.00 setrgbcolor
+305.7 166.6 299.0 212.7 line
+0.00 0.00 0.00 setrgbcolor
+298.0 212.6 294.1 165.9 line
+0.00 0.00 0.00 setrgbcolor
+294.1 165.9 298.0 212.6 line
+0.00 0.00 0.00 setrgbcolor
+296.8 212.9 272.0 154.0 line
+0.00 0.00 0.00 setrgbcolor
+272.0 154.0 296.8 212.9 line
+0.00 0.00 0.00 setrgbcolor
+299.9 212.9 307.6 194.1 line
+0.00 0.00 0.00 setrgbcolor
+307.6 194.1 299.9 212.9 line
+0.00 0.00 0.00 setrgbcolor
+299.1 212.7 304.4 180.7 line
+0.00 0.00 0.00 setrgbcolor
+304.4 180.7 299.1 212.7 line
+0.00 0.00 0.00 setrgbcolor
+299.8 212.9 302.8 205.0 line
+0.00 0.00 0.00 setrgbcolor
+302.8 205.0 299.8 212.9 line
+0.00 0.00 0.00 setrgbcolor
+264.6 228.8 304.1 166.1 line
+0.00 0.00 0.00 setrgbcolor
+304.1 166.1 264.6 228.8 line
+0.00 0.00 0.00 setrgbcolor
+264.1 228.6 292.0 165.5 line
+0.00 0.00 0.00 setrgbcolor
+292.0 165.5 264.1 228.6 line
+0.00 0.00 0.00 setrgbcolor
+262.8 228.2 270.0 154.3 line
+0.00 0.00 0.00 setrgbcolor
+270.0 154.3 262.8 228.2 line
+0.00 0.00 0.00 setrgbcolor
+265.5 229.6 306.1 193.1 line
+0.00 0.00 0.00 setrgbcolor
+306.1 193.1 265.5 229.6 line
+0.00 0.00 0.00 setrgbcolor
+264.9 229.1 302.6 179.9 line
+0.00 0.00 0.00 setrgbcolor
+302.6 179.9 264.9 229.1 line
+0.00 0.00 0.00 setrgbcolor
+265.7 229.9 301.0 203.6 line
+0.00 0.00 0.00 setrgbcolor
+301.0 203.6 265.7 229.9 line
+0.00 0.00 0.00 setrgbcolor
+266.2 230.7 294.6 218.4 line
+0.00 0.00 0.00 setrgbcolor
+294.6 218.4 266.2 230.7 line
+0.00 0.00 0.00 setrgbcolor
+266.9 255.8 292.6 165.7 line
+0.00 0.00 0.00 setrgbcolor
+292.6 165.7 266.9 255.8 line
+0.00 0.00 0.00 setrgbcolor
+266.0 255.7 270.2 154.3 line
+0.00 0.00 0.00 setrgbcolor
+270.2 154.3 266.0 255.7 line
+0.00 0.00 0.00 setrgbcolor
+268.0 256.3 307.0 193.8 line
+0.00 0.00 0.00 setrgbcolor
+307.0 193.8 268.0 256.3 line
+0.00 0.00 0.00 setrgbcolor
+267.6 256.1 303.3 180.4 line
+0.00 0.00 0.00 setrgbcolor
+303.3 180.4 267.6 256.1 line
+0.00 0.00 0.00 setrgbcolor
+268.1 256.4 302.0 204.6 line
+0.00 0.00 0.00 setrgbcolor
+302.0 204.6 268.1 256.4 line
+0.00 0.00 0.00 setrgbcolor
+268.3 256.5 295.9 220.1 line
+0.00 0.00 0.00 setrgbcolor
+295.9 220.1 268.3 256.5 line
+0.00 0.00 0.00 setrgbcolor
+265.3 255.7 262.9 236.5 line
+0.00 0.00 0.00 setrgbcolor
+262.9 236.5 265.3 255.7 line
+0.00 0.00 0.00 setrgbcolor
+302.8 436.4 284.4 341.8 line
+0.00 0.00 0.00 setrgbcolor
+284.4 341.8 302.8 436.4 line
+0.00 0.00 0.00 setrgbcolor
+284.1 493.8 314.6 497.2 line
+0.00 0.00 0.00 setrgbcolor
+314.6 497.2 284.1 493.8 line
+0.00 0.00 0.00 setrgbcolor
+284.0 492.7 313.8 488.0 line
+0.00 0.00 0.00 setrgbcolor
+313.8 488.0 284.0 492.7 line
+0.00 0.00 0.00 setrgbcolor
+283.2 490.8 305.2 473.2 line
+0.00 0.00 0.00 setrgbcolor
+305.2 473.2 283.2 490.8 line
+0.00 0.00 0.00 setrgbcolor
+283.7 491.7 310.5 479.7 line
+0.00 0.00 0.00 setrgbcolor
+310.5 479.7 283.7 491.7 line
+0.00 0.00 0.00 setrgbcolor
+282.2 489.8 297.3 465.8 line
+0.00 0.00 0.00 setrgbcolor
+297.3 465.8 282.2 489.8 line
+0.00 0.00 0.00 setrgbcolor
+282.9 496.3 297.7 510.9 line
+0.00 0.00 0.00 setrgbcolor
+297.7 510.9 282.9 496.3 line
+0.00 0.00 0.00 setrgbcolor
+281.6 489.6 301.9 444.3 line
+0.00 0.00 0.00 setrgbcolor
+301.9 444.3 281.6 489.6 line
+0.00 0.00 0.00 setrgbcolor
+244.1 497.5 313.8 487.9 line
+0.00 0.00 0.00 setrgbcolor
+313.8 487.9 244.1 497.5 line
+0.00 0.00 0.00 setrgbcolor
+243.8 496.6 304.6 472.2 line
+0.00 0.00 0.00 setrgbcolor
+304.6 472.2 243.8 496.6 line
+0.00 0.00 0.00 setrgbcolor
+244.0 497.0 310.3 479.1 line
+0.00 0.00 0.00 setrgbcolor
+310.3 479.1 244.0 497.0 line
+0.00 0.00 0.00 setrgbcolor
+243.5 496.0 296.0 464.4 line
+0.00 0.00 0.00 setrgbcolor
+296.0 464.4 243.5 496.0 line
+0.00 0.00 0.00 setrgbcolor
+244.0 499.2 296.6 512.8 line
+0.00 0.00 0.00 setrgbcolor
+296.6 512.8 244.0 499.2 line
+0.00 0.00 0.00 setrgbcolor
+243.1 495.3 300.5 443.3 line
+0.00 0.00 0.00 setrgbcolor
+300.5 443.3 243.1 495.3 line
+0.00 0.00 0.00 setrgbcolor
+244.1 497.6 275.8 493.8 line
+0.00 0.00 0.00 setrgbcolor
+275.8 493.8 244.1 497.6 line
+0.00 0.00 0.00 setrgbcolor
+250.2 485.3 304.5 471.6 line
+0.00 0.00 0.00 setrgbcolor
+304.5 471.6 250.2 485.3 line
+0.00 0.00 0.00 setrgbcolor
+250.3 485.8 310.1 478.5 line
+0.00 0.00 0.00 setrgbcolor
+310.1 478.5 250.3 485.8 line
+0.00 0.00 0.00 setrgbcolor
+250.0 484.6 295.8 464.0 line
+0.00 0.00 0.00 setrgbcolor
+295.8 464.0 250.0 484.6 line
+0.00 0.00 0.00 setrgbcolor
+249.9 488.2 296.9 511.9 line
+0.00 0.00 0.00 setrgbcolor
+296.9 511.9 249.9 488.2 line
+0.00 0.00 0.00 setrgbcolor
+249.4 483.7 300.4 443.1 line
+0.00 0.00 0.00 setrgbcolor
+300.4 443.1 249.4 483.7 line
+0.00 0.00 0.00 setrgbcolor
+250.2 487.2 275.9 492.5 line
+0.00 0.00 0.00 setrgbcolor
+275.9 492.5 250.2 487.2 line
+0.00 0.00 0.00 setrgbcolor
+244.2 490.0 241.9 494.4 line
+0.00 0.00 0.00 setrgbcolor
+241.9 494.4 244.2 490.0 line
+0.00 0.00 0.00 setrgbcolor
+246.4 506.4 310.4 479.6 line
+0.00 0.00 0.00 setrgbcolor
+310.4 479.6 246.4 506.4 line
+0.00 0.00 0.00 setrgbcolor
+245.8 505.4 296.3 464.9 line
+0.00 0.00 0.00 setrgbcolor
+296.3 464.9 245.8 505.4 line
+0.00 0.00 0.00 setrgbcolor
+246.7 508.4 296.5 513.4 line
+0.00 0.00 0.00 setrgbcolor
+296.5 513.4 246.7 508.4 line
+0.00 0.00 0.00 setrgbcolor
+245.4 504.9 300.8 443.6 line
+0.00 0.00 0.00 setrgbcolor
+300.8 443.6 245.4 504.9 line
+0.00 0.00 0.00 setrgbcolor
+246.5 506.5 276.1 494.9 line
+0.00 0.00 0.00 setrgbcolor
+276.1 494.9 246.5 506.5 line
+0.00 0.00 0.00 setrgbcolor
+241.5 504.0 241.0 502.1 line
+0.00 0.00 0.00 setrgbcolor
+241.0 502.1 241.5 504.0 line
+0.00 0.00 0.00 setrgbcolor
+243.3 503.9 245.5 490.4 line
+0.00 0.00 0.00 setrgbcolor
+245.5 490.4 243.3 503.9 line
+0.00 0.00 0.00 setrgbcolor
+280.7 524.4 298.4 466.3 line
+0.00 0.00 0.00 setrgbcolor
+298.4 466.3 280.7 524.4 line
+0.00 0.00 0.00 setrgbcolor
+282.9 526.1 297.2 516.2 line
+0.00 0.00 0.00 setrgbcolor
+297.2 516.2 282.9 526.1 line
+0.00 0.00 0.00 setrgbcolor
+280.6 524.4 302.5 444.5 line
+0.00 0.00 0.00 setrgbcolor
+302.5 444.5 280.6 524.4 line
+0.00 0.00 0.00 setrgbcolor
+279.5 524.3 279.9 497.5 line
+0.00 0.00 0.00 setrgbcolor
+279.9 497.5 279.5 524.3 line
+0.00 0.00 0.00 setrgbcolor
+276.2 525.9 243.3 500.6 line
+0.00 0.00 0.00 setrgbcolor
+243.3 500.6 276.2 525.9 line
+0.00 0.00 0.00 setrgbcolor
+276.9 525.2 248.7 489.6 line
+0.00 0.00 0.00 setrgbcolor
+248.7 489.6 276.9 525.2 line
+0.00 0.00 0.00 setrgbcolor
+275.8 526.4 246.2 510.0 line
+0.00 0.00 0.00 setrgbcolor
+246.2 510.0 275.8 526.4 line
+0.00 0.00 0.00 setrgbcolor
+251.9 516.2 296.5 514.0 line
+0.00 0.00 0.00 setrgbcolor
+296.5 514.0 251.9 516.2 line
+0.00 0.00 0.00 setrgbcolor
+250.2 513.1 301.2 443.9 line
+0.00 0.00 0.00 setrgbcolor
+301.2 443.9 250.2 513.1 line
+0.00 0.00 0.00 setrgbcolor
+251.1 514.0 276.6 495.8 line
+0.00 0.00 0.00 setrgbcolor
+276.6 495.8 251.1 514.0 line
+0.00 0.00 0.00 setrgbcolor
+246.1 512.6 241.6 501.9 line
+0.00 0.00 0.00 setrgbcolor
+241.6 501.9 246.1 512.6 line
+0.00 0.00 0.00 setrgbcolor
+247.5 512.3 246.4 490.5 line
+0.00 0.00 0.00 setrgbcolor
+246.4 490.5 247.5 512.3 line
+0.00 0.00 0.00 setrgbcolor
+245.5 512.9 244.7 511.6 line
+0.00 0.00 0.00 setrgbcolor
+244.7 511.6 245.5 512.9 line
+0.00 0.00 0.00 setrgbcolor
+251.6 517.9 275.6 527.0 line
+0.00 0.00 0.00 setrgbcolor
+275.6 527.0 251.6 517.9 line
+0.00 0.00 0.00 setrgbcolor
+261.3 519.6 301.7 444.2 line
+0.00 0.00 0.00 setrgbcolor
+301.7 444.2 261.3 519.6 line
+0.00 0.00 0.00 setrgbcolor
+261.6 519.9 277.6 496.8 line
+0.00 0.00 0.00 setrgbcolor
+277.6 496.8 261.6 519.9 line
+0.00 0.00 0.00 setrgbcolor
+256.8 520.0 242.5 501.4 line
+0.00 0.00 0.00 setrgbcolor
+242.5 501.4 256.8 520.0 line
+0.00 0.00 0.00 setrgbcolor
+257.9 519.4 247.5 490.2 line
+0.00 0.00 0.00 setrgbcolor
+247.5 490.2 257.9 519.4 line
+0.00 0.00 0.00 setrgbcolor
+256.2 520.5 245.7 510.8 line
+0.00 0.00 0.00 setrgbcolor
+245.7 510.8 256.2 520.5 line
+0.00 0.00 0.00 setrgbcolor
+263.3 524.3 275.4 527.4 line
+0.00 0.00 0.00 setrgbcolor
+275.4 527.4 263.3 524.3 line
+0.00 0.00 0.00 setrgbcolor
+255.7 521.2 251.3 518.5 line
+0.00 0.00 0.00 setrgbcolor
+251.3 518.5 255.7 521.2 line
+0.00 0.00 0.00 setrgbcolor
+249.2 526.0 277.1 496.4 line
+0.00 0.00 0.00 setrgbcolor
+277.1 496.4 249.2 526.0 line
+0.00 0.00 0.00 setrgbcolor
+245.5 525.0 240.8 502.2 line
+0.00 0.00 0.00 setrgbcolor
+240.8 502.2 245.5 525.0 line
+0.00 0.00 0.00 setrgbcolor
+246.3 524.9 246.2 490.5 line
+0.00 0.00 0.00 setrgbcolor
+246.2 490.5 246.3 524.9 line
+0.00 0.00 0.00 setrgbcolor
+245.6 525.0 243.3 512.1 line
+0.00 0.00 0.00 setrgbcolor
+243.3 512.1 245.6 525.0 line
+0.00 0.00 0.00 setrgbcolor
+250.5 529.0 275.3 528.5 line
+0.00 0.00 0.00 setrgbcolor
+275.3 528.5 250.5 529.0 line
+0.00 0.00 0.00 setrgbcolor
+246.8 524.9 247.3 520.6 line
+0.00 0.00 0.00 setrgbcolor
+247.3 520.6 246.8 524.9 line
+0.00 0.00 0.00 setrgbcolor
+250.2 527.4 255.5 525.0 line
+0.00 0.00 0.00 setrgbcolor
+255.5 525.0 250.2 527.4 line
+0.00 0.00 0.00 setrgbcolor
+254.0 532.9 241.5 502.0 line
+0.00 0.00 0.00 setrgbcolor
+241.5 502.0 254.0 532.9 line
+0.00 0.00 0.00 setrgbcolor
+254.8 532.7 246.9 490.4 line
+0.00 0.00 0.00 setrgbcolor
+246.9 490.4 254.8 532.7 line
+0.00 0.00 0.00 setrgbcolor
+253.8 533.0 244.3 511.8 line
+0.00 0.00 0.00 setrgbcolor
+244.3 511.8 253.8 533.0 line
+0.00 0.00 0.00 setrgbcolor
+259.4 535.4 275.5 529.8 line
+0.00 0.00 0.00 setrgbcolor
+275.5 529.8 259.4 535.4 line
+0.00 0.00 0.00 setrgbcolor
+254.0 532.9 249.2 520.3 line
+0.00 0.00 0.00 setrgbcolor
+249.2 520.3 254.0 532.9 line
+0.00 0.00 0.00 setrgbcolor
+256.6 532.8 258.2 527.3 line
+0.00 0.00 0.00 setrgbcolor
+258.2 527.3 256.6 532.8 line
+0.00 0.00 0.00 setrgbcolor
+252.3 534.1 249.5 531.7 line
+0.00 0.00 0.00 setrgbcolor
+249.5 531.7 252.3 534.1 line
+0.00 0.00 0.00 setrgbcolor
+264.7 529.2 247.8 490.1 line
+0.00 0.00 0.00 setrgbcolor
+247.8 490.1 264.7 529.2 line
+0.00 0.00 0.00 setrgbcolor
+263.5 530.0 245.4 511.0 line
+0.00 0.00 0.00 setrgbcolor
+245.4 511.0 263.5 530.0 line
+0.00 0.00 0.00 setrgbcolor
+270.3 531.6 275.5 529.8 line
+0.00 0.00 0.00 setrgbcolor
+275.5 529.8 270.3 531.6 line
+0.00 0.00 0.00 setrgbcolor
+263.2 530.2 250.8 519.2 line
+0.00 0.00 0.00 setrgbcolor
+250.8 519.2 263.2 530.2 line
+0.00 0.00 0.00 setrgbcolor
+263.9 529.6 261.7 526.6 line
+0.00 0.00 0.00 setrgbcolor
+261.7 526.6 263.9 529.6 line
+0.00 0.00 0.00 setrgbcolor
+262.2 532.2 250.5 529.9 line
+0.00 0.00 0.00 setrgbcolor
+250.5 529.9 262.2 532.2 line
+0.00 0.00 0.00 setrgbcolor
+262.4 534.4 259.4 535.4 line
+0.00 0.00 0.00 setrgbcolor
+259.4 535.4 262.4 534.4 line
+0.00 0.00 0.00 setrgbcolor
+265.5 537.3 245.1 511.3 line
+0.00 0.00 0.00 setrgbcolor
+245.1 511.3 265.5 537.3 line
+0.00 0.00 0.00 setrgbcolor
+270.9 537.6 276.6 531.5 line
+0.00 0.00 0.00 setrgbcolor
+276.6 531.5 270.9 537.6 line
+0.00 0.00 0.00 setrgbcolor
+265.4 537.4 250.4 519.6 line
+0.00 0.00 0.00 setrgbcolor
+250.4 519.6 265.4 537.4 line
+0.00 0.00 0.00 setrgbcolor
+266.2 536.9 261.2 527.0 line
+0.00 0.00 0.00 setrgbcolor
+261.2 527.0 266.2 536.9 line
+0.00 0.00 0.00 setrgbcolor
+264.4 538.6 250.0 531.0 line
+0.00 0.00 0.00 setrgbcolor
+250.0 531.0 264.4 538.6 line
+0.00 0.00 0.00 setrgbcolor
+264.1 539.4 259.5 538.0 line
+0.00 0.00 0.00 setrgbcolor
+259.5 538.0 264.1 539.4 line
+0.00 0.00 0.00 setrgbcolor
+267.2 536.5 267.3 537.0 line
+0.00 0.00 0.00 setrgbcolor
+267.3 537.0 267.2 536.5 line
+0.00 0.00 0.00 setrgbcolor
+276.6 543.6 278.7 532.5 line
+0.00 0.00 0.00 setrgbcolor
+278.7 532.5 276.6 543.6 line
+0.00 0.00 0.00 setrgbcolor
+273.0 544.6 250.5 519.5 line
+0.00 0.00 0.00 setrgbcolor
+250.5 519.5 273.0 544.6 line
+0.00 0.00 0.00 setrgbcolor
+273.4 544.2 261.6 526.7 line
+0.00 0.00 0.00 setrgbcolor
+261.6 526.7 273.4 544.2 line
+0.00 0.00 0.00 setrgbcolor
+272.3 545.4 249.9 531.3 line
+0.00 0.00 0.00 setrgbcolor
+249.9 531.3 272.3 545.4 line
+0.00 0.00 0.00 setrgbcolor
+272.1 545.7 259.2 538.8 line
+0.00 0.00 0.00 setrgbcolor
+259.2 538.8 272.1 545.7 line
+0.00 0.00 0.00 setrgbcolor
+273.5 544.2 268.6 536.5 line
+0.00 0.00 0.00 setrgbcolor
+268.6 536.5 273.5 544.2 line
+0.00 0.00 0.00 setrgbcolor
+272.7 544.8 271.2 543.4 line
+0.00 0.00 0.00 setrgbcolor
+271.2 543.4 272.7 544.8 line
+0.00 0.00 0.00 setrgbcolor
+279.1 539.3 251.1 518.9 line
+0.00 0.00 0.00 setrgbcolor
+251.1 518.9 279.1 539.3 line
+0.00 0.00 0.00 setrgbcolor
+279.2 539.1 262.5 525.9 line
+0.00 0.00 0.00 setrgbcolor
+262.5 525.9 279.2 539.1 line
+0.00 0.00 0.00 setrgbcolor
+278.5 540.3 250.3 530.4 line
+0.00 0.00 0.00 setrgbcolor
+250.3 530.4 278.5 540.3 line
+0.00 0.00 0.00 setrgbcolor
+278.4 541.0 259.6 537.6 line
+0.00 0.00 0.00 setrgbcolor
+259.6 537.6 278.4 541.0 line
+0.00 0.00 0.00 setrgbcolor
+278.8 539.7 270.0 535.0 line
+0.00 0.00 0.00 setrgbcolor
+270.0 535.0 278.8 539.7 line
+0.00 0.00 0.00 setrgbcolor
+278.3 541.4 272.3 540.9 line
+0.00 0.00 0.00 setrgbcolor
+272.3 540.9 278.3 541.4 line
+0.00 0.00 0.00 setrgbcolor
+279.4 544.5 278.9 544.9 line
+0.00 0.00 0.00 setrgbcolor
+278.9 544.9 279.4 544.5 line
+0.00 0.00 0.00 setrgbcolor
+291.4 542.8 262.8 525.4 line
+0.00 0.00 0.00 setrgbcolor
+262.8 525.4 291.4 542.8 line
+0.00 0.00 0.00 setrgbcolor
+291.0 543.7 250.3 530.3 line
+0.00 0.00 0.00 setrgbcolor
+250.3 530.3 291.0 543.7 line
+0.00 0.00 0.00 setrgbcolor
+290.9 544.2 259.6 537.7 line
+0.00 0.00 0.00 setrgbcolor
+259.6 537.7 290.9 544.2 line
+0.00 0.00 0.00 setrgbcolor
+291.1 543.4 270.2 534.6 line
+0.00 0.00 0.00 setrgbcolor
+270.2 534.6 291.1 543.4 line
+0.00 0.00 0.00 setrgbcolor
+290.8 544.3 272.2 541.3 line
+0.00 0.00 0.00 setrgbcolor
+272.2 541.3 290.8 544.3 line
+0.00 0.00 0.00 setrgbcolor
+290.8 545.6 279.9 547.1 line
+0.00 0.00 0.00 setrgbcolor
+279.9 547.1 290.8 545.6 line
+0.00 0.00 0.00 setrgbcolor
+290.9 543.9 286.5 542.8 line
+0.00 0.00 0.00 setrgbcolor
+286.5 542.8 290.9 543.9 line
+0.00 0.00 0.00 setrgbcolor
+298.3 535.3 250.5 529.5 line
+0.00 0.00 0.00 setrgbcolor
+250.5 529.5 298.3 535.3 line
+0.00 0.00 0.00 setrgbcolor
+298.3 535.9 259.7 536.7 line
+0.00 0.00 0.00 setrgbcolor
+259.7 536.7 298.3 535.9 line
+0.00 0.00 0.00 setrgbcolor
+298.3 535.5 270.5 533.3 line
+0.00 0.00 0.00 setrgbcolor
+270.5 533.3 298.3 535.5 line
+0.00 0.00 0.00 setrgbcolor
+298.3 536.4 272.2 540.0 line
+0.00 0.00 0.00 setrgbcolor
+272.2 540.0 298.3 536.4 line
+0.00 0.00 0.00 setrgbcolor
+298.6 537.5 279.6 546.0 line
+0.00 0.00 0.00 setrgbcolor
+279.6 546.0 298.6 537.5 line
+0.00 0.00 0.00 setrgbcolor
+298.4 537.0 286.5 540.5 line
+0.00 0.00 0.00 setrgbcolor
+286.5 540.5 298.4 537.0 line
+0.00 0.00 0.00 setrgbcolor
+299.8 539.0 297.6 541.8 line
+0.00 0.00 0.00 setrgbcolor
+297.6 541.8 299.8 539.0 line
+0.00 0.00 0.00 setrgbcolor
+304.1 527.0 259.6 536.0 line
+0.00 0.00 0.00 setrgbcolor
+259.6 536.0 304.1 527.0 line
+0.00 0.00 0.00 setrgbcolor
+304.1 526.9 270.4 532.3 line
+0.00 0.00 0.00 setrgbcolor
+270.4 532.3 304.1 526.9 line
+0.00 0.00 0.00 setrgbcolor
+304.3 527.6 272.0 539.2 line
+0.00 0.00 0.00 setrgbcolor
+272.0 539.2 304.3 527.6 line
+0.00 0.00 0.00 setrgbcolor
+304.7 528.5 279.2 545.4 line
+0.00 0.00 0.00 setrgbcolor
+279.2 545.4 304.7 528.5 line
+0.00 0.00 0.00 setrgbcolor
+304.6 528.4 286.0 539.5 line
+0.00 0.00 0.00 setrgbcolor
+286.0 539.5 304.6 528.4 line
+0.00 0.00 0.00 setrgbcolor
+305.8 529.6 297.3 541.6 line
+0.00 0.00 0.00 setrgbcolor
+297.3 541.6 305.8 529.6 line
+0.00 0.00 0.00 setrgbcolor
+306.0 529.8 304.6 532.2 line
+0.00 0.00 0.00 setrgbcolor
+304.6 532.2 306.0 529.8 line
+0.00 0.00 0.00 setrgbcolor
+287.5 537.0 270.4 533.8 line
+0.00 0.00 0.00 setrgbcolor
+270.4 533.8 287.5 537.0 line
+0.00 0.00 0.00 setrgbcolor
+287.4 538.2 272.2 540.1 line
+0.00 0.00 0.00 setrgbcolor
+272.2 540.1 287.4 538.2 line
+0.00 0.00 0.00 setrgbcolor
+288.0 540.0 279.3 545.4 line
+0.00 0.00 0.00 setrgbcolor
+279.3 545.4 288.0 540.0 line
+0.00 0.00 0.00 setrgbcolor
+287.8 539.4 286.3 540.0 line
+0.00 0.00 0.00 setrgbcolor
+286.3 540.0 287.8 539.4 line
+0.00 0.00 0.00 setrgbcolor
+293.3 541.5 293.2 541.2 line
+0.00 0.00 0.00 setrgbcolor
+293.2 541.2 293.3 541.5 line
+0.00 0.00 0.00 setrgbcolor
+295.7 537.0 298.3 536.5 line
+0.00 0.00 0.00 setrgbcolor
+298.3 536.5 295.7 537.0 line
+0.00 0.00 0.00 setrgbcolor
+295.0 535.4 304.8 528.6 line
+0.00 0.00 0.00 setrgbcolor
+304.8 528.6 295.0 535.4 line
+0.00 0.00 0.00 setrgbcolor
+311.9 527.7 272.1 539.4 line
+0.00 0.00 0.00 setrgbcolor
+272.1 539.4 311.9 527.7 line
+0.00 0.00 0.00 setrgbcolor
+312.2 528.5 279.5 545.7 line
+0.00 0.00 0.00 setrgbcolor
+279.5 545.7 312.2 528.5 line
+0.00 0.00 0.00 setrgbcolor
+312.1 528.3 286.3 540.0 line
+0.00 0.00 0.00 setrgbcolor
+286.3 540.0 312.1 528.3 line
+0.00 0.00 0.00 setrgbcolor
+312.8 529.3 298.1 542.3 line
+0.00 0.00 0.00 setrgbcolor
+298.1 542.3 312.8 529.3 line
+0.00 0.00 0.00 setrgbcolor
+312.5 528.9 305.9 533.5 line
+0.00 0.00 0.00 setrgbcolor
+305.9 533.5 312.5 528.9 line
+0.00 0.00 0.00 setrgbcolor
+311.8 526.4 312.3 526.4 line
+0.00 0.00 0.00 setrgbcolor
+312.3 526.4 311.8 526.4 line
+0.00 0.00 0.00 setrgbcolor
+312.1 528.3 295.4 536.0 line
+0.00 0.00 0.00 setrgbcolor
+295.4 536.0 312.1 528.3 line
+0.00 0.00 0.00 setrgbcolor
+316.6 516.4 279.1 545.1 line
+0.00 0.00 0.00 setrgbcolor
+279.1 545.1 316.6 516.4 line
+0.00 0.00 0.00 setrgbcolor
+316.5 516.3 285.8 539.2 line
+0.00 0.00 0.00 setrgbcolor
+285.8 539.2 316.5 516.3 line
+0.00 0.00 0.00 setrgbcolor
+317.3 517.1 297.5 541.8 line
+0.00 0.00 0.00 setrgbcolor
+297.5 541.8 317.3 517.1 line
+0.00 0.00 0.00 setrgbcolor
+317.3 517.1 305.0 532.6 line
+0.00 0.00 0.00 setrgbcolor
+305.0 532.6 317.3 517.1 line
+0.00 0.00 0.00 setrgbcolor
+317.0 516.9 311.0 523.2 line
+0.00 0.00 0.00 setrgbcolor
+311.0 523.2 317.0 516.9 line
+0.00 0.00 0.00 setrgbcolor
+316.7 516.5 294.8 535.1 line
+0.00 0.00 0.00 setrgbcolor
+294.8 535.1 316.7 516.5 line
+0.00 0.00 0.00 setrgbcolor
+318.6 517.8 317.2 522.6 line
+0.00 0.00 0.00 setrgbcolor
+317.2 522.6 318.6 517.8 line
+0.00 0.00 0.00 setrgbcolor
+295.2 528.3 285.3 538.7 line
+0.00 0.00 0.00 setrgbcolor
+285.3 538.7 295.2 528.3 line
+0.00 0.00 0.00 setrgbcolor
+297.4 529.4 295.6 540.9 line
+0.00 0.00 0.00 setrgbcolor
+295.6 540.9 297.4 529.4 line
+0.00 0.00 0.00 setrgbcolor
+299.6 529.1 300.8 532.0 line
+0.00 0.00 0.00 setrgbcolor
+300.8 532.0 299.6 529.1 line
+0.00 0.00 0.00 setrgbcolor
+302.2 525.6 304.0 525.8 line
+0.00 0.00 0.00 setrgbcolor
+304.0 525.8 302.2 525.6 line
+0.00 0.00 0.00 setrgbcolor
+296.1 528.9 293.5 534.0 line
+0.00 0.00 0.00 setrgbcolor
+293.5 534.0 296.1 528.9 line
+0.00 0.00 0.00 setrgbcolor
+302.2 525.6 311.8 526.3 line
+0.00 0.00 0.00 setrgbcolor
+311.8 526.3 302.2 525.6 line
+0.00 0.00 0.00 setrgbcolor
+301.7 523.3 316.2 515.8 line
+0.00 0.00 0.00 setrgbcolor
+316.2 515.8 301.7 523.3 line
+0.00 0.00 0.00 setrgbcolor
+310.0 509.6 296.6 541.2 line
+0.00 0.00 0.00 setrgbcolor
+296.6 541.2 310.0 509.6 line
+0.00 0.00 0.00 setrgbcolor
+310.5 509.8 303.7 531.8 line
+0.00 0.00 0.00 setrgbcolor
+303.7 531.8 310.5 509.8 line
+0.00 0.00 0.00 setrgbcolor
+311.0 509.9 308.9 522.1 line
+0.00 0.00 0.00 setrgbcolor
+308.9 522.1 311.0 509.9 line
+0.00 0.00 0.00 setrgbcolor
+309.5 509.3 293.8 534.2 line
+0.00 0.00 0.00 setrgbcolor
+293.8 534.2 309.5 509.3 line
+0.00 0.00 0.00 setrgbcolor
+312.5 509.9 315.1 522.5 line
+0.00 0.00 0.00 setrgbcolor
+315.1 522.5 312.5 509.9 line
+0.00 0.00 0.00 setrgbcolor
+314.6 508.7 316.9 510.9 line
+0.00 0.00 0.00 setrgbcolor
+316.9 510.9 314.6 508.7 line
+0.00 0.00 0.00 setrgbcolor
+309.3 509.2 300.4 521.8 line
+0.00 0.00 0.00 setrgbcolor
+300.4 521.8 309.3 509.2 line
+0.00 0.00 0.00 setrgbcolor
+317.1 501.4 304.1 532.0 line
+0.00 0.00 0.00 setrgbcolor
+304.1 532.0 317.1 501.4 line
+0.00 0.00 0.00 setrgbcolor
+317.3 501.5 309.6 522.3 line
+0.00 0.00 0.00 setrgbcolor
+309.6 522.3 317.3 501.5 line
+0.00 0.00 0.00 setrgbcolor
+316.4 501.1 293.9 534.3 line
+0.00 0.00 0.00 setrgbcolor
+293.9 534.3 316.4 501.1 line
+0.00 0.00 0.00 setrgbcolor
+318.4 501.8 316.3 522.4 line
+0.00 0.00 0.00 setrgbcolor
+316.3 522.4 318.4 501.8 line
+0.00 0.00 0.00 setrgbcolor
+319.0 501.8 319.6 509.7 line
+0.00 0.00 0.00 setrgbcolor
+319.6 509.7 319.0 501.8 line
+0.00 0.00 0.00 setrgbcolor
+316.3 500.9 300.5 521.9 line
+0.00 0.00 0.00 setrgbcolor
+300.5 521.9 316.3 500.9 line
+0.00 0.00 0.00 setrgbcolor
+316.0 500.8 314.4 502.6 line
+0.00 0.00 0.00 setrgbcolor
+314.4 502.6 316.0 500.8 line
+0.00 0.00 0.00 setrgbcolor
+316.9 491.4 309.2 522.2 line
+0.00 0.00 0.00 setrgbcolor
+309.2 522.2 316.9 491.4 line
+0.00 0.00 0.00 setrgbcolor
+316.0 491.1 293.5 534.1 line
+0.00 0.00 0.00 setrgbcolor
+293.5 534.1 316.0 491.1 line
+0.00 0.00 0.00 setrgbcolor
+317.7 491.5 316.1 522.4 line
+0.00 0.00 0.00 setrgbcolor
+316.1 522.4 317.7 491.5 line
+0.00 0.00 0.00 setrgbcolor
+318.2 491.5 319.6 509.7 line
+0.00 0.00 0.00 setrgbcolor
+319.6 509.7 318.2 491.5 line
+0.00 0.00 0.00 setrgbcolor
+316.0 491.1 300.0 521.6 line
+0.00 0.00 0.00 setrgbcolor
+300.0 521.6 316.0 491.1 line
+0.00 0.00 0.00 setrgbcolor
+316.6 491.3 313.0 501.8 line
+0.00 0.00 0.00 setrgbcolor
+313.0 501.8 316.6 491.3 line
+0.00 0.00 0.00 setrgbcolor
+318.3 491.5 318.4 493.5 line
+0.00 0.00 0.00 setrgbcolor
+318.4 493.5 318.3 491.5 line
+0.00 0.00 0.00 setrgbcolor
+307.5 474.6 292.6 533.7 line
+0.00 0.00 0.00 setrgbcolor
+292.6 533.7 307.5 474.6 line
+0.00 0.00 0.00 setrgbcolor
+309.0 474.7 315.4 522.5 line
+0.00 0.00 0.00 setrgbcolor
+315.4 522.5 309.0 474.7 line
+0.00 0.00 0.00 setrgbcolor
+309.6 474.6 318.8 509.8 line
+0.00 0.00 0.00 setrgbcolor
+318.8 509.8 309.6 474.6 line
+0.00 0.00 0.00 setrgbcolor
+307.7 474.7 298.8 521.2 line
+0.00 0.00 0.00 setrgbcolor
+298.8 521.2 307.7 474.7 line
+0.00 0.00 0.00 setrgbcolor
+308.9 474.7 311.3 501.6 line
+0.00 0.00 0.00 setrgbcolor
+311.3 501.6 308.9 474.7 line
+0.00 0.00 0.00 setrgbcolor
+310.0 474.5 317.3 493.7 line
+0.00 0.00 0.00 setrgbcolor
+317.3 493.7 310.0 474.5 line
+0.00 0.00 0.00 setrgbcolor
+310.5 474.2 315.9 483.8 line
+0.00 0.00 0.00 setrgbcolor
+315.9 483.8 310.5 474.2 line
+0.00 0.00 0.00 setrgbcolor
+314.4 482.2 315.8 522.4 line
+0.00 0.00 0.00 setrgbcolor
+315.8 522.4 314.4 482.2 line
+0.00 0.00 0.00 setrgbcolor
+314.9 482.1 319.2 509.7 line
+0.00 0.00 0.00 setrgbcolor
+319.2 509.7 314.9 482.1 line
+0.00 0.00 0.00 setrgbcolor
+312.9 481.9 299.4 521.3 line
+0.00 0.00 0.00 setrgbcolor
+299.4 521.3 312.9 481.9 line
+0.00 0.00 0.00 setrgbcolor
+313.9 482.1 312.1 501.6 line
+0.00 0.00 0.00 setrgbcolor
+312.1 501.6 313.9 482.1 line
+0.00 0.00 0.00 setrgbcolor
+315.2 482.1 317.8 493.6 line
+0.00 0.00 0.00 setrgbcolor
+317.8 493.6 315.2 482.1 line
+0.00 0.00 0.00 setrgbcolor
+315.8 481.9 316.4 483.5 line
+0.00 0.00 0.00 setrgbcolor
+316.4 483.5 315.8 481.9 line
+0.00 0.00 0.00 setrgbcolor
+311.7 474.7 311.1 473.9 line
+0.00 0.00 0.00 setrgbcolor
+311.1 473.9 311.7 474.7 line
+0.00 0.00 0.00 setrgbcolor
+301.1 466.2 318.4 510.0 line
+0.00 0.00 0.00 setrgbcolor
+318.4 510.0 301.1 466.2 line
+0.00 0.00 0.00 setrgbcolor
+299.5 466.5 298.1 521.1 line
+0.00 0.00 0.00 setrgbcolor
+298.1 521.1 299.5 466.5 line
+0.00 0.00 0.00 setrgbcolor
+300.7 466.3 310.6 501.8 line
+0.00 0.00 0.00 setrgbcolor
+310.6 501.8 300.7 466.3 line
+0.00 0.00 0.00 setrgbcolor
+301.5 466.0 316.8 494.0 line
+0.00 0.00 0.00 setrgbcolor
+316.8 494.0 301.5 466.0 line
+0.00 0.00 0.00 setrgbcolor
+302.0 465.7 315.5 484.0 line
+0.00 0.00 0.00 setrgbcolor
+315.5 484.0 302.0 465.7 line
+0.00 0.00 0.00 setrgbcolor
+302.6 465.1 305.4 467.8 line
+0.00 0.00 0.00 setrgbcolor
+305.4 467.8 302.6 465.1 line
+0.00 0.00 0.00 setrgbcolor
+302.4 465.3 311.4 475.0 line
+0.00 0.00 0.00 setrgbcolor
+311.4 475.0 302.4 465.3 line
+0.00 0.00 0.00 setrgbcolor
+299.7 517.9 299.0 521.2 line
+0.00 0.00 0.00 setrgbcolor
+299.0 521.2 299.7 517.9 line
+0.00 0.00 0.00 setrgbcolor
+304.0 511.4 308.3 508.2 line
+0.00 0.00 0.00 setrgbcolor
+308.3 508.2 304.0 511.4 line
+0.00 0.00 0.00 setrgbcolor
+303.7 511.0 315.7 500.4 line
+0.00 0.00 0.00 setrgbcolor
+315.7 500.4 303.7 511.0 line
+0.00 0.00 0.00 setrgbcolor
+302.9 510.3 315.6 490.9 line
+0.00 0.00 0.00 setrgbcolor
+315.6 490.9 302.9 510.3 line
+0.00 0.00 0.00 setrgbcolor
+301.4 509.7 307.7 474.7 line
+0.00 0.00 0.00 setrgbcolor
+307.7 474.7 301.4 509.7 line
+0.00 0.00 0.00 setrgbcolor
+302.1 509.9 312.8 481.9 line
+0.00 0.00 0.00 setrgbcolor
+312.8 481.9 302.1 509.9 line
+0.00 0.00 0.00 setrgbcolor
+300.5 509.7 299.6 466.5 line
+0.00 0.00 0.00 setrgbcolor
+299.6 466.5 300.5 509.7 line
+0.00 0.00 0.00 setrgbcolor
+304.1 444.6 311.2 501.7 line
+0.00 0.00 0.00 setrgbcolor
+311.2 501.7 304.1 444.6 line
+0.00 0.00 0.00 setrgbcolor
+304.7 444.5 317.7 493.6 line
+0.00 0.00 0.00 setrgbcolor
+317.7 493.6 304.7 444.5 line
+0.00 0.00 0.00 setrgbcolor
+304.8 444.5 316.7 483.4 line
+0.00 0.00 0.00 setrgbcolor
+316.7 483.4 304.8 444.5 line
+0.00 0.00 0.00 setrgbcolor
+304.3 444.6 307.8 466.5 line
+0.00 0.00 0.00 setrgbcolor
+307.8 466.5 304.3 444.6 line
+0.00 0.00 0.00 setrgbcolor
+304.8 444.5 313.1 474.0 line
+0.00 0.00 0.00 setrgbcolor
+313.1 474.0 304.8 444.5 line
+0.00 0.00 0.00 setrgbcolor
+302.9 444.6 300.3 458.2 line
+0.00 0.00 0.00 setrgbcolor
+300.3 458.2 302.9 444.6 line
+0.00 0.00 0.00 setrgbcolor
+303.5 444.7 300.8 509.7 line
+0.00 0.00 0.00 setrgbcolor
+300.8 509.7 303.5 444.7 line
+0.00 0.00 0.00 setrgbcolor
+387.2 240.1 286.7 334.8 line
+0.00 0.00 0.00 setrgbcolor
+286.7 334.8 387.2 240.1 line
+0.00 0.00 0.00 setrgbcolor
+393.3 145.6 411.1 151.0 line
+0.00 0.00 0.00 setrgbcolor
+411.1 151.0 393.3 145.6 line
+0.00 0.00 0.00 setrgbcolor
+393.5 144.2 395.5 144.0 line
+0.00 0.00 0.00 setrgbcolor
+395.5 144.0 393.5 144.2 line
+0.00 0.00 0.00 setrgbcolor
+385.2 145.3 384.7 145.4 line
+0.00 0.00 0.00 setrgbcolor
+384.7 145.4 385.2 145.3 line
+0.00 0.00 0.00 setrgbcolor
+385.4 145.9 367.6 152.8 line
+0.00 0.00 0.00 setrgbcolor
+367.6 152.8 385.4 145.9 line
+0.00 0.00 0.00 setrgbcolor
+385.5 146.0 378.2 149.0 line
+0.00 0.00 0.00 setrgbcolor
+378.2 149.0 385.5 146.0 line
+0.00 0.00 0.00 setrgbcolor
+392.2 147.4 408.3 163.6 line
+0.00 0.00 0.00 setrgbcolor
+408.3 163.6 392.2 147.4 line
+0.00 0.00 0.00 setrgbcolor
+386.8 147.7 374.7 163.4 line
+0.00 0.00 0.00 setrgbcolor
+374.7 163.4 386.8 147.7 line
+0.00 0.00 0.00 setrgbcolor
+397.4 200.5 399.5 148.0 line
+0.00 0.00 0.00 setrgbcolor
+399.5 148.0 397.4 200.5 line
+0.00 0.00 0.00 setrgbcolor
+396.1 200.6 381.8 150.2 line
+0.00 0.00 0.00 setrgbcolor
+381.8 150.2 396.1 200.6 line
+0.00 0.00 0.00 setrgbcolor
+394.9 201.2 366.0 157.8 line
+0.00 0.00 0.00 setrgbcolor
+366.0 157.8 394.9 201.2 line
+0.00 0.00 0.00 setrgbcolor
+395.6 200.8 376.0 154.5 line
+0.00 0.00 0.00 setrgbcolor
+376.0 154.5 395.6 200.8 line
+0.00 0.00 0.00 setrgbcolor
+398.7 200.7 409.8 170.5 line
+0.00 0.00 0.00 setrgbcolor
+409.8 170.5 398.7 200.7 line
+0.00 0.00 0.00 setrgbcolor
+394.9 201.2 374.5 170.2 line
+0.00 0.00 0.00 setrgbcolor
+374.5 170.2 394.9 201.2 line
+0.00 0.00 0.00 setrgbcolor
+396.4 208.7 391.1 233.2 line
+0.00 0.00 0.00 setrgbcolor
+391.1 233.2 396.4 208.7 line
+0.00 0.00 0.00 setrgbcolor
+422.1 179.5 383.9 148.8 line
+0.00 0.00 0.00 setrgbcolor
+383.9 148.8 422.1 179.5 line
+0.00 0.00 0.00 setrgbcolor
+421.6 180.4 367.5 156.0 line
+0.00 0.00 0.00 setrgbcolor
+367.5 156.0 421.6 180.4 line
+0.00 0.00 0.00 setrgbcolor
+421.8 179.9 377.9 152.8 line
+0.00 0.00 0.00 setrgbcolor
+377.9 152.8 421.8 179.9 line
+0.00 0.00 0.00 setrgbcolor
+422.6 179.0 414.0 169.6 line
+0.00 0.00 0.00 setrgbcolor
+414.0 169.6 422.6 179.0 line
+0.00 0.00 0.00 setrgbcolor
+421.4 180.9 376.2 167.8 line
+0.00 0.00 0.00 setrgbcolor
+376.2 167.8 421.4 180.9 line
+0.00 0.00 0.00 setrgbcolor
+423.1 185.6 392.5 233.7 line
+0.00 0.00 0.00 setrgbcolor
+392.5 233.7 423.1 185.6 line
+0.00 0.00 0.00 setrgbcolor
+422.1 184.7 400.5 202.0 line
+0.00 0.00 0.00 setrgbcolor
+400.5 202.0 422.1 184.7 line
+0.00 0.00 0.00 setrgbcolor
+404.9 216.7 366.0 157.8 line
+0.00 0.00 0.00 setrgbcolor
+366.0 157.8 404.9 216.7 line
+0.00 0.00 0.00 setrgbcolor
+405.4 216.4 376.1 154.4 line
+0.00 0.00 0.00 setrgbcolor
+376.1 154.4 405.4 216.4 line
+0.00 0.00 0.00 setrgbcolor
+407.5 216.0 410.9 170.7 line
+0.00 0.00 0.00 setrgbcolor
+410.9 170.7 407.5 216.0 line
+0.00 0.00 0.00 setrgbcolor
+404.9 216.6 374.5 170.2 line
+0.00 0.00 0.00 setrgbcolor
+374.5 170.2 404.9 216.6 line
+0.00 0.00 0.00 setrgbcolor
+404.2 223.1 393.2 234.3 line
+0.00 0.00 0.00 setrgbcolor
+393.2 234.3 404.2 223.1 line
+0.00 0.00 0.00 setrgbcolor
+404.9 216.6 399.5 208.1 line
+0.00 0.00 0.00 setrgbcolor
+399.5 208.1 404.9 216.6 line
+0.00 0.00 0.00 setrgbcolor
+409.0 216.4 423.6 185.8 line
+0.00 0.00 0.00 setrgbcolor
+423.6 185.8 409.0 216.4 line
+0.00 0.00 0.00 setrgbcolor
+414.7 213.2 376.6 154.1 line
+0.00 0.00 0.00 setrgbcolor
+376.6 154.1 414.7 213.2 line
+0.00 0.00 0.00 setrgbcolor
+416.5 212.6 411.7 170.7 line
+0.00 0.00 0.00 setrgbcolor
+411.7 170.7 416.5 212.6 line
+0.00 0.00 0.00 setrgbcolor
+414.2 213.6 375.0 169.8 line
+0.00 0.00 0.00 setrgbcolor
+375.0 169.8 414.2 213.6 line
+0.00 0.00 0.00 setrgbcolor
+413.7 219.2 393.5 234.7 line
+0.00 0.00 0.00 setrgbcolor
+393.5 234.7 413.7 219.2 line
+0.00 0.00 0.00 setrgbcolor
+413.4 214.5 400.8 206.8 line
+0.00 0.00 0.00 setrgbcolor
+400.8 206.8 413.4 214.5 line
+0.00 0.00 0.00 setrgbcolor
+418.0 212.7 424.4 186.1 line
+0.00 0.00 0.00 setrgbcolor
+424.4 186.1 418.0 212.7 line
+0.00 0.00 0.00 setrgbcolor
+413.1 218.1 411.1 218.8 line
+0.00 0.00 0.00 setrgbcolor
+411.1 218.8 413.1 218.1 line
+0.00 0.00 0.00 setrgbcolor
+423.3 204.9 412.5 170.5 line
+0.00 0.00 0.00 setrgbcolor
+412.5 170.5 423.3 204.9 line
+0.00 0.00 0.00 setrgbcolor
+421.3 206.2 375.5 169.3 line
+0.00 0.00 0.00 setrgbcolor
+375.5 169.3 421.3 206.2 line
+0.00 0.00 0.00 setrgbcolor
+421.3 211.5 393.4 234.6 line
+0.00 0.00 0.00 setrgbcolor
+393.4 234.6 421.3 211.5 line
+0.00 0.00 0.00 setrgbcolor
+420.4 208.2 401.3 205.3 line
+0.00 0.00 0.00 setrgbcolor
+401.3 205.3 420.4 208.2 line
+0.00 0.00 0.00 setrgbcolor
+424.7 204.7 425.3 186.2 line
+0.00 0.00 0.00 setrgbcolor
+425.3 186.2 424.7 204.7 line
+0.00 0.00 0.00 setrgbcolor
+421.1 211.1 410.7 217.9 line
+0.00 0.00 0.00 setrgbcolor
+410.7 217.9 421.1 211.1 line
+0.00 0.00 0.00 setrgbcolor
+421.7 211.8 419.9 213.7 line
+0.00 0.00 0.00 setrgbcolor
+419.9 213.7 421.7 211.8 line
+0.00 0.00 0.00 setrgbcolor
+427.1 198.9 375.8 168.8 line
+0.00 0.00 0.00 setrgbcolor
+375.8 168.8 427.1 198.9 line
+0.00 0.00 0.00 setrgbcolor
+427.6 203.8 393.3 234.5 line
+0.00 0.00 0.00 setrgbcolor
+393.3 234.5 427.6 203.8 line
+0.00 0.00 0.00 setrgbcolor
+426.6 201.5 401.4 204.2 line
+0.00 0.00 0.00 setrgbcolor
+401.4 204.2 426.6 201.5 line
+0.00 0.00 0.00 setrgbcolor
+429.6 197.0 426.5 186.1 line
+0.00 0.00 0.00 setrgbcolor
+426.5 186.1 429.6 197.0 line
+0.00 0.00 0.00 setrgbcolor
+427.5 203.6 410.4 217.5 line
+0.00 0.00 0.00 setrgbcolor
+410.4 217.5 427.5 203.6 line
+0.00 0.00 0.00 setrgbcolor
+428.0 204.2 419.7 213.6 line
+0.00 0.00 0.00 setrgbcolor
+419.7 213.6 428.0 204.2 line
+0.00 0.00 0.00 setrgbcolor
+428.2 204.3 427.1 205.6 line
+0.00 0.00 0.00 setrgbcolor
+427.1 205.6 428.2 204.3 line
+0.00 0.00 0.00 setrgbcolor
+432.7 199.6 393.3 234.5 line
+0.00 0.00 0.00 setrgbcolor
+393.3 234.5 432.7 199.6 line
+0.00 0.00 0.00 setrgbcolor
+431.8 197.7 401.3 203.8 line
+0.00 0.00 0.00 setrgbcolor
+401.3 203.8 431.8 197.7 line
+0.00 0.00 0.00 setrgbcolor
+433.4 193.4 427.8 185.5 line
+0.00 0.00 0.00 setrgbcolor
+427.8 185.5 433.4 193.4 line
+0.00 0.00 0.00 setrgbcolor
+432.6 199.5 410.4 217.5 line
+0.00 0.00 0.00 setrgbcolor
+410.4 217.5 432.6 199.5 line
+0.00 0.00 0.00 setrgbcolor
+433.0 199.9 419.9 213.7 line
+0.00 0.00 0.00 setrgbcolor
+419.9 213.7 433.0 199.9 line
+0.00 0.00 0.00 setrgbcolor
+433.0 199.9 427.4 205.8 line
+0.00 0.00 0.00 setrgbcolor
+427.4 205.8 433.0 199.9 line
+0.00 0.00 0.00 setrgbcolor
+432.6 199.5 434.0 198.4 line
+0.00 0.00 0.00 setrgbcolor
+434.0 198.4 432.6 199.5 line
+0.00 0.00 0.00 setrgbcolor
+440.7 187.2 401.1 203.1 line
+0.00 0.00 0.00 setrgbcolor
+401.1 203.1 440.7 187.2 line
+0.00 0.00 0.00 setrgbcolor
+440.5 184.9 429.5 182.8 line
+0.00 0.00 0.00 setrgbcolor
+429.5 182.8 440.5 184.9 line
+0.00 0.00 0.00 setrgbcolor
+441.5 188.5 410.2 217.3 line
+0.00 0.00 0.00 setrgbcolor
+410.2 217.3 441.5 188.5 line
+0.00 0.00 0.00 setrgbcolor
+441.8 188.8 419.8 213.6 line
+0.00 0.00 0.00 setrgbcolor
+419.8 213.6 441.8 188.8 line
+0.00 0.00 0.00 setrgbcolor
+441.8 188.8 427.3 205.7 line
+0.00 0.00 0.00 setrgbcolor
+427.3 205.7 441.8 188.8 line
+0.00 0.00 0.00 setrgbcolor
+441.8 188.8 433.5 197.9 line
+0.00 0.00 0.00 setrgbcolor
+433.5 197.9 441.8 188.8 line
+0.00 0.00 0.00 setrgbcolor
+442.0 189.0 438.4 193.6 line
+0.00 0.00 0.00 setrgbcolor
+438.4 193.6 442.0 189.0 line
+0.00 0.00 0.00 setrgbcolor
+437.6 175.6 429.1 180.1 line
+0.00 0.00 0.00 setrgbcolor
+429.1 180.1 437.6 175.6 line
+0.00 0.00 0.00 setrgbcolor
+438.8 177.0 409.6 216.8 line
+0.00 0.00 0.00 setrgbcolor
+409.6 216.8 438.8 177.0 line
+0.00 0.00 0.00 setrgbcolor
+439.2 177.3 419.0 213.1 line
+0.00 0.00 0.00 setrgbcolor
+419.0 213.1 439.2 177.3 line
+0.00 0.00 0.00 setrgbcolor
+439.5 177.4 426.3 205.1 line
+0.00 0.00 0.00 setrgbcolor
+426.3 205.1 439.5 177.4 line
+0.00 0.00 0.00 setrgbcolor
+439.8 177.5 432.2 197.1 line
+0.00 0.00 0.00 setrgbcolor
+432.2 197.1 439.8 177.5 line
+0.00 0.00 0.00 setrgbcolor
+440.3 177.7 436.8 192.8 line
+0.00 0.00 0.00 setrgbcolor
+436.8 192.8 440.3 177.7 line
+0.00 0.00 0.00 setrgbcolor
+442.4 177.7 443.5 181.7 line
+0.00 0.00 0.00 setrgbcolor
+443.5 181.7 442.4 177.7 line
+0.00 0.00 0.00 setrgbcolor
+434.6 183.1 409.7 216.8 line
+0.00 0.00 0.00 setrgbcolor
+409.7 216.8 434.6 183.1 line
+0.00 0.00 0.00 setrgbcolor
+435.1 183.4 419.0 213.0 line
+0.00 0.00 0.00 setrgbcolor
+419.0 213.0 435.1 183.4 line
+0.00 0.00 0.00 setrgbcolor
+435.5 183.6 426.2 205.0 line
+0.00 0.00 0.00 setrgbcolor
+426.2 205.0 435.5 183.6 line
+0.00 0.00 0.00 setrgbcolor
+435.9 183.8 431.9 197.0 line
+0.00 0.00 0.00 setrgbcolor
+431.9 197.0 435.9 183.8 line
+0.00 0.00 0.00 setrgbcolor
+436.8 183.9 436.1 192.7 line
+0.00 0.00 0.00 setrgbcolor
+436.1 192.7 436.8 183.9 line
+0.00 0.00 0.00 setrgbcolor
+440.4 182.4 441.3 183.1 line
+0.00 0.00 0.00 setrgbcolor
+441.3 183.1 440.4 182.4 line
+0.00 0.00 0.00 setrgbcolor
+439.5 176.3 438.9 177.1 line
+0.00 0.00 0.00 setrgbcolor
+438.9 177.1 439.5 176.3 line
+0.00 0.00 0.00 setrgbcolor
+437.4 165.0 418.5 212.8 line
+0.00 0.00 0.00 setrgbcolor
+418.5 212.8 437.4 165.0 line
+0.00 0.00 0.00 setrgbcolor
+437.8 165.1 425.7 204.9 line
+0.00 0.00 0.00 setrgbcolor
+425.7 204.9 437.8 165.1 line
+0.00 0.00 0.00 setrgbcolor
+438.1 165.2 431.6 197.0 line
+0.00 0.00 0.00 setrgbcolor
+431.6 197.0 438.1 165.2 line
+0.00 0.00 0.00 setrgbcolor
+438.6 165.2 436.2 192.7 line
+0.00 0.00 0.00 setrgbcolor
+436.2 192.7 438.6 165.2 line
+0.00 0.00 0.00 setrgbcolor
+439.9 165.1 443.6 181.6 line
+0.00 0.00 0.00 setrgbcolor
+443.6 181.6 439.9 165.1 line
+0.00 0.00 0.00 setrgbcolor
+439.7 165.2 440.5 169.6 line
+0.00 0.00 0.00 setrgbcolor
+440.5 169.6 439.7 165.2 line
+0.00 0.00 0.00 setrgbcolor
+438.6 165.2 437.5 175.6 line
+0.00 0.00 0.00 setrgbcolor
+437.5 175.6 438.6 165.2 line
+0.00 0.00 0.00 setrgbcolor
+444.0 170.1 426.4 205.1 line
+0.00 0.00 0.00 setrgbcolor
+426.4 205.1 444.0 170.1 line
+0.00 0.00 0.00 setrgbcolor
+444.2 170.2 432.4 197.2 line
+0.00 0.00 0.00 setrgbcolor
+432.4 197.2 444.2 170.2 line
+0.00 0.00 0.00 setrgbcolor
+444.6 170.4 437.1 192.9 line
+0.00 0.00 0.00 setrgbcolor
+437.1 192.9 444.6 170.4 line
+0.00 0.00 0.00 setrgbcolor
+445.6 170.6 444.8 181.5 line
+0.00 0.00 0.00 setrgbcolor
+444.8 181.5 445.6 170.6 line
+0.00 0.00 0.00 setrgbcolor
+443.6 169.9 443.5 170.1 line
+0.00 0.00 0.00 setrgbcolor
+443.5 170.1 443.6 169.9 line
+0.00 0.00 0.00 setrgbcolor
+443.6 169.9 439.4 176.3 line
+0.00 0.00 0.00 setrgbcolor
+439.4 176.3 443.6 169.9 line
+0.00 0.00 0.00 setrgbcolor
+442.6 163.9 442.3 163.6 line
+0.00 0.00 0.00 setrgbcolor
+442.3 163.6 442.6 163.9 line
+0.00 0.00 0.00 setrgbcolor
+436.1 155.8 431.2 196.9 line
+0.00 0.00 0.00 setrgbcolor
+431.2 196.9 436.1 155.8 line
+0.00 0.00 0.00 setrgbcolor
+436.5 155.8 435.9 192.7 line
+0.00 0.00 0.00 setrgbcolor
+435.9 192.7 436.5 155.8 line
+0.00 0.00 0.00 setrgbcolor
+437.6 155.7 443.6 181.6 line
+0.00 0.00 0.00 setrgbcolor
+443.6 181.6 437.6 155.7 line
+0.00 0.00 0.00 setrgbcolor
+437.5 155.7 440.4 169.6 line
+0.00 0.00 0.00 setrgbcolor
+440.4 169.6 437.5 155.7 line
+0.00 0.00 0.00 setrgbcolor
+436.7 155.8 437.0 175.6 line
+0.00 0.00 0.00 setrgbcolor
+437.0 175.6 436.7 155.8 line
+0.00 0.00 0.00 setrgbcolor
+437.6 155.7 438.0 157.0 line
+0.00 0.00 0.00 setrgbcolor
+438.0 157.0 437.6 155.7 line
+0.00 0.00 0.00 setrgbcolor
+438.8 155.2 443.7 162.9 line
+0.00 0.00 0.00 setrgbcolor
+443.7 162.9 438.8 155.2 line
+0.00 0.00 0.00 setrgbcolor
+442.2 152.6 436.4 192.7 line
+0.00 0.00 0.00 setrgbcolor
+436.4 192.7 442.2 152.6 line
+0.00 0.00 0.00 setrgbcolor
+443.0 152.6 444.4 181.5 line
+0.00 0.00 0.00 setrgbcolor
+444.4 181.5 443.0 152.6 line
+0.00 0.00 0.00 setrgbcolor
+442.5 152.6 441.5 169.5 line
+0.00 0.00 0.00 setrgbcolor
+441.5 169.5 442.5 152.6 line
+0.00 0.00 0.00 setrgbcolor
+442.1 152.6 437.9 175.7 line
+0.00 0.00 0.00 setrgbcolor
+437.9 175.7 442.1 152.6 line
+0.00 0.00 0.00 setrgbcolor
+441.6 152.5 440.2 157.1 line
+0.00 0.00 0.00 setrgbcolor
+440.2 157.1 441.6 152.5 line
+0.00 0.00 0.00 setrgbcolor
+443.5 152.6 445.2 162.3 line
+0.00 0.00 0.00 setrgbcolor
+445.2 162.3 443.5 152.6 line
+0.00 0.00 0.00 setrgbcolor
+439.1 150.4 440.3 149.7 line
+0.00 0.00 0.00 setrgbcolor
+440.3 149.7 439.1 150.4 line
+0.00 0.00 0.00 setrgbcolor
+430.9 144.6 443.3 181.7 line
+0.00 0.00 0.00 setrgbcolor
+443.3 181.7 430.9 144.6 line
+0.00 0.00 0.00 setrgbcolor
+431.0 144.6 439.9 169.7 line
+0.00 0.00 0.00 setrgbcolor
+439.9 169.7 431.0 144.6 line
+0.00 0.00 0.00 setrgbcolor
+430.4 144.8 436.3 175.7 line
+0.00 0.00 0.00 setrgbcolor
+436.3 175.7 430.4 144.8 line
+0.00 0.00 0.00 setrgbcolor
+431.4 144.5 437.2 157.3 line
+0.00 0.00 0.00 setrgbcolor
+437.2 157.3 431.4 144.5 line
+0.00 0.00 0.00 setrgbcolor
+431.8 144.2 443.6 162.9 line
+0.00 0.00 0.00 setrgbcolor
+443.6 162.9 431.8 144.2 line
+0.00 0.00 0.00 setrgbcolor
+431.9 144.2 434.4 148.1 line
+0.00 0.00 0.00 setrgbcolor
+434.4 148.1 431.9 144.2 line
+0.00 0.00 0.00 setrgbcolor
+433.2 142.8 439.2 146.4 line
+0.00 0.00 0.00 setrgbcolor
+439.2 146.4 433.2 142.8 line
+0.00 0.00 0.00 setrgbcolor
+427.8 134.3 439.9 169.7 line
+0.00 0.00 0.00 setrgbcolor
+439.9 169.7 427.8 134.3 line
+0.00 0.00 0.00 setrgbcolor
+427.3 134.5 436.2 175.7 line
+0.00 0.00 0.00 setrgbcolor
+436.2 175.7 427.3 134.5 line
+0.00 0.00 0.00 setrgbcolor
+428.0 134.2 437.4 157.2 line
+0.00 0.00 0.00 setrgbcolor
+437.4 157.2 428.0 134.2 line
+0.00 0.00 0.00 setrgbcolor
+428.4 134.1 443.9 162.8 line
+0.00 0.00 0.00 setrgbcolor
+443.9 162.8 428.4 134.1 line
+0.00 0.00 0.00 setrgbcolor
+428.3 134.1 434.8 147.9 line
+0.00 0.00 0.00 setrgbcolor
+434.8 147.9 428.3 134.1 line
+0.00 0.00 0.00 setrgbcolor
+429.3 133.5 440.0 145.4 line
+0.00 0.00 0.00 setrgbcolor
+440.0 145.4 429.3 133.5 line
+0.00 0.00 0.00 setrgbcolor
+427.7 134.4 428.4 136.7 line
+0.00 0.00 0.00 setrgbcolor
+428.4 136.7 427.7 134.4 line
+0.00 0.00 0.00 setrgbcolor
+416.9 136.9 435.3 176.0 line
+0.00 0.00 0.00 setrgbcolor
+435.3 176.0 416.9 136.9 line
+0.00 0.00 0.00 setrgbcolor
+417.8 136.3 436.3 157.9 line
+0.00 0.00 0.00 setrgbcolor
+436.3 157.9 417.8 136.3 line
+0.00 0.00 0.00 setrgbcolor
+417.9 136.2 443.0 163.4 line
+0.00 0.00 0.00 setrgbcolor
+443.0 163.4 417.9 136.2 line
+0.00 0.00 0.00 setrgbcolor
+418.3 135.8 433.5 148.9 line
+0.00 0.00 0.00 setrgbcolor
+433.5 148.9 418.3 135.8 line
+0.00 0.00 0.00 setrgbcolor
+418.8 135.1 439.2 146.5 line
+0.00 0.00 0.00 setrgbcolor
+439.2 146.5 418.8 135.1 line
+0.00 0.00 0.00 setrgbcolor
+418.8 135.0 425.9 138.8 line
+0.00 0.00 0.00 setrgbcolor
+425.9 138.8 418.8 135.0 line
+0.00 0.00 0.00 setrgbcolor
+419.2 132.2 422.4 131.4 line
+0.00 0.00 0.00 setrgbcolor
+422.4 131.4 419.2 132.2 line
+0.00 0.00 0.00 setrgbcolor
+412.9 138.7 435.8 158.4 line
+0.00 0.00 0.00 setrgbcolor
+435.8 158.4 412.9 138.7 line
+0.00 0.00 0.00 setrgbcolor
+412.9 138.7 442.7 163.7 line
+0.00 0.00 0.00 setrgbcolor
+442.7 163.7 412.9 138.7 line
+0.00 0.00 0.00 setrgbcolor
+413.3 138.1 433.0 149.5 line
+0.00 0.00 0.00 setrgbcolor
+433.0 149.5 413.3 138.1 line
+0.00 0.00 0.00 setrgbcolor
+413.6 137.5 438.9 147.0 line
+0.00 0.00 0.00 setrgbcolor
+438.9 147.0 413.6 137.5 line
+0.00 0.00 0.00 setrgbcolor
+413.8 137.0 425.6 139.7 line
+0.00 0.00 0.00 setrgbcolor
+425.6 139.7 413.8 137.0 line
+0.00 0.00 0.00 setrgbcolor
+413.6 134.7 422.5 131.7 line
+0.00 0.00 0.00 setrgbcolor
+422.5 131.7 413.6 134.7 line
+0.00 0.00 0.00 setrgbcolor
+413.4 134.1 411.4 135.1 line
+0.00 0.00 0.00 setrgbcolor
+411.4 135.1 413.4 134.1 line
+0.00 0.00 0.00 setrgbcolor
+429.0 151.7 442.7 163.7 line
+0.00 0.00 0.00 setrgbcolor
+442.7 163.7 429.0 151.7 line
+0.00 0.00 0.00 setrgbcolor
+429.9 149.9 432.6 150.6 line
+0.00 0.00 0.00 setrgbcolor
+432.6 150.6 429.9 149.9 line
+0.00 0.00 0.00 setrgbcolor
+430.1 148.8 438.6 148.6 line
+0.00 0.00 0.00 setrgbcolor
+438.6 148.6 430.1 148.8 line
+0.00 0.00 0.00 setrgbcolor
+427.6 145.1 427.9 144.5 line
+0.00 0.00 0.00 setrgbcolor
+427.9 144.5 427.6 145.1 line
+0.00 0.00 0.00 setrgbcolor
+426.0 144.8 426.3 134.5 line
+0.00 0.00 0.00 setrgbcolor
+426.3 134.5 426.0 144.8 line
+0.00 0.00 0.00 setrgbcolor
+423.5 145.5 417.5 136.6 line
+0.00 0.00 0.00 setrgbcolor
+417.5 136.6 423.5 145.5 line
+0.00 0.00 0.00 setrgbcolor
+422.6 146.3 413.0 138.6 line
+0.00 0.00 0.00 setrgbcolor
+413.0 138.6 422.6 146.3 line
+0.00 0.00 0.00 setrgbcolor
+400.9 135.0 432.9 149.9 line
+0.00 0.00 0.00 setrgbcolor
+432.9 149.9 400.9 135.0 line
+0.00 0.00 0.00 setrgbcolor
+401.1 134.5 438.9 147.2 line
+0.00 0.00 0.00 setrgbcolor
+438.9 147.2 401.1 134.5 line
+0.00 0.00 0.00 setrgbcolor
+401.2 134.1 425.6 139.7 line
+0.00 0.00 0.00 setrgbcolor
+425.6 139.7 401.2 134.1 line
+0.00 0.00 0.00 setrgbcolor
+401.3 132.8 422.3 130.8 line
+0.00 0.00 0.00 setrgbcolor
+422.3 130.8 401.3 132.8 line
+0.00 0.00 0.00 setrgbcolor
+401.3 133.2 411.0 133.1 line
+0.00 0.00 0.00 setrgbcolor
+411.0 133.1 401.3 133.2 line
+0.00 0.00 0.00 setrgbcolor
+401.2 134.1 405.6 135.1 line
+0.00 0.00 0.00 setrgbcolor
+405.6 135.1 401.2 134.1 line
+0.00 0.00 0.00 setrgbcolor
+400.8 135.2 422.2 146.9 line
+0.00 0.00 0.00 setrgbcolor
+422.2 146.9 400.8 135.2 line
+0.00 0.00 0.00 setrgbcolor
+419.2 151.7 438.7 149.0 line
+0.00 0.00 0.00 setrgbcolor
+438.7 149.0 419.2 151.7 line
+0.00 0.00 0.00 setrgbcolor
+418.3 149.6 426.4 143.3 line
+0.00 0.00 0.00 setrgbcolor
+426.4 143.3 418.3 149.6 line
+0.00 0.00 0.00 setrgbcolor
+417.0 148.5 424.5 134.1 line
+0.00 0.00 0.00 setrgbcolor
+424.5 134.1 417.0 148.5 line
+0.00 0.00 0.00 setrgbcolor
+415.1 148.1 415.1 137.3 line
+0.00 0.00 0.00 setrgbcolor
+415.1 137.3 415.1 148.1 line
+0.00 0.00 0.00 setrgbcolor
+413.8 148.3 411.0 140.0 line
+0.00 0.00 0.00 setrgbcolor
+411.0 140.0 413.8 148.3 line
+0.00 0.00 0.00 setrgbcolor
+419.1 151.0 421.9 150.1 line
+0.00 0.00 0.00 setrgbcolor
+421.9 150.1 419.1 151.0 line
+0.00 0.00 0.00 setrgbcolor
+412.2 149.2 400.0 136.2 line
+0.00 0.00 0.00 setrgbcolor
+400.0 136.2 412.2 149.2 line
+0.00 0.00 0.00 setrgbcolor
+403.8 143.4 425.5 141.1 line
+0.00 0.00 0.00 setrgbcolor
+425.5 141.1 403.8 143.4 line
+0.00 0.00 0.00 setrgbcolor
+403.4 141.9 422.7 132.3 line
+0.00 0.00 0.00 setrgbcolor
+422.7 132.3 403.4 141.9 line
+0.00 0.00 0.00 setrgbcolor
+403.1 141.4 411.7 135.5 line
+0.00 0.00 0.00 setrgbcolor
+411.7 135.5 403.1 141.4 line
+0.00 0.00 0.00 setrgbcolor
+403.0 141.2 406.4 138.6 line
+0.00 0.00 0.00 setrgbcolor
+406.4 138.6 403.0 141.2 line
+0.00 0.00 0.00 setrgbcolor
+403.8 144.6 421.8 148.1 line
+0.00 0.00 0.00 setrgbcolor
+421.8 148.1 403.8 144.6 line
+0.00 0.00 0.00 setrgbcolor
+398.7 139.8 398.1 137.3 line
+0.00 0.00 0.00 setrgbcolor
+398.1 137.3 398.7 139.8 line
+0.00 0.00 0.00 setrgbcolor
+403.3 145.8 411.4 150.2 line
+0.00 0.00 0.00 setrgbcolor
+411.4 150.2 403.3 145.8 line
+0.00 0.00 0.00 setrgbcolor
+384.6 144.9 422.5 131.7 line
+0.00 0.00 0.00 setrgbcolor
+422.5 131.7 384.6 144.9 line
+0.00 0.00 0.00 setrgbcolor
+384.5 144.7 411.2 134.6 line
+0.00 0.00 0.00 setrgbcolor
+411.2 134.6 384.5 144.7 line
+0.00 0.00 0.00 setrgbcolor
+384.5 144.8 405.8 137.4 line
+0.00 0.00 0.00 setrgbcolor
+405.8 137.4 384.5 144.8 line
+0.00 0.00 0.00 setrgbcolor
+384.8 146.5 421.7 148.7 line
+0.00 0.00 0.00 setrgbcolor
+421.7 148.7 384.8 146.5 line
+0.00 0.00 0.00 setrgbcolor
+383.9 143.6 393.9 135.8 line
+0.00 0.00 0.00 setrgbcolor
+393.9 135.8 383.9 143.6 line
+0.00 0.00 0.00 setrgbcolor
+384.7 146.9 411.0 151.5 line
+0.00 0.00 0.00 setrgbcolor
+411.0 151.5 384.7 146.9 line
+0.00 0.00 0.00 setrgbcolor
+384.7 145.7 395.6 144.3 line
+0.00 0.00 0.00 setrgbcolor
+395.6 144.3 384.7 145.7 line
+0.00 0.00 0.00 setrgbcolor
+367.6 152.7 411.3 134.7 line
+0.00 0.00 0.00 setrgbcolor
+411.3 134.7 367.6 152.7 line
+0.00 0.00 0.00 setrgbcolor
+367.6 152.8 405.8 137.6 line
+0.00 0.00 0.00 setrgbcolor
+405.8 137.6 367.6 152.8 line
+0.00 0.00 0.00 setrgbcolor
+367.9 154.0 421.7 149.3 line
+0.00 0.00 0.00 setrgbcolor
+421.7 149.3 367.9 154.0 line
+0.00 0.00 0.00 setrgbcolor
+367.2 152.1 393.7 135.4 line
+0.00 0.00 0.00 setrgbcolor
+393.7 135.4 367.2 152.1 line
+0.00 0.00 0.00 setrgbcolor
+367.9 154.2 410.9 152.4 line
+0.00 0.00 0.00 setrgbcolor
+410.9 152.4 367.9 154.2 line
+0.00 0.00 0.00 setrgbcolor
+367.7 153.2 395.7 145.0 line
+0.00 0.00 0.00 setrgbcolor
+395.7 145.0 367.7 153.2 line
+0.00 0.00 0.00 setrgbcolor
+367.5 152.5 376.9 148.0 line
+0.00 0.00 0.00 setrgbcolor
+376.9 148.0 367.5 152.5 line
+0.00 0.00 0.00 setrgbcolor
+378.2 149.0 405.9 137.6 line
+0.00 0.00 0.00 setrgbcolor
+405.9 137.6 378.2 149.0 line
+0.00 0.00 0.00 setrgbcolor
+378.5 150.5 421.7 149.1 line
+0.00 0.00 0.00 setrgbcolor
+421.7 149.1 378.5 150.5 line
+0.00 0.00 0.00 setrgbcolor
+377.6 148.1 393.9 135.7 line
+0.00 0.00 0.00 setrgbcolor
+393.9 135.7 377.6 148.1 line
+0.00 0.00 0.00 setrgbcolor
+378.5 150.8 410.9 152.1 line
+0.00 0.00 0.00 setrgbcolor
+410.9 152.1 378.5 150.8 line
+0.00 0.00 0.00 setrgbcolor
+378.4 149.5 395.7 144.9 line
+0.00 0.00 0.00 setrgbcolor
+395.7 144.9 378.4 149.5 line
+0.00 0.00 0.00 setrgbcolor
+377.7 148.2 377.2 148.6 line
+0.00 0.00 0.00 setrgbcolor
+377.2 148.6 377.7 148.2 line
+0.00 0.00 0.00 setrgbcolor
+370.4 152.0 367.6 153.0 line
+0.00 0.00 0.00 setrgbcolor
+367.6 153.0 370.4 152.0 line
+0.00 0.00 0.00 setrgbcolor
+413.9 163.4 423.2 152.1 line
+0.00 0.00 0.00 setrgbcolor
+423.2 152.1 413.9 163.4 line
+0.00 0.00 0.00 setrgbcolor
+409.6 162.7 398.8 137.0 line
+0.00 0.00 0.00 setrgbcolor
+398.8 137.0 409.6 162.7 line
+0.00 0.00 0.00 setrgbcolor
+412.3 162.5 414.0 156.3 line
+0.00 0.00 0.00 setrgbcolor
+414.0 156.3 412.3 162.5 line
+0.00 0.00 0.00 setrgbcolor
+409.3 162.8 401.6 147.5 line
+0.00 0.00 0.00 setrgbcolor
+401.6 147.5 409.3 162.8 line
+0.00 0.00 0.00 setrgbcolor
+407.8 164.2 384.1 148.5 line
+0.00 0.00 0.00 setrgbcolor
+384.1 148.5 407.8 164.2 line
+0.00 0.00 0.00 setrgbcolor
+407.2 165.5 367.7 155.4 line
+0.00 0.00 0.00 setrgbcolor
+367.7 155.4 407.2 165.5 line
+0.00 0.00 0.00 setrgbcolor
+407.4 164.9 378.2 152.3 line
+0.00 0.00 0.00 setrgbcolor
+378.2 152.3 407.4 164.9 line
+0.00 0.00 0.00 setrgbcolor
+374.7 163.4 394.7 136.5 line
+0.00 0.00 0.00 setrgbcolor
+394.7 136.5 374.7 163.4 line
+0.00 0.00 0.00 setrgbcolor
+376.2 165.4 411.1 153.6 line
+0.00 0.00 0.00 setrgbcolor
+411.1 153.6 376.2 165.4 line
+0.00 0.00 0.00 setrgbcolor
+375.4 164.0 396.5 146.5 line
+0.00 0.00 0.00 setrgbcolor
+396.5 146.5 375.4 164.0 line
+0.00 0.00 0.00 setrgbcolor
+373.8 162.8 379.0 150.1 line
+0.00 0.00 0.00 setrgbcolor
+379.0 150.1 373.8 162.8 line
+0.00 0.00 0.00 setrgbcolor
+369.9 163.3 366.1 157.8 line
+0.00 0.00 0.00 setrgbcolor
+366.1 157.8 369.9 163.3 line
+0.00 0.00 0.00 setrgbcolor
+372.8 162.6 373.8 154.8 line
+0.00 0.00 0.00 setrgbcolor
+373.8 154.8 372.8 162.6 line
+0.00 0.00 0.00 setrgbcolor
+376.4 166.7 407.1 166.6 line
+0.00 0.00 0.00 setrgbcolor
+407.1 166.6 376.4 166.7 line
+0.00 0.00 0.00 setrgbcolor
+391.4 233.2 413.9 156.2 line
+0.00 0.00 0.00 setrgbcolor
+413.9 156.2 391.4 233.2 line
+0.00 0.00 0.00 setrgbcolor
+390.6 233.1 399.3 147.9 line
+0.00 0.00 0.00 setrgbcolor
+399.3 147.9 390.6 233.1 line
+0.00 0.00 0.00 setrgbcolor
+389.8 233.1 381.1 150.4 line
+0.00 0.00 0.00 setrgbcolor
+381.1 150.4 389.8 233.1 line
+0.00 0.00 0.00 setrgbcolor
+389.0 233.3 365.0 158.3 line
+0.00 0.00 0.00 setrgbcolor
+365.0 158.3 389.0 233.3 line
+0.00 0.00 0.00 setrgbcolor
+389.5 233.1 375.1 154.7 line
+0.00 0.00 0.00 setrgbcolor
+375.1 154.7 389.5 233.1 line
+0.00 0.00 0.00 setrgbcolor
+391.4 233.2 410.0 170.5 line
+0.00 0.00 0.00 setrgbcolor
+410.0 170.5 391.4 233.2 line
+0.00 0.00 0.00 setrgbcolor
+389.2 233.2 373.2 170.7 line
+0.00 0.00 0.00 setrgbcolor
+373.2 170.7 389.2 233.2 line
+0.00 0.00 0.00 setrgbcolor
+187.7 267.8 280.3 335.2 line
+0.00 0.00 0.00 setrgbcolor
+280.3 335.2 187.7 267.8 line
+0.00 0.00 0.00 setrgbcolor
+82.5 247.3 79.5 238.0 line
+0.00 0.00 0.00 setrgbcolor
+79.5 238.0 82.5 247.3 line
+0.00 0.00 0.00 setrgbcolor
+83.1 247.1 82.8 245.1 line
+0.00 0.00 0.00 setrgbcolor
+82.8 245.1 83.1 247.1 line
+0.00 0.00 0.00 setrgbcolor
+84.2 247.1 86.9 222.8 line
+0.00 0.00 0.00 setrgbcolor
+86.9 222.8 84.2 247.1 line
+0.00 0.00 0.00 setrgbcolor
+87.0 253.8 96.4 261.3 line
+0.00 0.00 0.00 setrgbcolor
+96.4 261.3 87.0 253.8 line
+0.00 0.00 0.00 setrgbcolor
+87.3 253.4 111.4 268.0 line
+0.00 0.00 0.00 setrgbcolor
+111.4 268.0 87.3 253.4 line
+0.00 0.00 0.00 setrgbcolor
+86.7 254.2 87.3 254.8 line
+0.00 0.00 0.00 setrgbcolor
+87.3 254.8 86.7 254.2 line
+0.00 0.00 0.00 setrgbcolor
+87.9 251.7 132.3 256.6 line
+0.00 0.00 0.00 setrgbcolor
+132.3 256.6 87.9 251.7 line
+0.00 0.00 0.00 setrgbcolor
+164.0 228.0 86.3 240.3 line
+0.00 0.00 0.00 setrgbcolor
+86.3 240.3 164.0 228.0 line
+0.00 0.00 0.00 setrgbcolor
+164.0 226.9 91.5 219.1 line
+0.00 0.00 0.00 setrgbcolor
+91.5 219.1 164.0 226.9 line
+0.00 0.00 0.00 setrgbcolor
+164.5 229.3 103.4 261.9 line
+0.00 0.00 0.00 setrgbcolor
+103.4 261.9 164.5 229.3 line
+0.00 0.00 0.00 setrgbcolor
+164.9 230.0 118.2 267.5 line
+0.00 0.00 0.00 setrgbcolor
+118.2 267.5 164.9 230.0 line
+0.00 0.00 0.00 setrgbcolor
+164.3 228.9 94.1 256.2 line
+0.00 0.00 0.00 setrgbcolor
+94.1 256.2 164.3 228.9 line
+0.00 0.00 0.00 setrgbcolor
+165.1 230.2 139.4 254.3 line
+0.00 0.00 0.00 setrgbcolor
+139.4 254.3 165.1 230.2 line
+0.00 0.00 0.00 setrgbcolor
+169.8 231.2 182.7 261.5 line
+0.00 0.00 0.00 setrgbcolor
+182.7 261.5 169.8 231.2 line
+0.00 0.00 0.00 setrgbcolor
+153.5 214.4 91.5 218.4 line
+0.00 0.00 0.00 setrgbcolor
+91.5 218.4 153.5 214.4 line
+0.00 0.00 0.00 setrgbcolor
+154.5 216.8 102.9 261.1 line
+0.00 0.00 0.00 setrgbcolor
+102.9 261.1 154.5 216.8 line
+0.00 0.00 0.00 setrgbcolor
+155.1 217.4 117.5 266.8 line
+0.00 0.00 0.00 setrgbcolor
+117.5 266.8 155.1 217.4 line
+0.00 0.00 0.00 setrgbcolor
+154.1 216.4 93.7 255.4 line
+0.00 0.00 0.00 setrgbcolor
+93.7 255.4 154.1 216.4 line
+0.00 0.00 0.00 setrgbcolor
+155.8 217.8 138.2 253.4 line
+0.00 0.00 0.00 setrgbcolor
+138.2 253.4 155.8 217.8 line
+0.00 0.00 0.00 setrgbcolor
+159.5 217.8 182.4 261.6 line
+0.00 0.00 0.00 setrgbcolor
+182.4 261.6 159.5 217.8 line
+0.00 0.00 0.00 setrgbcolor
+160.2 217.4 165.6 224.1 line
+0.00 0.00 0.00 setrgbcolor
+165.6 224.1 160.2 217.4 line
+0.00 0.00 0.00 setrgbcolor
+101.0 210.9 99.8 259.7 line
+0.00 0.00 0.00 setrgbcolor
+99.8 259.7 101.0 210.9 line
+0.00 0.00 0.00 setrgbcolor
+101.9 210.8 114.1 266.0 line
+0.00 0.00 0.00 setrgbcolor
+114.1 266.0 101.9 210.8 line
+0.00 0.00 0.00 setrgbcolor
+100.2 210.8 91.1 253.6 line
+0.00 0.00 0.00 setrgbcolor
+91.1 253.6 100.2 210.8 line
+0.00 0.00 0.00 setrgbcolor
+103.4 210.1 134.0 253.7 line
+0.00 0.00 0.00 setrgbcolor
+134.0 253.7 103.4 210.1 line
+0.00 0.00 0.00 setrgbcolor
+104.5 209.1 180.9 262.9 line
+0.00 0.00 0.00 setrgbcolor
+180.9 262.9 104.5 209.1 line
+0.00 0.00 0.00 setrgbcolor
+105.0 208.0 164.2 226.1 line
+0.00 0.00 0.00 setrgbcolor
+164.2 226.1 105.0 208.0 line
+0.00 0.00 0.00 setrgbcolor
+105.2 207.3 153.5 213.6 line
+0.00 0.00 0.00 setrgbcolor
+153.5 213.6 105.2 207.3 line
+0.00 0.00 0.00 setrgbcolor
+148.9 208.4 117.0 266.5 line
+0.00 0.00 0.00 setrgbcolor
+117.0 266.5 148.9 208.4 line
+0.00 0.00 0.00 setrgbcolor
+147.8 207.5 93.3 255.0 line
+0.00 0.00 0.00 setrgbcolor
+93.3 255.0 147.8 207.5 line
+0.00 0.00 0.00 setrgbcolor
+149.8 208.8 137.5 253.1 line
+0.00 0.00 0.00 setrgbcolor
+137.5 253.1 149.8 208.8 line
+0.00 0.00 0.00 setrgbcolor
+152.9 208.4 182.3 261.7 line
+0.00 0.00 0.00 setrgbcolor
+182.3 261.7 152.9 208.4 line
+0.00 0.00 0.00 setrgbcolor
+153.4 208.1 165.6 224.0 line
+0.00 0.00 0.00 setrgbcolor
+165.6 224.0 153.4 208.1 line
+0.00 0.00 0.00 setrgbcolor
+153.3 208.2 155.2 210.7 line
+0.00 0.00 0.00 setrgbcolor
+155.2 210.7 153.3 208.2 line
+0.00 0.00 0.00 setrgbcolor
+146.8 204.9 105.2 206.6 line
+0.00 0.00 0.00 setrgbcolor
+105.2 206.6 146.8 204.9 line
+0.00 0.00 0.00 setrgbcolor
+114.0 198.0 91.7 253.8 line
+0.00 0.00 0.00 setrgbcolor
+91.7 253.8 114.0 198.0 line
+0.00 0.00 0.00 setrgbcolor
+116.8 198.0 135.1 253.1 line
+0.00 0.00 0.00 setrgbcolor
+135.1 253.1 116.8 198.0 line
+0.00 0.00 0.00 setrgbcolor
+118.4 197.1 181.4 262.3 line
+0.00 0.00 0.00 setrgbcolor
+181.4 262.3 118.4 197.1 line
+0.00 0.00 0.00 setrgbcolor
+119.1 196.3 164.6 225.1 line
+0.00 0.00 0.00 setrgbcolor
+164.6 225.1 119.1 196.3 line
+0.00 0.00 0.00 setrgbcolor
+119.3 195.9 153.9 212.3 line
+0.00 0.00 0.00 setrgbcolor
+153.9 212.3 119.3 195.9 line
+0.00 0.00 0.00 setrgbcolor
+112.4 196.8 104.2 204.0 line
+0.00 0.00 0.00 setrgbcolor
+104.2 204.0 112.4 196.8 line
+0.00 0.00 0.00 setrgbcolor
+119.5 195.3 146.9 203.6 line
+0.00 0.00 0.00 setrgbcolor
+146.9 203.6 119.5 195.3 line
+0.00 0.00 0.00 setrgbcolor
+146.1 201.4 137.1 253.0 line
+0.00 0.00 0.00 setrgbcolor
+137.1 253.0 146.1 201.4 line
+0.00 0.00 0.00 setrgbcolor
+148.8 201.0 182.3 261.7 line
+0.00 0.00 0.00 setrgbcolor
+182.3 261.7 148.8 201.0 line
+0.00 0.00 0.00 setrgbcolor
+149.2 200.7 165.7 224.0 line
+0.00 0.00 0.00 setrgbcolor
+165.7 224.0 149.2 200.7 line
+0.00 0.00 0.00 setrgbcolor
+149.1 200.8 155.4 210.6 line
+0.00 0.00 0.00 setrgbcolor
+155.4 210.6 149.1 200.8 line
+0.00 0.00 0.00 setrgbcolor
+142.8 198.2 105.1 205.9 line
+0.00 0.00 0.00 setrgbcolor
+105.1 205.9 142.8 198.2 line
+0.00 0.00 0.00 setrgbcolor
+148.8 201.0 148.9 201.1 line
+0.00 0.00 0.00 setrgbcolor
+148.9 201.1 148.8 201.0 line
+0.00 0.00 0.00 setrgbcolor
+142.7 196.9 119.7 194.5 line
+0.00 0.00 0.00 setrgbcolor
+119.7 194.5 142.7 196.9 line
+0.00 0.00 0.00 setrgbcolor
+137.9 197.2 182.0 261.9 line
+0.00 0.00 0.00 setrgbcolor
+182.0 261.9 137.9 197.2 line
+0.00 0.00 0.00 setrgbcolor
+138.5 196.7 165.3 224.4 line
+0.00 0.00 0.00 setrgbcolor
+165.3 224.4 138.5 196.7 line
+0.00 0.00 0.00 setrgbcolor
+138.6 196.6 154.6 211.3 line
+0.00 0.00 0.00 setrgbcolor
+154.6 211.3 138.6 196.6 line
+0.00 0.00 0.00 setrgbcolor
+131.7 195.2 104.9 205.3 line
+0.00 0.00 0.00 setrgbcolor
+104.9 205.3 131.7 195.2 line
+0.00 0.00 0.00 setrgbcolor
+139.0 196.2 147.5 202.3 line
+0.00 0.00 0.00 setrgbcolor
+147.5 202.3 139.0 196.2 line
+0.00 0.00 0.00 setrgbcolor
+131.4 193.8 119.7 194.0 line
+0.00 0.00 0.00 setrgbcolor
+119.7 194.0 131.4 193.8 line
+0.00 0.00 0.00 setrgbcolor
+139.5 195.0 142.9 196.1 line
+0.00 0.00 0.00 setrgbcolor
+142.9 196.1 139.5 195.0 line
+0.00 0.00 0.00 setrgbcolor
+137.5 190.2 165.5 224.1 line
+0.00 0.00 0.00 setrgbcolor
+165.5 224.1 137.5 190.2 line
+0.00 0.00 0.00 setrgbcolor
+137.5 190.1 154.9 210.9 line
+0.00 0.00 0.00 setrgbcolor
+154.9 210.9 137.5 190.1 line
+0.00 0.00 0.00 setrgbcolor
+131.2 189.1 104.6 204.6 line
+0.00 0.00 0.00 setrgbcolor
+104.6 204.6 131.2 189.1 line
+0.00 0.00 0.00 setrgbcolor
+137.6 190.0 148.1 201.7 line
+0.00 0.00 0.00 setrgbcolor
+148.1 201.7 137.6 190.0 line
+0.00 0.00 0.00 setrgbcolor
+130.9 188.4 119.4 192.6 line
+0.00 0.00 0.00 setrgbcolor
+119.4 192.6 130.9 188.4 line
+0.00 0.00 0.00 setrgbcolor
+138.0 189.7 143.7 194.6 line
+0.00 0.00 0.00 setrgbcolor
+143.7 194.6 138.0 189.7 line
+0.00 0.00 0.00 setrgbcolor
+135.3 191.1 135.1 189.6 line
+0.00 0.00 0.00 setrgbcolor
+135.1 189.6 135.3 191.1 line
+0.00 0.00 0.00 setrgbcolor
+128.0 187.7 154.5 211.3 line
+0.00 0.00 0.00 setrgbcolor
+154.5 211.3 128.0 187.7 line
+0.00 0.00 0.00 setrgbcolor
+121.8 187.8 104.1 203.9 line
+0.00 0.00 0.00 setrgbcolor
+104.1 203.9 121.8 187.8 line
+0.00 0.00 0.00 setrgbcolor
+128.2 187.5 147.6 202.3 line
+0.00 0.00 0.00 setrgbcolor
+147.6 202.3 128.2 187.5 line
+0.00 0.00 0.00 setrgbcolor
+121.9 187.9 118.5 191.2 line
+0.00 0.00 0.00 setrgbcolor
+118.5 191.2 121.9 187.9 line
+0.00 0.00 0.00 setrgbcolor
+128.5 187.0 143.2 195.3 line
+0.00 0.00 0.00 setrgbcolor
+143.2 195.3 128.5 187.0 line
+0.00 0.00 0.00 setrgbcolor
+128.1 187.6 132.4 191.1 line
+0.00 0.00 0.00 setrgbcolor
+132.4 191.1 128.1 187.6 line
+0.00 0.00 0.00 setrgbcolor
+129.0 185.8 130.7 186.1 line
+0.00 0.00 0.00 setrgbcolor
+130.7 186.1 129.0 185.8 line
+0.00 0.00 0.00 setrgbcolor
+113.6 187.3 103.3 203.2 line
+0.00 0.00 0.00 setrgbcolor
+103.3 203.2 113.6 187.3 line
+0.00 0.00 0.00 setrgbcolor
+119.4 185.9 147.3 202.6 line
+0.00 0.00 0.00 setrgbcolor
+147.3 202.6 119.4 185.9 line
+0.00 0.00 0.00 setrgbcolor
+115.7 188.0 115.7 189.9 line
+0.00 0.00 0.00 setrgbcolor
+115.7 189.9 115.7 188.0 line
+0.00 0.00 0.00 setrgbcolor
+119.7 185.5 143.0 195.6 line
+0.00 0.00 0.00 setrgbcolor
+143.0 195.6 119.7 185.5 line
+0.00 0.00 0.00 setrgbcolor
+119.6 185.7 131.9 191.9 line
+0.00 0.00 0.00 setrgbcolor
+131.9 191.9 119.6 185.7 line
+0.00 0.00 0.00 setrgbcolor
+119.9 184.5 130.7 186.3 line
+0.00 0.00 0.00 setrgbcolor
+130.7 186.3 119.9 184.5 line
+0.00 0.00 0.00 setrgbcolor
+120.0 184.3 120.8 184.4 line
+0.00 0.00 0.00 setrgbcolor
+120.8 184.4 120.0 184.3 line
+0.00 0.00 0.00 setrgbcolor
+103.7 192.1 146.9 203.7 line
+0.00 0.00 0.00 setrgbcolor
+146.9 203.7 103.7 192.1 line
+0.00 0.00 0.00 setrgbcolor
+103.7 191.9 111.5 193.3 line
+0.00 0.00 0.00 setrgbcolor
+111.5 193.3 103.7 191.9 line
+0.00 0.00 0.00 setrgbcolor
+103.8 191.6 142.7 196.8 line
+0.00 0.00 0.00 setrgbcolor
+142.7 196.8 103.8 191.6 line
+0.00 0.00 0.00 setrgbcolor
+103.8 191.4 131.4 193.4 line
+0.00 0.00 0.00 setrgbcolor
+131.4 193.4 103.8 191.4 line
+0.00 0.00 0.00 setrgbcolor
+103.8 190.6 130.7 187.4 line
+0.00 0.00 0.00 setrgbcolor
+130.7 187.4 103.8 190.6 line
+0.00 0.00 0.00 setrgbcolor
+103.7 190.1 120.8 185.9 line
+0.00 0.00 0.00 setrgbcolor
+120.8 185.9 103.7 190.1 line
+0.00 0.00 0.00 setrgbcolor
+103.4 189.4 112.0 185.5 line
+0.00 0.00 0.00 setrgbcolor
+112.0 185.5 103.4 189.4 line
+0.00 0.00 0.00 setrgbcolor
+109.8 187.0 112.9 190.9 line
+0.00 0.00 0.00 setrgbcolor
+112.9 190.9 109.8 187.0 line
+0.00 0.00 0.00 setrgbcolor
+111.2 185.1 142.9 196.0 line
+0.00 0.00 0.00 setrgbcolor
+142.9 196.0 111.2 185.1 line
+0.00 0.00 0.00 setrgbcolor
+111.1 185.1 131.6 192.4 line
+0.00 0.00 0.00 setrgbcolor
+131.6 192.4 111.1 185.1 line
+0.00 0.00 0.00 setrgbcolor
+111.4 184.2 130.7 186.5 line
+0.00 0.00 0.00 setrgbcolor
+130.7 186.5 111.4 184.2 line
+0.00 0.00 0.00 setrgbcolor
+111.4 184.0 120.7 184.7 line
+0.00 0.00 0.00 setrgbcolor
+120.7 184.7 111.4 184.0 line
+0.00 0.00 0.00 setrgbcolor
+111.4 183.8 111.7 183.8 line
+0.00 0.00 0.00 setrgbcolor
+111.7 183.8 111.4 183.8 line
+0.00 0.00 0.00 setrgbcolor
+104.2 186.6 102.6 188.2 line
+0.00 0.00 0.00 setrgbcolor
+102.6 188.2 104.2 186.6 line
+0.00 0.00 0.00 setrgbcolor
+98.0 190.3 142.7 196.7 line
+0.00 0.00 0.00 setrgbcolor
+142.7 196.7 98.0 190.3 line
+0.00 0.00 0.00 setrgbcolor
+98.0 190.1 131.4 193.3 line
+0.00 0.00 0.00 setrgbcolor
+131.4 193.3 98.0 190.1 line
+0.00 0.00 0.00 setrgbcolor
+98.0 189.4 130.7 187.2 line
+0.00 0.00 0.00 setrgbcolor
+130.7 187.2 98.0 189.4 line
+0.00 0.00 0.00 setrgbcolor
+98.0 189.0 120.8 185.6 line
+0.00 0.00 0.00 setrgbcolor
+120.8 185.6 98.0 189.0 line
+0.00 0.00 0.00 setrgbcolor
+97.9 188.6 111.8 184.9 line
+0.00 0.00 0.00 setrgbcolor
+111.8 184.9 97.9 188.6 line
+0.00 0.00 0.00 setrgbcolor
+97.9 190.6 95.6 190.1 line
+0.00 0.00 0.00 setrgbcolor
+95.6 190.1 97.9 190.6 line
+0.00 0.00 0.00 setrgbcolor
+97.7 188.0 103.4 185.4 line
+0.00 0.00 0.00 setrgbcolor
+103.4 185.4 97.7 188.0 line
+0.00 0.00 0.00 setrgbcolor
+97.0 183.9 131.5 192.7 line
+0.00 0.00 0.00 setrgbcolor
+131.5 192.7 97.0 183.9 line
+0.00 0.00 0.00 setrgbcolor
+97.1 183.3 130.7 186.5 line
+0.00 0.00 0.00 setrgbcolor
+130.7 186.5 97.1 183.3 line
+0.00 0.00 0.00 setrgbcolor
+97.1 183.2 120.7 184.7 line
+0.00 0.00 0.00 setrgbcolor
+120.7 184.7 97.1 183.2 line
+0.00 0.00 0.00 setrgbcolor
+97.1 183.1 111.7 183.6 line
+0.00 0.00 0.00 setrgbcolor
+111.7 183.6 97.1 183.1 line
+0.00 0.00 0.00 setrgbcolor
+95.6 186.1 97.0 187.8 line
+0.00 0.00 0.00 setrgbcolor
+97.0 187.8 95.6 186.1 line
+0.00 0.00 0.00 setrgbcolor
+97.1 183.1 103.1 183.5 line
+0.00 0.00 0.00 setrgbcolor
+103.1 183.5 97.1 183.1 line
+0.00 0.00 0.00 setrgbcolor
+93.5 187.0 93.3 185.5 line
+0.00 0.00 0.00 setrgbcolor
+93.3 185.5 93.5 187.0 line
+0.00 0.00 0.00 setrgbcolor
+86.2 192.8 130.7 187.4 line
+0.00 0.00 0.00 setrgbcolor
+130.7 187.4 86.2 192.8 line
+0.00 0.00 0.00 setrgbcolor
+86.2 192.5 120.8 185.7 line
+0.00 0.00 0.00 setrgbcolor
+120.8 185.7 86.2 192.5 line
+0.00 0.00 0.00 setrgbcolor
+86.1 192.1 111.8 184.9 line
+0.00 0.00 0.00 setrgbcolor
+111.8 184.9 86.1 192.1 line
+0.00 0.00 0.00 setrgbcolor
+86.2 192.7 95.5 191.6 line
+0.00 0.00 0.00 setrgbcolor
+95.5 191.6 86.2 192.7 line
+0.00 0.00 0.00 setrgbcolor
+86.0 191.8 103.3 185.2 line
+0.00 0.00 0.00 setrgbcolor
+103.3 185.2 86.0 191.8 line
+0.00 0.00 0.00 setrgbcolor
+86.1 192.0 89.9 190.9 line
+0.00 0.00 0.00 setrgbcolor
+89.9 190.9 86.1 192.0 line
+0.00 0.00 0.00 setrgbcolor
+85.1 190.4 90.0 185.8 line
+0.00 0.00 0.00 setrgbcolor
+90.0 185.8 85.1 190.4 line
+0.00 0.00 0.00 setrgbcolor
+86.9 197.9 121.0 186.3 line
+0.00 0.00 0.00 setrgbcolor
+121.0 186.3 86.9 197.9 line
+0.00 0.00 0.00 setrgbcolor
+86.8 197.5 112.1 185.6 line
+0.00 0.00 0.00 setrgbcolor
+112.1 185.6 86.8 197.5 line
+0.00 0.00 0.00 setrgbcolor
+86.7 197.4 95.9 192.9 line
+0.00 0.00 0.00 setrgbcolor
+95.9 192.9 86.7 197.4 line
+0.00 0.00 0.00 setrgbcolor
+86.5 197.0 103.7 186.0 line
+0.00 0.00 0.00 setrgbcolor
+103.7 186.0 86.5 197.0 line
+0.00 0.00 0.00 setrgbcolor
+86.1 196.5 90.7 192.4 line
+0.00 0.00 0.00 setrgbcolor
+90.7 192.4 86.1 196.5 line
+0.00 0.00 0.00 setrgbcolor
+85.2 195.7 90.8 186.5 line
+0.00 0.00 0.00 setrgbcolor
+90.8 186.5 85.2 195.7 line
+0.00 0.00 0.00 setrgbcolor
+82.4 195.1 82.7 197.4 line
+0.00 0.00 0.00 setrgbcolor
+82.7 197.4 82.4 195.1 line
+0.00 0.00 0.00 setrgbcolor
+85.1 204.7 112.4 186.1 line
+0.00 0.00 0.00 setrgbcolor
+112.4 186.1 85.1 204.7 line
+0.00 0.00 0.00 setrgbcolor
+84.8 204.2 96.5 193.8 line
+0.00 0.00 0.00 setrgbcolor
+96.5 193.8 84.8 204.2 line
+0.00 0.00 0.00 setrgbcolor
+84.7 204.2 104.1 186.5 line
+0.00 0.00 0.00 setrgbcolor
+104.1 186.5 84.7 204.2 line
+0.00 0.00 0.00 setrgbcolor
+84.0 203.6 91.5 193.1 line
+0.00 0.00 0.00 setrgbcolor
+91.5 193.1 84.0 203.6 line
+0.00 0.00 0.00 setrgbcolor
+83.4 203.2 91.2 186.7 line
+0.00 0.00 0.00 setrgbcolor
+91.2 186.7 83.4 203.2 line
+0.00 0.00 0.00 setrgbcolor
+81.8 202.8 82.0 197.4 line
+0.00 0.00 0.00 setrgbcolor
+82.0 197.4 81.8 202.8 line
+0.00 0.00 0.00 setrgbcolor
+82.4 202.9 82.3 203.3 line
+0.00 0.00 0.00 setrgbcolor
+82.3 203.3 82.4 202.9 line
+0.00 0.00 0.00 setrgbcolor
+75.7 208.8 96.3 193.6 line
+0.00 0.00 0.00 setrgbcolor
+96.3 193.6 75.7 208.8 line
+0.00 0.00 0.00 setrgbcolor
+75.6 208.7 104.0 186.3 line
+0.00 0.00 0.00 setrgbcolor
+104.0 186.3 75.6 208.7 line
+0.00 0.00 0.00 setrgbcolor
+75.3 208.3 90.9 192.6 line
+0.00 0.00 0.00 setrgbcolor
+90.9 192.6 75.3 208.3 line
+0.00 0.00 0.00 setrgbcolor
+74.8 207.9 90.5 186.3 line
+0.00 0.00 0.00 setrgbcolor
+90.5 186.3 74.8 207.9 line
+0.00 0.00 0.00 setrgbcolor
+74.3 207.6 80.1 196.9 line
+0.00 0.00 0.00 setrgbcolor
+80.1 196.9 74.3 207.6 line
+0.00 0.00 0.00 setrgbcolor
+75.1 208.2 80.3 202.4 line
+0.00 0.00 0.00 setrgbcolor
+80.3 202.4 75.1 208.2 line
+0.00 0.00 0.00 setrgbcolor
+76.1 209.5 77.9 208.7 line
+0.00 0.00 0.00 setrgbcolor
+77.9 208.7 76.1 209.5 line
+0.00 0.00 0.00 setrgbcolor
+77.3 223.0 104.7 187.0 line
+0.00 0.00 0.00 setrgbcolor
+104.7 187.0 77.3 223.0 line
+0.00 0.00 0.00 setrgbcolor
+76.7 222.6 91.9 193.3 line
+0.00 0.00 0.00 setrgbcolor
+91.9 193.3 76.7 222.6 line
+0.00 0.00 0.00 setrgbcolor
+76.4 222.4 91.4 186.7 line
+0.00 0.00 0.00 setrgbcolor
+91.4 186.7 76.4 222.4 line
+0.00 0.00 0.00 setrgbcolor
+75.7 222.2 81.2 197.3 line
+0.00 0.00 0.00 setrgbcolor
+81.2 197.3 75.7 222.2 line
+0.00 0.00 0.00 setrgbcolor
+76.0 222.3 81.8 203.2 line
+0.00 0.00 0.00 setrgbcolor
+81.8 203.2 76.0 222.3 line
+0.00 0.00 0.00 setrgbcolor
+76.2 222.4 80.2 210.9 line
+0.00 0.00 0.00 setrgbcolor
+80.2 210.9 76.2 222.4 line
+0.00 0.00 0.00 setrgbcolor
+74.1 222.2 73.0 215.4 line
+0.00 0.00 0.00 setrgbcolor
+73.0 215.4 74.1 222.2 line
+0.00 0.00 0.00 setrgbcolor
+75.5 214.7 91.4 193.0 line
+0.00 0.00 0.00 setrgbcolor
+91.4 193.0 75.5 214.7 line
+0.00 0.00 0.00 setrgbcolor
+75.1 214.4 90.9 186.5 line
+0.00 0.00 0.00 setrgbcolor
+90.9 186.5 75.1 214.4 line
+0.00 0.00 0.00 setrgbcolor
+74.5 214.1 80.7 197.2 line
+0.00 0.00 0.00 setrgbcolor
+80.7 197.2 74.5 214.1 line
+0.00 0.00 0.00 setrgbcolor
+75.0 214.3 81.1 202.9 line
+0.00 0.00 0.00 setrgbcolor
+81.1 202.9 75.0 214.3 line
+0.00 0.00 0.00 setrgbcolor
+75.6 214.7 79.1 210.3 line
+0.00 0.00 0.00 setrgbcolor
+79.1 210.3 75.6 214.7 line
+0.00 0.00 0.00 setrgbcolor
+72.6 213.9 72.8 215.4 line
+0.00 0.00 0.00 setrgbcolor
+72.8 215.4 72.6 213.9 line
+0.00 0.00 0.00 setrgbcolor
+73.9 222.1 73.9 222.2 line
+0.00 0.00 0.00 setrgbcolor
+73.9 222.2 73.9 222.1 line
+0.00 0.00 0.00 setrgbcolor
+79.4 230.0 91.8 186.9 line
+0.00 0.00 0.00 setrgbcolor
+91.8 186.9 79.4 230.0 line
+0.00 0.00 0.00 setrgbcolor
+78.6 229.9 81.7 197.4 line
+0.00 0.00 0.00 setrgbcolor
+81.7 197.4 78.6 229.9 line
+0.00 0.00 0.00 setrgbcolor
+78.8 229.9 82.4 203.4 line
+0.00 0.00 0.00 setrgbcolor
+82.4 203.4 78.8 229.9 line
+0.00 0.00 0.00 setrgbcolor
+78.7 229.9 81.1 211.1 line
+0.00 0.00 0.00 setrgbcolor
+81.1 211.1 78.7 229.9 line
+0.00 0.00 0.00 setrgbcolor
+77.2 230.0 73.4 215.3 line
+0.00 0.00 0.00 setrgbcolor
+73.4 215.3 77.2 230.0 line
+0.00 0.00 0.00 setrgbcolor
+76.5 230.2 76.5 230.1 line
+0.00 0.00 0.00 setrgbcolor
+76.5 230.1 76.5 230.2 line
+0.00 0.00 0.00 setrgbcolor
+76.9 230.1 74.3 222.0 line
+0.00 0.00 0.00 setrgbcolor
+74.3 222.0 76.9 230.1 line
+0.00 0.00 0.00 setrgbcolor
+82.2 236.8 82.1 197.4 line
+0.00 0.00 0.00 setrgbcolor
+82.1 197.4 82.2 236.8 line
+0.00 0.00 0.00 setrgbcolor
+82.3 236.8 82.9 203.4 line
+0.00 0.00 0.00 setrgbcolor
+82.9 203.4 82.3 236.8 line
+0.00 0.00 0.00 setrgbcolor
+82.1 236.8 81.7 211.1 line
+0.00 0.00 0.00 setrgbcolor
+81.7 211.1 82.1 236.8 line
+0.00 0.00 0.00 setrgbcolor
+80.9 237.0 73.7 215.2 line
+0.00 0.00 0.00 setrgbcolor
+73.7 215.2 80.9 237.0 line
+0.00 0.00 0.00 setrgbcolor
+80.3 237.3 76.6 230.0 line
+0.00 0.00 0.00 setrgbcolor
+76.6 230.0 80.3 237.3 line
+0.00 0.00 0.00 setrgbcolor
+80.6 237.1 74.6 221.9 line
+0.00 0.00 0.00 setrgbcolor
+74.6 221.9 80.6 237.1 line
+0.00 0.00 0.00 setrgbcolor
+80.1 237.4 80.3 237.6 line
+0.00 0.00 0.00 setrgbcolor
+80.3 237.6 80.1 237.4 line
+0.00 0.00 0.00 setrgbcolor
+86.5 214.6 83.9 203.3 line
+0.00 0.00 0.00 setrgbcolor
+83.9 203.3 86.5 214.6 line
+0.00 0.00 0.00 setrgbcolor
+85.5 214.9 83.5 210.7 line
+0.00 0.00 0.00 setrgbcolor
+83.5 210.7 85.5 214.9 line
+0.00 0.00 0.00 setrgbcolor
+83.6 216.8 76.1 213.1 line
+0.00 0.00 0.00 setrgbcolor
+76.1 213.1 83.6 216.8 line
+0.00 0.00 0.00 setrgbcolor
+83.8 220.8 78.3 224.1 line
+0.00 0.00 0.00 setrgbcolor
+78.3 224.1 83.8 220.8 line
+0.00 0.00 0.00 setrgbcolor
+83.2 218.4 77.2 218.2 line
+0.00 0.00 0.00 setrgbcolor
+77.2 218.2 83.2 218.4 line
+0.00 0.00 0.00 setrgbcolor
+85.2 222.2 80.3 230.5 line
+0.00 0.00 0.00 setrgbcolor
+80.3 230.5 85.2 222.2 line
+0.00 0.00 0.00 setrgbcolor
+86.4 222.7 83.1 236.9 line
+0.00 0.00 0.00 setrgbcolor
+83.1 236.9 86.4 222.7 line
+0.00 0.00 0.00 setrgbcolor
+98.5 259.9 82.9 211.0 line
+0.00 0.00 0.00 setrgbcolor
+82.9 211.0 98.5 259.9 line
+0.00 0.00 0.00 setrgbcolor
+97.8 260.2 74.3 215.0 line
+0.00 0.00 0.00 setrgbcolor
+74.3 215.0 97.8 260.2 line
+0.00 0.00 0.00 setrgbcolor
+97.4 260.4 77.1 229.7 line
+0.00 0.00 0.00 setrgbcolor
+77.1 229.7 97.4 260.4 line
+0.00 0.00 0.00 setrgbcolor
+97.6 260.3 75.1 221.6 line
+0.00 0.00 0.00 setrgbcolor
+75.1 221.6 97.6 260.3 line
+0.00 0.00 0.00 setrgbcolor
+97.3 260.5 80.6 237.4 line
+0.00 0.00 0.00 setrgbcolor
+80.6 237.4 97.3 260.5 line
+0.00 0.00 0.00 setrgbcolor
+97.2 260.5 84.7 244.3 line
+0.00 0.00 0.00 setrgbcolor
+84.7 244.3 97.2 260.5 line
+0.00 0.00 0.00 setrgbcolor
+98.6 259.8 88.5 222.6 line
+0.00 0.00 0.00 setrgbcolor
+88.5 222.6 98.6 259.8 line
+0.00 0.00 0.00 setrgbcolor
+112.5 266.7 74.8 214.6 line
+0.00 0.00 0.00 setrgbcolor
+74.8 214.6 112.5 266.7 line
+0.00 0.00 0.00 setrgbcolor
+112.2 267.0 77.6 229.3 line
+0.00 0.00 0.00 setrgbcolor
+77.6 229.3 112.2 267.0 line
+0.00 0.00 0.00 setrgbcolor
+112.4 266.9 75.7 221.3 line
+0.00 0.00 0.00 setrgbcolor
+75.7 221.3 112.4 266.9 line
+0.00 0.00 0.00 setrgbcolor
+112.0 267.2 81.2 236.9 line
+0.00 0.00 0.00 setrgbcolor
+81.2 236.9 112.0 267.2 line
+0.00 0.00 0.00 setrgbcolor
+111.9 267.3 85.3 243.8 line
+0.00 0.00 0.00 setrgbcolor
+85.3 243.8 111.9 267.3 line
+0.00 0.00 0.00 setrgbcolor
+113.0 266.4 89.3 222.3 line
+0.00 0.00 0.00 setrgbcolor
+89.3 222.3 113.0 266.4 line
+0.00 0.00 0.00 setrgbcolor
+111.1 268.5 103.6 265.4 line
+0.00 0.00 0.00 setrgbcolor
+103.6 265.4 111.1 268.5 line
+0.00 0.00 0.00 setrgbcolor
+88.4 254.0 76.6 230.0 line
+0.00 0.00 0.00 setrgbcolor
+76.6 230.0 88.4 254.0 line
+0.00 0.00 0.00 setrgbcolor
+88.6 253.9 74.7 221.8 line
+0.00 0.00 0.00 setrgbcolor
+74.7 221.8 88.6 253.9 line
+0.00 0.00 0.00 setrgbcolor
+88.3 254.0 80.1 237.7 line
+0.00 0.00 0.00 setrgbcolor
+80.1 237.7 88.3 254.0 line
+0.00 0.00 0.00 setrgbcolor
+88.4 253.9 84.0 244.7 line
+0.00 0.00 0.00 setrgbcolor
+84.0 244.7 88.4 253.9 line
+0.00 0.00 0.00 setrgbcolor
+89.9 253.5 87.7 222.8 line
+0.00 0.00 0.00 setrgbcolor
+87.7 222.8 89.9 253.5 line
+0.00 0.00 0.00 setrgbcolor
+93.7 260.0 96.2 261.6 line
+0.00 0.00 0.00 setrgbcolor
+96.2 261.6 93.7 260.0 line
+0.00 0.00 0.00 setrgbcolor
+93.9 259.6 111.2 268.2 line
+0.00 0.00 0.00 setrgbcolor
+111.2 268.2 93.9 259.6 line
+0.00 0.00 0.00 setrgbcolor
+132.9 254.9 76.6 220.2 line
+0.00 0.00 0.00 setrgbcolor
+76.6 220.2 132.9 254.9 line
+0.00 0.00 0.00 setrgbcolor
+132.5 255.6 82.1 235.6 line
+0.00 0.00 0.00 setrgbcolor
+82.1 235.6 132.5 255.6 line
+0.00 0.00 0.00 setrgbcolor
+132.4 255.9 86.2 242.2 line
+0.00 0.00 0.00 setrgbcolor
+86.2 242.2 132.4 255.9 line
+0.00 0.00 0.00 setrgbcolor
+133.1 254.5 90.6 221.2 line
+0.00 0.00 0.00 setrgbcolor
+90.6 221.2 133.1 254.5 line
+0.00 0.00 0.00 setrgbcolor
+132.3 257.8 103.8 263.1 line
+0.00 0.00 0.00 setrgbcolor
+103.8 263.1 132.3 257.8 line
+0.00 0.00 0.00 setrgbcolor
+132.8 259.3 118.5 267.9 line
+0.00 0.00 0.00 setrgbcolor
+118.5 267.9 132.8 259.3 line
+0.00 0.00 0.00 setrgbcolor
+132.2 257.2 94.4 257.6 line
+0.00 0.00 0.00 setrgbcolor
+94.4 257.6 132.2 257.2 line
+0.00 0.00 0.00 setrgbcolor
+180.3 264.2 82.2 235.2 line
+0.00 0.00 0.00 setrgbcolor
+82.2 235.2 180.3 264.2 line
+0.00 0.00 0.00 setrgbcolor
+180.2 264.4 86.2 242.0 line
+0.00 0.00 0.00 setrgbcolor
+86.2 242.0 180.2 264.4 line
+0.00 0.00 0.00 setrgbcolor
+180.5 263.5 91.1 220.4 line
+0.00 0.00 0.00 setrgbcolor
+91.1 220.4 180.5 263.5 line
+0.00 0.00 0.00 setrgbcolor
+180.1 265.3 103.9 263.9 line
+0.00 0.00 0.00 setrgbcolor
+103.9 263.9 180.1 265.3 line
+0.00 0.00 0.00 setrgbcolor
+180.1 265.6 119.1 269.8 line
+0.00 0.00 0.00 setrgbcolor
+119.1 269.8 180.1 265.6 line
+0.00 0.00 0.00 setrgbcolor
+180.1 265.0 94.3 258.0 line
+0.00 0.00 0.00 setrgbcolor
+94.3 258.0 180.1 265.0 line
+0.00 0.00 0.00 setrgbcolor
+180.2 264.6 140.5 257.8 line
+0.00 0.00 0.00 setrgbcolor
+140.5 257.8 180.2 264.6 line
+0.00 0.00 0.00 setrgbcolor
+374.9 382.6 287.4 339.5 line
+0.00 0.00 0.00 setrgbcolor
+287.4 339.5 374.9 382.6 line
+0.00 0.00 0.00 setrgbcolor
+451.5 327.5 452.7 328.5 line
+0.00 0.00 0.00 setrgbcolor
+452.7 328.5 451.5 327.5 line
+0.00 0.00 0.00 setrgbcolor
+450.2 328.5 465.4 360.6 line
+0.00 0.00 0.00 setrgbcolor
+465.4 360.6 450.2 328.5 line
+0.00 0.00 0.00 setrgbcolor
+450.9 328.1 460.3 340.6 line
+0.00 0.00 0.00 setrgbcolor
+460.3 340.6 450.9 328.1 line
+0.00 0.00 0.00 setrgbcolor
+444.4 323.8 443.9 323.6 line
+0.00 0.00 0.00 setrgbcolor
+443.9 323.6 444.4 323.8 line
+0.00 0.00 0.00 setrgbcolor
+444.3 324.2 435.1 322.9 line
+0.00 0.00 0.00 setrgbcolor
+435.1 322.9 444.3 324.2 line
+0.00 0.00 0.00 setrgbcolor
+444.2 324.6 422.0 323.3 line
+0.00 0.00 0.00 setrgbcolor
+422.0 323.3 444.2 324.6 line
+0.00 0.00 0.00 setrgbcolor
+445.3 327.6 418.6 351.7 line
+0.00 0.00 0.00 setrgbcolor
+418.6 351.7 445.3 327.6 line
+0.00 0.00 0.00 setrgbcolor
+408.8 397.1 463.5 366.3 line
+0.00 0.00 0.00 setrgbcolor
+463.5 366.3 408.8 397.1 line
+0.00 0.00 0.00 setrgbcolor
+408.2 396.2 459.8 346.8 line
+0.00 0.00 0.00 setrgbcolor
+459.8 346.8 408.2 396.2 line
+0.00 0.00 0.00 setrgbcolor
+406.9 395.3 438.1 326.4 line
+0.00 0.00 0.00 setrgbcolor
+438.1 326.4 406.9 395.3 line
+0.00 0.00 0.00 setrgbcolor
+406.5 395.2 429.6 326.3 line
+0.00 0.00 0.00 setrgbcolor
+429.6 326.3 406.5 395.2 line
+0.00 0.00 0.00 setrgbcolor
+405.9 395.0 417.1 327.2 line
+0.00 0.00 0.00 setrgbcolor
+417.1 327.2 405.9 395.0 line
+0.00 0.00 0.00 setrgbcolor
+406.1 395.1 414.6 358.6 line
+0.00 0.00 0.00 setrgbcolor
+414.6 358.6 406.1 395.1 line
+0.00 0.00 0.00 setrgbcolor
+401.5 397.1 382.3 386.5 line
+0.00 0.00 0.00 setrgbcolor
+382.3 386.5 401.5 397.1 line
+0.00 0.00 0.00 setrgbcolor
+422.1 393.2 460.1 347.1 line
+0.00 0.00 0.00 setrgbcolor
+460.1 347.1 422.1 393.2 line
+0.00 0.00 0.00 setrgbcolor
+420.5 392.4 438.7 326.6 line
+0.00 0.00 0.00 setrgbcolor
+438.7 326.6 420.5 392.4 line
+0.00 0.00 0.00 setrgbcolor
+420.0 392.3 430.3 326.5 line
+0.00 0.00 0.00 setrgbcolor
+430.3 326.5 420.0 392.3 line
+0.00 0.00 0.00 setrgbcolor
+419.3 392.3 417.9 327.3 line
+0.00 0.00 0.00 setrgbcolor
+417.9 327.3 419.3 392.3 line
+0.00 0.00 0.00 setrgbcolor
+419.0 392.3 415.9 358.7 line
+0.00 0.00 0.00 setrgbcolor
+415.9 358.7 419.0 392.3 line
+0.00 0.00 0.00 setrgbcolor
+415.4 395.3 382.6 385.6 line
+0.00 0.00 0.00 setrgbcolor
+382.6 385.6 415.4 395.3 line
+0.00 0.00 0.00 setrgbcolor
+415.3 397.2 409.3 398.3 line
+0.00 0.00 0.00 setrgbcolor
+409.3 398.3 415.3 397.2 line
+0.00 0.00 0.00 setrgbcolor
+404.4 384.5 437.8 326.2 line
+0.00 0.00 0.00 setrgbcolor
+437.8 326.2 404.4 384.5 line
+0.00 0.00 0.00 setrgbcolor
+404.0 384.3 429.3 326.2 line
+0.00 0.00 0.00 setrgbcolor
+429.3 326.2 404.0 384.3 line
+0.00 0.00 0.00 setrgbcolor
+403.3 384.0 416.8 327.1 line
+0.00 0.00 0.00 setrgbcolor
+416.8 327.1 403.3 384.0 line
+0.00 0.00 0.00 setrgbcolor
+403.9 384.2 414.0 358.4 line
+0.00 0.00 0.00 setrgbcolor
+414.0 358.4 403.9 384.2 line
+0.00 0.00 0.00 setrgbcolor
+398.2 387.4 382.8 385.1 line
+0.00 0.00 0.00 setrgbcolor
+382.8 385.1 398.2 387.4 line
+0.00 0.00 0.00 setrgbcolor
+403.4 392.1 404.1 395.1 line
+0.00 0.00 0.00 setrgbcolor
+404.1 395.1 403.4 392.1 line
+0.00 0.00 0.00 setrgbcolor
+406.1 389.9 415.7 394.6 line
+0.00 0.00 0.00 setrgbcolor
+415.7 394.6 406.1 389.9 line
+0.00 0.00 0.00 setrgbcolor
+432.2 396.5 431.0 326.5 line
+0.00 0.00 0.00 setrgbcolor
+431.0 326.5 432.2 396.5 line
+0.00 0.00 0.00 setrgbcolor
+431.5 396.6 418.6 327.2 line
+0.00 0.00 0.00 setrgbcolor
+418.6 327.2 431.5 396.6 line
+0.00 0.00 0.00 setrgbcolor
+430.8 396.8 416.9 358.4 line
+0.00 0.00 0.00 setrgbcolor
+416.9 358.4 430.8 396.8 line
+0.00 0.00 0.00 setrgbcolor
+428.3 399.5 382.6 385.6 line
+0.00 0.00 0.00 setrgbcolor
+382.6 385.6 428.3 399.5 line
+0.00 0.00 0.00 setrgbcolor
+428.1 400.4 409.3 399.3 line
+0.00 0.00 0.00 setrgbcolor
+409.3 399.3 428.1 400.4 line
+0.00 0.00 0.00 setrgbcolor
+428.3 399.4 423.4 397.7 line
+0.00 0.00 0.00 setrgbcolor
+423.4 397.7 428.3 399.4 line
+0.00 0.00 0.00 setrgbcolor
+428.4 399.1 406.2 389.7 line
+0.00 0.00 0.00 setrgbcolor
+406.2 389.7 428.4 399.1 line
+0.00 0.00 0.00 setrgbcolor
+422.3 396.4 418.1 327.3 line
+0.00 0.00 0.00 setrgbcolor
+418.1 327.3 422.3 396.4 line
+0.00 0.00 0.00 setrgbcolor
+421.9 396.5 416.2 358.6 line
+0.00 0.00 0.00 setrgbcolor
+416.2 358.6 421.9 396.5 line
+0.00 0.00 0.00 setrgbcolor
+418.7 399.1 382.5 385.9 line
+0.00 0.00 0.00 setrgbcolor
+382.5 385.9 418.7 399.1 line
+0.00 0.00 0.00 setrgbcolor
+418.4 400.2 409.3 399.5 line
+0.00 0.00 0.00 setrgbcolor
+409.3 399.5 418.4 400.2 line
+0.00 0.00 0.00 setrgbcolor
+420.0 397.3 421.9 399.7 line
+0.00 0.00 0.00 setrgbcolor
+421.9 399.7 420.0 397.3 line
+0.00 0.00 0.00 setrgbcolor
+419.0 398.4 405.9 390.3 line
+0.00 0.00 0.00 setrgbcolor
+405.9 390.3 419.0 398.4 line
+0.00 0.00 0.00 setrgbcolor
+426.7 400.6 428.1 400.6 line
+0.00 0.00 0.00 setrgbcolor
+428.1 400.6 426.7 400.6 line
+0.00 0.00 0.00 setrgbcolor
+440.5 392.9 417.8 358.0 line
+0.00 0.00 0.00 setrgbcolor
+417.8 358.0 440.5 392.9 line
+0.00 0.00 0.00 setrgbcolor
+438.7 395.6 382.7 385.2 line
+0.00 0.00 0.00 setrgbcolor
+382.7 385.2 438.7 395.6 line
+0.00 0.00 0.00 setrgbcolor
+438.7 396.7 409.3 398.8 line
+0.00 0.00 0.00 setrgbcolor
+409.3 398.8 438.7 396.7 line
+0.00 0.00 0.00 setrgbcolor
+438.6 396.4 423.6 396.4 line
+0.00 0.00 0.00 setrgbcolor
+423.6 396.4 438.6 396.4 line
+0.00 0.00 0.00 setrgbcolor
+438.7 395.5 406.4 388.9 line
+0.00 0.00 0.00 setrgbcolor
+406.4 388.9 438.7 395.5 line
+0.00 0.00 0.00 setrgbcolor
+438.9 397.9 436.1 399.1 line
+0.00 0.00 0.00 setrgbcolor
+436.1 399.1 438.9 397.9 line
+0.00 0.00 0.00 setrgbcolor
+438.7 397.2 426.6 399.7 line
+0.00 0.00 0.00 setrgbcolor
+426.6 399.7 438.7 397.2 line
+0.00 0.00 0.00 setrgbcolor
+450.5 386.8 382.8 384.6 line
+0.00 0.00 0.00 setrgbcolor
+382.8 384.6 450.5 386.8 line
+0.00 0.00 0.00 setrgbcolor
+450.7 388.0 409.2 398.1 line
+0.00 0.00 0.00 setrgbcolor
+409.2 398.1 450.7 388.0 line
+0.00 0.00 0.00 setrgbcolor
+450.7 388.0 423.4 395.4 line
+0.00 0.00 0.00 setrgbcolor
+423.4 395.4 450.7 388.0 line
+0.00 0.00 0.00 setrgbcolor
+450.5 387.0 406.5 388.0 line
+0.00 0.00 0.00 setrgbcolor
+406.5 388.0 450.5 387.0 line
+0.00 0.00 0.00 setrgbcolor
+451.1 389.1 435.8 398.5 line
+0.00 0.00 0.00 setrgbcolor
+435.8 398.5 451.1 389.1 line
+0.00 0.00 0.00 setrgbcolor
+450.9 388.6 426.4 399.0 line
+0.00 0.00 0.00 setrgbcolor
+426.4 399.0 450.9 388.6 line
+0.00 0.00 0.00 setrgbcolor
+451.4 389.5 446.1 393.8 line
+0.00 0.00 0.00 setrgbcolor
+446.1 393.8 451.4 389.5 line
+0.00 0.00 0.00 setrgbcolor
+441.9 406.4 409.3 399.9 line
+0.00 0.00 0.00 setrgbcolor
+409.3 399.9 441.9 406.4 line
+0.00 0.00 0.00 setrgbcolor
+442.1 405.6 423.3 398.0 line
+0.00 0.00 0.00 setrgbcolor
+423.3 398.0 442.1 405.6 line
+0.00 0.00 0.00 setrgbcolor
+442.1 405.5 406.2 389.7 line
+0.00 0.00 0.00 setrgbcolor
+406.2 389.7 442.1 405.5 line
+0.00 0.00 0.00 setrgbcolor
+442.2 405.4 436.0 402.5 line
+0.00 0.00 0.00 setrgbcolor
+436.0 402.5 442.2 405.4 line
+0.00 0.00 0.00 setrgbcolor
+441.9 406.1 426.6 401.7 line
+0.00 0.00 0.00 setrgbcolor
+426.6 401.7 441.9 406.1 line
+0.00 0.00 0.00 setrgbcolor
+444.8 403.2 444.0 400.4 line
+0.00 0.00 0.00 setrgbcolor
+444.0 400.4 444.8 403.2 line
+0.00 0.00 0.00 setrgbcolor
+447.6 403.4 453.0 390.8 line
+0.00 0.00 0.00 setrgbcolor
+453.0 390.8 447.6 403.4 line
+0.00 0.00 0.00 setrgbcolor
+470.0 376.6 423.3 394.9 line
+0.00 0.00 0.00 setrgbcolor
+423.3 394.9 470.0 376.6 line
+0.00 0.00 0.00 setrgbcolor
+469.7 375.8 406.4 387.3 line
+0.00 0.00 0.00 setrgbcolor
+406.4 387.3 469.7 375.8 line
+0.00 0.00 0.00 setrgbcolor
+470.3 377.2 435.8 398.5 line
+0.00 0.00 0.00 setrgbcolor
+435.8 398.5 470.3 377.2 line
+0.00 0.00 0.00 setrgbcolor
+470.1 376.9 426.3 398.7 line
+0.00 0.00 0.00 setrgbcolor
+426.3 398.7 470.1 376.9 line
+0.00 0.00 0.00 setrgbcolor
+470.4 377.4 446.2 394.0 line
+0.00 0.00 0.00 setrgbcolor
+446.2 394.0 470.4 377.4 line
+0.00 0.00 0.00 setrgbcolor
+470.3 377.3 458.2 384.8 line
+0.00 0.00 0.00 setrgbcolor
+458.2 384.8 470.3 377.3 line
+0.00 0.00 0.00 setrgbcolor
+471.1 378.2 448.7 404.0 line
+0.00 0.00 0.00 setrgbcolor
+448.7 404.0 471.1 378.2 line
+0.00 0.00 0.00 setrgbcolor
+453.8 403.0 406.3 389.2 line
+0.00 0.00 0.00 setrgbcolor
+406.3 389.2 453.8 403.0 line
+0.00 0.00 0.00 setrgbcolor
+453.7 403.6 436.4 401.2 line
+0.00 0.00 0.00 setrgbcolor
+436.4 401.2 453.7 403.6 line
+0.00 0.00 0.00 setrgbcolor
+453.7 403.7 426.7 401.0 line
+0.00 0.00 0.00 setrgbcolor
+426.7 401.0 453.7 403.7 line
+0.00 0.00 0.00 setrgbcolor
+454.1 402.2 446.5 398.3 line
+0.00 0.00 0.00 setrgbcolor
+446.5 398.3 454.1 402.2 line
+0.00 0.00 0.00 setrgbcolor
+457.1 400.1 455.4 391.1 line
+0.00 0.00 0.00 setrgbcolor
+455.4 391.1 457.1 400.1 line
+0.00 0.00 0.00 setrgbcolor
+453.8 405.2 450.0 406.2 line
+0.00 0.00 0.00 setrgbcolor
+450.0 406.2 453.8 405.2 line
+0.00 0.00 0.00 setrgbcolor
+459.8 400.5 471.8 378.7 line
+0.00 0.00 0.00 setrgbcolor
+471.8 378.7 459.8 400.5 line
+0.00 0.00 0.00 setrgbcolor
+457.1 397.3 436.4 400.1 line
+0.00 0.00 0.00 setrgbcolor
+436.4 400.1 457.1 397.3 line
+0.00 0.00 0.00 setrgbcolor
+457.1 397.1 426.7 400.2 line
+0.00 0.00 0.00 setrgbcolor
+426.7 400.2 457.1 397.1 line
+0.00 0.00 0.00 setrgbcolor
+457.1 396.7 447.0 396.4 line
+0.00 0.00 0.00 setrgbcolor
+447.0 396.4 457.1 396.7 line
+0.00 0.00 0.00 setrgbcolor
+458.9 393.3 457.0 390.4 line
+0.00 0.00 0.00 setrgbcolor
+457.0 390.4 458.9 393.3 line
+0.00 0.00 0.00 setrgbcolor
+457.8 399.1 449.4 404.8 line
+0.00 0.00 0.00 setrgbcolor
+449.4 404.8 457.8 399.1 line
+0.00 0.00 0.00 setrgbcolor
+463.3 393.1 471.7 378.7 line
+0.00 0.00 0.00 setrgbcolor
+471.7 378.7 463.3 393.1 line
+0.00 0.00 0.00 setrgbcolor
+459.5 400.5 459.6 400.4 line
+0.00 0.00 0.00 setrgbcolor
+459.6 400.4 459.5 400.5 line
+0.00 0.00 0.00 setrgbcolor
+463.1 391.0 426.6 399.6 line
+0.00 0.00 0.00 setrgbcolor
+426.6 399.6 463.1 391.0 line
+0.00 0.00 0.00 setrgbcolor
+463.1 391.1 446.8 395.3 line
+0.00 0.00 0.00 setrgbcolor
+446.8 395.3 463.1 391.1 line
+0.00 0.00 0.00 setrgbcolor
+463.1 389.1 458.7 388.0 line
+0.00 0.00 0.00 setrgbcolor
+458.7 388.0 463.1 389.1 line
+0.00 0.00 0.00 setrgbcolor
+463.9 392.7 449.2 404.6 line
+0.00 0.00 0.00 setrgbcolor
+449.2 404.6 463.9 392.7 line
+0.00 0.00 0.00 setrgbcolor
+468.9 386.3 472.1 378.9 line
+0.00 0.00 0.00 setrgbcolor
+472.1 378.9 468.9 386.3 line
+0.00 0.00 0.00 setrgbcolor
+464.9 393.6 460.1 400.7 line
+0.00 0.00 0.00 setrgbcolor
+460.1 400.7 464.9 393.6 line
+0.00 0.00 0.00 setrgbcolor
+464.4 393.2 464.0 393.6 line
+0.00 0.00 0.00 setrgbcolor
+464.0 393.6 464.4 393.2 line
+0.00 0.00 0.00 setrgbcolor
+470.4 387.0 446.7 395.0 line
+0.00 0.00 0.00 setrgbcolor
+446.7 395.0 470.4 387.0 line
+0.00 0.00 0.00 setrgbcolor
+470.2 386.0 458.9 386.7 line
+0.00 0.00 0.00 setrgbcolor
+458.9 386.7 470.2 386.0 line
+0.00 0.00 0.00 setrgbcolor
+471.0 388.2 449.3 404.7 line
+0.00 0.00 0.00 setrgbcolor
+449.3 404.7 471.0 388.2 line
+0.00 0.00 0.00 setrgbcolor
+474.2 381.6 474.0 379.2 line
+0.00 0.00 0.00 setrgbcolor
+474.0 379.2 474.2 381.6 line
+0.00 0.00 0.00 setrgbcolor
+471.6 388.8 460.6 401.1 line
+0.00 0.00 0.00 setrgbcolor
+460.6 401.1 471.6 388.8 line
+0.00 0.00 0.00 setrgbcolor
+471.2 388.4 464.4 394.1 line
+0.00 0.00 0.00 setrgbcolor
+464.4 394.1 471.2 388.4 line
+0.00 0.00 0.00 setrgbcolor
+470.8 387.9 470.7 387.9 line
+0.00 0.00 0.00 setrgbcolor
+470.7 387.9 470.8 387.9 line
+0.00 0.00 0.00 setrgbcolor
+475.6 386.1 458.9 386.8 line
+0.00 0.00 0.00 setrgbcolor
+458.9 386.8 475.6 386.1 line
+0.00 0.00 0.00 setrgbcolor
+476.2 388.2 449.5 405.0 line
+0.00 0.00 0.00 setrgbcolor
+449.5 405.0 476.2 388.2 line
+0.00 0.00 0.00 setrgbcolor
+477.7 382.3 475.8 378.7 line
+0.00 0.00 0.00 setrgbcolor
+475.8 378.7 477.7 382.3 line
+0.00 0.00 0.00 setrgbcolor
+476.5 388.6 461.0 401.5 line
+0.00 0.00 0.00 setrgbcolor
+461.0 401.5 476.5 388.6 line
+0.00 0.00 0.00 setrgbcolor
+476.1 388.1 464.8 394.6 line
+0.00 0.00 0.00 setrgbcolor
+464.8 394.6 476.1 388.1 line
+0.00 0.00 0.00 setrgbcolor
+475.8 387.3 471.1 388.8 line
+0.00 0.00 0.00 setrgbcolor
+471.1 388.8 475.8 387.3 line
+0.00 0.00 0.00 setrgbcolor
+475.6 385.8 478.5 385.9 line
+0.00 0.00 0.00 setrgbcolor
+478.5 385.9 475.6 385.8 line
+0.00 0.00 0.00 setrgbcolor
+484.3 371.6 449.0 404.3 line
+0.00 0.00 0.00 setrgbcolor
+449.0 404.3 484.3 371.6 line
+0.00 0.00 0.00 setrgbcolor
+483.5 370.5 477.6 373.3 line
+0.00 0.00 0.00 setrgbcolor
+477.6 373.3 483.5 370.5 line
+0.00 0.00 0.00 setrgbcolor
+484.6 371.9 460.5 401.0 line
+0.00 0.00 0.00 setrgbcolor
+460.5 401.0 484.6 371.9 line
+0.00 0.00 0.00 setrgbcolor
+484.5 371.8 464.1 393.7 line
+0.00 0.00 0.00 setrgbcolor
+464.1 393.7 484.5 371.8 line
+0.00 0.00 0.00 setrgbcolor
+484.4 371.8 470.0 387.1 line
+0.00 0.00 0.00 setrgbcolor
+470.0 387.1 484.4 371.8 line
+0.00 0.00 0.00 setrgbcolor
+484.8 372.1 476.9 382.4 line
+0.00 0.00 0.00 setrgbcolor
+476.9 382.4 484.8 372.1 line
+0.00 0.00 0.00 setrgbcolor
+485.6 372.6 481.4 382.2 line
+0.00 0.00 0.00 setrgbcolor
+481.4 382.2 485.6 372.6 line
+0.00 0.00 0.00 setrgbcolor
+481.0 360.1 475.6 371.3 line
+0.00 0.00 0.00 setrgbcolor
+475.6 371.3 481.0 360.1 line
+0.00 0.00 0.00 setrgbcolor
+480.9 360.1 459.7 400.5 line
+0.00 0.00 0.00 setrgbcolor
+459.7 400.5 480.9 360.1 line
+0.00 0.00 0.00 setrgbcolor
+480.9 360.1 463.2 393.1 line
+0.00 0.00 0.00 setrgbcolor
+463.2 393.1 480.9 360.1 line
+0.00 0.00 0.00 setrgbcolor
+481.1 360.2 468.9 386.3 line
+0.00 0.00 0.00 setrgbcolor
+468.9 386.3 481.1 360.2 line
+0.00 0.00 0.00 setrgbcolor
+481.7 360.4 475.5 381.7 line
+0.00 0.00 0.00 setrgbcolor
+475.5 381.7 481.7 360.4 line
+0.00 0.00 0.00 setrgbcolor
+482.4 360.5 480.2 381.8 line
+0.00 0.00 0.00 setrgbcolor
+480.2 381.8 482.4 360.5 line
+0.00 0.00 0.00 setrgbcolor
+484.3 360.3 485.9 364.8 line
+0.00 0.00 0.00 setrgbcolor
+485.9 364.8 484.3 360.3 line
+0.00 0.00 0.00 setrgbcolor
+477.3 370.2 459.9 400.6 line
+0.00 0.00 0.00 setrgbcolor
+459.9 400.6 477.3 370.2 line
+0.00 0.00 0.00 setrgbcolor
+477.2 370.2 463.4 393.2 line
+0.00 0.00 0.00 setrgbcolor
+463.4 393.2 477.2 370.2 line
+0.00 0.00 0.00 setrgbcolor
+477.5 370.3 469.1 386.4 line
+0.00 0.00 0.00 setrgbcolor
+469.1 386.4 477.5 370.3 line
+0.00 0.00 0.00 setrgbcolor
+478.3 370.6 475.4 381.7 line
+0.00 0.00 0.00 setrgbcolor
+475.4 381.7 478.3 370.6 line
+0.00 0.00 0.00 setrgbcolor
+479.5 370.8 479.6 381.8 line
+0.00 0.00 0.00 setrgbcolor
+479.6 381.8 479.5 370.8 line
+0.00 0.00 0.00 setrgbcolor
+483.4 367.7 483.3 367.7 line
+0.00 0.00 0.00 setrgbcolor
+483.3 367.7 483.4 367.7 line
+0.00 0.00 0.00 setrgbcolor
+480.7 362.7 481.5 360.3 line
+0.00 0.00 0.00 setrgbcolor
+481.5 360.3 480.7 362.7 line
+0.00 0.00 0.00 setrgbcolor
+474.0 346.4 462.3 392.7 line
+0.00 0.00 0.00 setrgbcolor
+462.3 392.7 474.0 346.4 line
+0.00 0.00 0.00 setrgbcolor
+474.4 346.5 467.9 386.0 line
+0.00 0.00 0.00 setrgbcolor
+467.9 386.0 474.4 346.5 line
+0.00 0.00 0.00 setrgbcolor
+475.0 346.6 474.4 381.5 line
+0.00 0.00 0.00 setrgbcolor
+474.4 381.5 475.0 346.6 line
+0.00 0.00 0.00 setrgbcolor
+475.5 346.5 479.3 381.8 line
+0.00 0.00 0.00 setrgbcolor
+479.3 381.8 475.5 346.5 line
+0.00 0.00 0.00 setrgbcolor
+476.8 346.2 485.5 365.0 line
+0.00 0.00 0.00 setrgbcolor
+485.5 365.0 476.8 346.2 line
+0.00 0.00 0.00 setrgbcolor
+477.1 346.0 480.8 352.8 line
+0.00 0.00 0.00 setrgbcolor
+480.8 352.8 477.1 346.0 line
+0.00 0.00 0.00 setrgbcolor
+475.8 346.5 478.6 362.5 line
+0.00 0.00 0.00 setrgbcolor
+478.6 362.5 475.8 346.5 line
+0.00 0.00 0.00 setrgbcolor
+473.5 356.3 467.9 386.0 line
+0.00 0.00 0.00 setrgbcolor
+467.9 386.0 473.5 356.3 line
+0.00 0.00 0.00 setrgbcolor
+474.3 356.4 474.4 381.5 line
+0.00 0.00 0.00 setrgbcolor
+474.4 381.5 474.3 356.4 line
+0.00 0.00 0.00 setrgbcolor
+475.0 356.4 479.1 381.9 line
+0.00 0.00 0.00 setrgbcolor
+479.1 381.9 475.0 356.4 line
+0.00 0.00 0.00 setrgbcolor
+476.9 355.5 484.7 365.5 line
+0.00 0.00 0.00 setrgbcolor
+484.7 365.5 476.9 355.5 line
+0.00 0.00 0.00 setrgbcolor
+478.0 354.1 479.1 354.6 line
+0.00 0.00 0.00 setrgbcolor
+479.1 354.6 478.0 354.1 line
+0.00 0.00 0.00 setrgbcolor
+475.7 356.2 478.0 362.7 line
+0.00 0.00 0.00 setrgbcolor
+478.0 362.7 475.7 356.2 line
+0.00 0.00 0.00 setrgbcolor
+474.6 348.1 474.7 346.5 line
+0.00 0.00 0.00 setrgbcolor
+474.7 346.5 474.6 348.1 line
+0.00 0.00 0.00 setrgbcolor
+466.9 339.8 473.7 381.6 line
+0.00 0.00 0.00 setrgbcolor
+473.7 381.6 466.9 339.8 line
+0.00 0.00 0.00 setrgbcolor
+467.3 339.7 478.6 381.9 line
+0.00 0.00 0.00 setrgbcolor
+478.6 381.9 467.3 339.7 line
+0.00 0.00 0.00 setrgbcolor
+468.5 339.2 485.1 365.2 line
+0.00 0.00 0.00 setrgbcolor
+485.1 365.2 468.5 339.2 line
+0.00 0.00 0.00 setrgbcolor
+468.9 339.0 480.2 353.1 line
+0.00 0.00 0.00 setrgbcolor
+480.2 353.1 468.9 339.0 line
+0.00 0.00 0.00 setrgbcolor
+467.9 339.6 477.8 362.8 line
+0.00 0.00 0.00 setrgbcolor
+477.8 362.8 467.9 339.6 line
+0.00 0.00 0.00 setrgbcolor
+469.6 338.2 471.7 339.9 line
+0.00 0.00 0.00 setrgbcolor
+471.7 339.9 469.6 338.2 line
+0.00 0.00 0.00 setrgbcolor
+468.1 339.5 472.5 348.5 line
+0.00 0.00 0.00 setrgbcolor
+472.5 348.5 468.1 339.5 line
+0.00 0.00 0.00 setrgbcolor
+457.5 335.0 478.1 382.1 line
+0.00 0.00 0.00 setrgbcolor
+478.1 382.1 457.5 335.0 line
+0.00 0.00 0.00 setrgbcolor
+458.5 334.4 484.6 365.6 line
+0.00 0.00 0.00 setrgbcolor
+484.6 365.6 458.5 334.4 line
+0.00 0.00 0.00 setrgbcolor
+458.9 334.0 479.8 353.6 line
+0.00 0.00 0.00 setrgbcolor
+479.8 353.6 458.9 334.0 line
+0.00 0.00 0.00 setrgbcolor
+458.1 334.7 477.1 363.1 line
+0.00 0.00 0.00 setrgbcolor
+477.1 363.1 458.1 334.7 line
+0.00 0.00 0.00 setrgbcolor
+459.4 333.3 471.4 340.3 line
+0.00 0.00 0.00 setrgbcolor
+471.4 340.3 459.4 333.3 line
+0.00 0.00 0.00 setrgbcolor
+458.6 334.3 471.6 349.1 line
+0.00 0.00 0.00 setrgbcolor
+471.6 349.1 458.6 334.3 line
+0.00 0.00 0.00 setrgbcolor
+459.6 332.9 462.4 334.1 line
+0.00 0.00 0.00 setrgbcolor
+462.4 334.1 459.6 332.9 line
+0.00 0.00 0.00 setrgbcolor
+471.2 365.2 483.2 367.9 line
+0.00 0.00 0.00 setrgbcolor
+483.2 367.9 471.2 365.2 line
+0.00 0.00 0.00 setrgbcolor
+470.9 362.4 479.1 358.3 line
+0.00 0.00 0.00 setrgbcolor
+479.1 358.3 470.9 362.4 line
+0.00 0.00 0.00 setrgbcolor
+471.3 365.1 475.3 365.8 line
+0.00 0.00 0.00 setrgbcolor
+475.3 365.8 471.3 365.1 line
+0.00 0.00 0.00 setrgbcolor
+468.6 360.4 473.6 346.3 line
+0.00 0.00 0.00 setrgbcolor
+473.6 346.3 468.6 360.4 line
+0.00 0.00 0.00 setrgbcolor
+469.3 360.7 472.2 355.8 line
+0.00 0.00 0.00 setrgbcolor
+472.2 355.8 469.3 360.7 line
+0.00 0.00 0.00 setrgbcolor
+467.0 360.2 466.4 339.9 line
+0.00 0.00 0.00 setrgbcolor
+466.4 339.9 467.0 360.2 line
+0.00 0.00 0.00 setrgbcolor
+465.8 360.4 457.2 335.1 line
+0.00 0.00 0.00 setrgbcolor
+457.2 335.1 465.8 360.4 line
+0.00 0.00 0.00 setrgbcolor
+466.3 346.1 479.3 354.2 line
+0.00 0.00 0.00 setrgbcolor
+479.3 354.2 466.3 346.1 line
+0.00 0.00 0.00 setrgbcolor
+465.3 347.3 476.9 363.3 line
+0.00 0.00 0.00 setrgbcolor
+476.9 363.3 465.3 347.3 line
+0.00 0.00 0.00 setrgbcolor
+466.9 343.4 470.9 342.9 line
+0.00 0.00 0.00 setrgbcolor
+470.9 342.9 466.9 343.4 line
+0.00 0.00 0.00 setrgbcolor
+466.2 346.4 470.9 349.8 line
+0.00 0.00 0.00 setrgbcolor
+470.9 349.8 466.2 346.4 line
+0.00 0.00 0.00 setrgbcolor
+464.4 340.1 464.6 339.6 line
+0.00 0.00 0.00 setrgbcolor
+464.6 339.6 464.4 340.1 line
+0.00 0.00 0.00 setrgbcolor
+460.8 340.3 457.8 334.9 line
+0.00 0.00 0.00 setrgbcolor
+457.8 334.9 460.8 340.3 line
+0.00 0.00 0.00 setrgbcolor
+463.7 348.0 466.3 360.2 line
+0.00 0.00 0.00 setrgbcolor
+466.3 360.2 463.7 348.0 line
+0.00 0.00 0.00 setrgbcolor
+442.6 325.7 476.6 363.5 line
+0.00 0.00 0.00 setrgbcolor
+476.6 363.5 442.6 325.7 line
+0.00 0.00 0.00 setrgbcolor
+443.5 324.7 471.4 340.4 line
+0.00 0.00 0.00 setrgbcolor
+471.4 340.4 443.5 324.7 line
+0.00 0.00 0.00 setrgbcolor
+443.0 325.3 471.1 349.5 line
+0.00 0.00 0.00 setrgbcolor
+471.1 349.5 443.0 325.3 line
+0.00 0.00 0.00 setrgbcolor
+443.6 324.5 462.5 333.9 line
+0.00 0.00 0.00 setrgbcolor
+462.5 333.9 443.6 324.5 line
+0.00 0.00 0.00 setrgbcolor
+443.5 324.6 452.2 329.2 line
+0.00 0.00 0.00 setrgbcolor
+452.2 329.2 443.5 324.6 line
+0.00 0.00 0.00 setrgbcolor
+442.1 326.1 464.9 360.8 line
+0.00 0.00 0.00 setrgbcolor
+464.9 360.8 442.1 326.1 line
+0.00 0.00 0.00 setrgbcolor
+442.9 325.5 459.8 341.1 line
+0.00 0.00 0.00 setrgbcolor
+459.8 341.1 442.9 325.5 line
+0.00 0.00 0.00 setrgbcolor
+434.7 324.1 471.2 340.7 line
+0.00 0.00 0.00 setrgbcolor
+471.2 340.7 434.7 324.1 line
+0.00 0.00 0.00 setrgbcolor
+434.4 324.7 470.9 349.9 line
+0.00 0.00 0.00 setrgbcolor
+470.9 349.9 434.4 324.7 line
+0.00 0.00 0.00 setrgbcolor
+434.8 323.8 462.4 334.3 line
+0.00 0.00 0.00 setrgbcolor
+462.4 334.3 434.8 323.8 line
+0.00 0.00 0.00 setrgbcolor
+434.9 323.8 451.9 329.8 line
+0.00 0.00 0.00 setrgbcolor
+451.9 329.8 434.9 323.8 line
+0.00 0.00 0.00 setrgbcolor
+433.7 325.5 464.5 361.2 line
+0.00 0.00 0.00 setrgbcolor
+464.5 361.2 433.7 325.5 line
+0.00 0.00 0.00 setrgbcolor
+434.4 324.7 459.4 341.6 line
+0.00 0.00 0.00 setrgbcolor
+459.4 341.6 434.4 324.7 line
+0.00 0.00 0.00 setrgbcolor
+435.1 322.5 435.7 322.5 line
+0.00 0.00 0.00 setrgbcolor
+435.7 322.5 435.1 322.5 line
+0.00 0.00 0.00 setrgbcolor
+421.5 325.0 470.6 350.4 line
+0.00 0.00 0.00 setrgbcolor
+470.6 350.4 421.5 325.0 line
+0.00 0.00 0.00 setrgbcolor
+421.8 324.1 462.2 334.7 line
+0.00 0.00 0.00 setrgbcolor
+462.2 334.7 421.8 324.1 line
+0.00 0.00 0.00 setrgbcolor
+421.9 324.0 451.8 330.3 line
+0.00 0.00 0.00 setrgbcolor
+451.8 330.3 421.9 324.0 line
+0.00 0.00 0.00 setrgbcolor
+421.0 325.8 464.0 361.6 line
+0.00 0.00 0.00 setrgbcolor
+464.0 361.6 421.0 325.8 line
+0.00 0.00 0.00 setrgbcolor
+421.6 324.8 459.0 342.2 line
+0.00 0.00 0.00 setrgbcolor
+459.0 342.2 421.6 324.8 line
+0.00 0.00 0.00 setrgbcolor
+422.0 323.0 435.7 322.7 line
+0.00 0.00 0.00 setrgbcolor
+435.7 322.7 422.0 323.0 line
+0.00 0.00 0.00 setrgbcolor
+422.0 322.9 426.8 322.6 line
+0.00 0.00 0.00 setrgbcolor
+426.8 322.6 422.0 322.9 line
+0.00 0.00 0.00 setrgbcolor
+419.4 353.1 462.3 337.2 line
+0.00 0.00 0.00 setrgbcolor
+462.3 337.2 419.4 353.1 line
+0.00 0.00 0.00 setrgbcolor
+419.1 352.4 452.2 333.3 line
+0.00 0.00 0.00 setrgbcolor
+452.2 333.3 419.1 352.4 line
+0.00 0.00 0.00 setrgbcolor
+419.6 355.3 463.1 363.5 line
+0.00 0.00 0.00 setrgbcolor
+463.1 363.5 419.6 355.3 line
+0.00 0.00 0.00 setrgbcolor
+419.6 353.6 458.7 344.8 line
+0.00 0.00 0.00 setrgbcolor
+458.7 344.8 419.6 353.6 line
+0.00 0.00 0.00 setrgbcolor
+418.1 351.2 437.3 325.9 line
+0.00 0.00 0.00 setrgbcolor
+437.3 325.9 418.1 351.2 line
+0.00 0.00 0.00 setrgbcolor
+417.3 350.8 429.1 326.1 line
+0.00 0.00 0.00 setrgbcolor
+429.1 326.1 417.3 350.8 line
+0.00 0.00 0.00 setrgbcolor
+415.8 350.4 417.5 327.2 line
+0.00 0.00 0.00 setrgbcolor
+417.5 327.2 415.8 350.4 line
+0.00 0.00 0.00 setrgbcolor
+382.1 382.1 452.4 333.6 line
+0.00 0.00 0.00 setrgbcolor
+452.4 333.6 382.1 382.1 line
+0.00 0.00 0.00 setrgbcolor
+382.7 383.5 463.1 365.2 line
+0.00 0.00 0.00 setrgbcolor
+463.1 365.2 382.7 383.5 line
+0.00 0.00 0.00 setrgbcolor
+382.4 382.6 459.1 345.7 line
+0.00 0.00 0.00 setrgbcolor
+459.1 345.7 382.4 382.6 line
+0.00 0.00 0.00 setrgbcolor
+381.6 381.5 436.9 325.6 line
+0.00 0.00 0.00 setrgbcolor
+436.9 325.6 381.6 381.5 line
+0.00 0.00 0.00 setrgbcolor
+381.3 381.3 428.3 325.6 line
+0.00 0.00 0.00 setrgbcolor
+428.3 325.6 381.3 381.3 line
+0.00 0.00 0.00 setrgbcolor
+380.9 380.9 415.6 326.6 line
+0.00 0.00 0.00 setrgbcolor
+415.6 326.6 380.9 380.9 line
+0.00 0.00 0.00 setrgbcolor
+381.9 381.8 412.3 357.1 line
+0.00 0.00 0.00 setrgbcolor
+412.3 357.1 381.9 381.8 line
+0.00 0.00 0.00 setrgbcolor
+114.0 363.9 279.5 338.3 line
+0.00 0.00 0.00 setrgbcolor
+279.5 338.3 114.0 363.9 line
+0.00 0.00 0.00 setrgbcolor
+51.2 376.8 45.6 376.2 line
+0.00 0.00 0.00 setrgbcolor
+45.6 376.2 51.2 376.8 line
+0.00 0.00 0.00 setrgbcolor
+51.3 376.5 51.6 376.5 line
+0.00 0.00 0.00 setrgbcolor
+51.6 376.5 51.3 376.5 line
+0.00 0.00 0.00 setrgbcolor
+52.2 374.6 34.4 358.8 line
+0.00 0.00 0.00 setrgbcolor
+34.4 358.8 52.2 374.6 line
+0.00 0.00 0.00 setrgbcolor
+59.5 377.4 59.2 377.4 line
+0.00 0.00 0.00 setrgbcolor
+59.2 377.4 59.5 377.4 line
+0.00 0.00 0.00 setrgbcolor
+59.5 376.9 67.2 376.0 line
+0.00 0.00 0.00 setrgbcolor
+67.2 376.0 59.5 376.9 line
+0.00 0.00 0.00 setrgbcolor
+59.5 376.6 78.5 373.4 line
+0.00 0.00 0.00 setrgbcolor
+78.5 373.4 59.5 376.6 line
+0.00 0.00 0.00 setrgbcolor
+58.1 374.2 76.3 353.4 line
+0.00 0.00 0.00 setrgbcolor
+76.3 353.4 58.1 374.2 line
+0.00 0.00 0.00 setrgbcolor
+67.3 322.5 49.0 371.8 line
+0.00 0.00 0.00 setrgbcolor
+49.0 371.8 67.3 322.5 line
+0.00 0.00 0.00 setrgbcolor
+65.8 321.5 34.3 353.1 line
+0.00 0.00 0.00 setrgbcolor
+34.3 353.1 65.8 321.5 line
+0.00 0.00 0.00 setrgbcolor
+68.4 322.7 63.7 373.3 line
+0.00 0.00 0.00 setrgbcolor
+63.7 373.3 68.4 322.7 line
+0.00 0.00 0.00 setrgbcolor
+69.0 322.8 71.2 371.4 line
+0.00 0.00 0.00 setrgbcolor
+71.2 371.4 69.0 322.8 line
+0.00 0.00 0.00 setrgbcolor
+69.8 322.6 81.5 368.6 line
+0.00 0.00 0.00 setrgbcolor
+81.5 368.6 69.8 322.6 line
+0.00 0.00 0.00 setrgbcolor
+70.1 322.6 77.7 346.3 line
+0.00 0.00 0.00 setrgbcolor
+77.7 346.3 70.1 322.6 line
+0.00 0.00 0.00 setrgbcolor
+71.6 321.7 107.1 361.4 line
+0.00 0.00 0.00 setrgbcolor
+107.1 361.4 71.6 321.7 line
+0.00 0.00 0.00 setrgbcolor
+64.0 305.2 33.6 352.6 line
+0.00 0.00 0.00 setrgbcolor
+33.6 352.6 64.0 305.2 line
+0.00 0.00 0.00 setrgbcolor
+66.1 305.9 63.5 373.2 line
+0.00 0.00 0.00 setrgbcolor
+63.5 373.2 66.1 305.9 line
+0.00 0.00 0.00 setrgbcolor
+66.5 305.9 71.1 371.4 line
+0.00 0.00 0.00 setrgbcolor
+71.1 371.4 66.5 305.9 line
+0.00 0.00 0.00 setrgbcolor
+67.2 305.8 81.6 368.6 line
+0.00 0.00 0.00 setrgbcolor
+81.6 368.6 67.2 305.8 line
+0.00 0.00 0.00 setrgbcolor
+67.3 305.8 78.0 346.3 line
+0.00 0.00 0.00 setrgbcolor
+78.0 346.3 67.3 305.8 line
+0.00 0.00 0.00 setrgbcolor
+68.6 305.2 107.5 361.1 line
+0.00 0.00 0.00 setrgbcolor
+107.5 361.1 68.6 305.2 line
+0.00 0.00 0.00 setrgbcolor
+66.9 305.9 68.2 314.5 line
+0.00 0.00 0.00 setrgbcolor
+68.2 314.5 66.9 305.9 line
+0.00 0.00 0.00 setrgbcolor
+56.2 305.4 62.9 373.3 line
+0.00 0.00 0.00 setrgbcolor
+62.9 373.3 56.2 305.4 line
+0.00 0.00 0.00 setrgbcolor
+56.7 305.4 70.5 371.5 line
+0.00 0.00 0.00 setrgbcolor
+70.5 371.5 56.7 305.4 line
+0.00 0.00 0.00 setrgbcolor
+57.3 305.2 81.1 368.8 line
+0.00 0.00 0.00 setrgbcolor
+81.1 368.8 57.3 305.2 line
+0.00 0.00 0.00 setrgbcolor
+57.6 305.1 77.2 346.5 line
+0.00 0.00 0.00 setrgbcolor
+77.2 346.5 57.6 305.1 line
+0.00 0.00 0.00 setrgbcolor
+58.5 304.5 107.2 361.3 line
+0.00 0.00 0.00 setrgbcolor
+107.2 361.3 58.5 304.5 line
+0.00 0.00 0.00 setrgbcolor
+58.3 304.6 66.3 315.3 line
+0.00 0.00 0.00 setrgbcolor
+66.3 315.3 58.3 304.6 line
+0.00 0.00 0.00 setrgbcolor
+60.0 301.5 62.1 301.6 line
+0.00 0.00 0.00 setrgbcolor
+62.1 301.6 60.0 301.5 line
+0.00 0.00 0.00 setrgbcolor
+48.3 307.7 70.0 371.6 line
+0.00 0.00 0.00 setrgbcolor
+70.0 371.6 48.3 307.7 line
+0.00 0.00 0.00 setrgbcolor
+48.9 307.4 80.7 369.0 line
+0.00 0.00 0.00 setrgbcolor
+80.7 369.0 48.9 307.4 line
+0.00 0.00 0.00 setrgbcolor
+49.3 307.2 76.7 346.9 line
+0.00 0.00 0.00 setrgbcolor
+76.7 346.9 49.3 307.2 line
+0.00 0.00 0.00 setrgbcolor
+49.9 306.6 106.9 361.6 line
+0.00 0.00 0.00 setrgbcolor
+106.9 361.6 49.9 306.6 line
+0.00 0.00 0.00 setrgbcolor
+50.4 306.1 65.3 316.3 line
+0.00 0.00 0.00 setrgbcolor
+65.3 316.3 50.4 306.1 line
+0.00 0.00 0.00 setrgbcolor
+51.1 303.3 62.1 302.2 line
+0.00 0.00 0.00 setrgbcolor
+62.1 302.2 51.1 303.3 line
+0.00 0.00 0.00 setrgbcolor
+51.0 302.6 51.8 302.4 line
+0.00 0.00 0.00 setrgbcolor
+51.8 302.4 51.0 302.6 line
+0.00 0.00 0.00 setrgbcolor
+31.8 339.5 79.1 370.4 line
+0.00 0.00 0.00 setrgbcolor
+79.1 370.4 31.8 339.5 line
+0.00 0.00 0.00 setrgbcolor
+32.3 338.3 75.0 349.2 line
+0.00 0.00 0.00 setrgbcolor
+75.0 349.2 32.3 338.3 line
+0.00 0.00 0.00 setrgbcolor
+32.2 338.6 106.0 363.2 line
+0.00 0.00 0.00 setrgbcolor
+106.0 363.2 32.2 338.6 line
+0.00 0.00 0.00 setrgbcolor
+32.1 335.5 65.0 320.3 line
+0.00 0.00 0.00 setrgbcolor
+65.0 320.3 32.1 335.5 line
+0.00 0.00 0.00 setrgbcolor
+31.3 334.4 63.2 304.6 line
+0.00 0.00 0.00 setrgbcolor
+63.2 304.6 31.3 334.4 line
+0.00 0.00 0.00 setrgbcolor
+30.8 333.9 53.3 304.6 line
+0.00 0.00 0.00 setrgbcolor
+53.3 304.6 30.8 333.9 line
+0.00 0.00 0.00 setrgbcolor
+30.3 333.6 44.9 307.4 line
+0.00 0.00 0.00 setrgbcolor
+44.9 307.4 30.3 333.6 line
+0.00 0.00 0.00 setrgbcolor
+42.0 311.0 76.2 347.3 line
+0.00 0.00 0.00 setrgbcolor
+76.2 347.3 42.0 311.0 line
+0.00 0.00 0.00 setrgbcolor
+42.4 310.6 106.7 361.9 line
+0.00 0.00 0.00 setrgbcolor
+106.7 361.9 42.4 310.6 line
+0.00 0.00 0.00 setrgbcolor
+43.1 309.4 64.9 317.2 line
+0.00 0.00 0.00 setrgbcolor
+64.9 317.2 43.1 309.4 line
+0.00 0.00 0.00 setrgbcolor
+43.2 307.0 62.2 302.7 line
+0.00 0.00 0.00 setrgbcolor
+62.2 302.7 43.2 307.0 line
+0.00 0.00 0.00 setrgbcolor
+43.0 306.4 52.0 302.8 line
+0.00 0.00 0.00 setrgbcolor
+52.0 302.8 43.0 306.4 line
+0.00 0.00 0.00 setrgbcolor
+42.8 306.0 43.3 305.7 line
+0.00 0.00 0.00 setrgbcolor
+43.3 305.7 42.8 306.0 line
+0.00 0.00 0.00 setrgbcolor
+37.7 311.9 29.7 333.3 line
+0.00 0.00 0.00 setrgbcolor
+29.7 333.3 37.7 311.9 line
+0.00 0.00 0.00 setrgbcolor
+36.8 311.0 106.6 362.0 line
+0.00 0.00 0.00 setrgbcolor
+106.6 362.0 36.8 311.0 line
+0.00 0.00 0.00 setrgbcolor
+37.5 309.7 64.8 317.5 line
+0.00 0.00 0.00 setrgbcolor
+64.8 317.5 37.5 309.7 line
+0.00 0.00 0.00 setrgbcolor
+37.6 307.7 62.2 302.6 line
+0.00 0.00 0.00 setrgbcolor
+62.2 302.6 37.6 307.7 line
+0.00 0.00 0.00 setrgbcolor
+37.4 307.3 51.9 302.6 line
+0.00 0.00 0.00 setrgbcolor
+51.9 302.6 37.4 307.3 line
+0.00 0.00 0.00 setrgbcolor
+37.4 307.1 43.0 305.1 line
+0.00 0.00 0.00 setrgbcolor
+43.0 305.1 37.4 307.1 line
+0.00 0.00 0.00 setrgbcolor
+32.7 312.6 29.0 333.2 line
+0.00 0.00 0.00 setrgbcolor
+29.0 333.2 32.7 312.6 line
+0.00 0.00 0.00 setrgbcolor
+37.6 308.1 35.0 308.4 line
+0.00 0.00 0.00 setrgbcolor
+35.0 308.4 37.6 308.1 line
+0.00 0.00 0.00 setrgbcolor
+29.2 318.6 64.6 318.6 line
+0.00 0.00 0.00 setrgbcolor
+64.6 318.6 29.2 318.6 line
+0.00 0.00 0.00 setrgbcolor
+28.8 317.1 62.4 303.3 line
+0.00 0.00 0.00 setrgbcolor
+62.4 303.3 28.8 317.1 line
+0.00 0.00 0.00 setrgbcolor
+28.6 316.6 52.2 303.3 line
+0.00 0.00 0.00 setrgbcolor
+52.2 303.3 28.6 316.6 line
+0.00 0.00 0.00 setrgbcolor
+28.4 316.3 43.5 306.1 line
+0.00 0.00 0.00 setrgbcolor
+43.5 306.1 28.4 316.3 line
+0.00 0.00 0.00 setrgbcolor
+25.7 322.7 27.6 333.2 line
+0.00 0.00 0.00 setrgbcolor
+27.6 333.2 25.7 322.7 line
+0.00 0.00 0.00 setrgbcolor
+28.3 316.1 35.8 310.5 line
+0.00 0.00 0.00 setrgbcolor
+35.8 310.5 28.3 316.1 line
+0.00 0.00 0.00 setrgbcolor
+27.7 315.5 30.8 311.7 line
+0.00 0.00 0.00 setrgbcolor
+30.8 311.7 27.7 315.5 line
+0.00 0.00 0.00 setrgbcolor
+27.3 311.3 62.2 302.7 line
+0.00 0.00 0.00 setrgbcolor
+62.2 302.7 27.3 311.3 line
+0.00 0.00 0.00 setrgbcolor
+27.2 310.9 51.9 302.6 line
+0.00 0.00 0.00 setrgbcolor
+51.9 302.6 27.2 310.9 line
+0.00 0.00 0.00 setrgbcolor
+27.2 310.8 43.0 305.2 line
+0.00 0.00 0.00 setrgbcolor
+43.0 305.2 27.2 310.8 line
+0.00 0.00 0.00 setrgbcolor
+24.1 316.3 27.5 333.2 line
+0.00 0.00 0.00 setrgbcolor
+27.5 333.2 24.1 316.3 line
+0.00 0.00 0.00 setrgbcolor
+27.3 311.2 35.1 309.1 line
+0.00 0.00 0.00 setrgbcolor
+35.1 309.1 27.3 311.2 line
+0.00 0.00 0.00 setrgbcolor
+27.2 310.8 29.6 310.0 line
+0.00 0.00 0.00 setrgbcolor
+29.6 310.0 27.2 310.8 line
+0.00 0.00 0.00 setrgbcolor
+24.4 316.3 23.9 314.6 line
+0.00 0.00 0.00 setrgbcolor
+23.9 314.6 24.4 316.3 line
+0.00 0.00 0.00 setrgbcolor
+18.5 317.5 52.0 303.0 line
+0.00 0.00 0.00 setrgbcolor
+52.0 303.0 18.5 317.5 line
+0.00 0.00 0.00 setrgbcolor
+18.5 317.4 43.2 305.5 line
+0.00 0.00 0.00 setrgbcolor
+43.2 305.5 18.5 317.4 line
+0.00 0.00 0.00 setrgbcolor
+17.2 322.5 25.8 333.9 line
+0.00 0.00 0.00 setrgbcolor
+25.8 333.9 17.2 322.5 line
+0.00 0.00 0.00 setrgbcolor
+18.5 317.4 35.4 309.7 line
+0.00 0.00 0.00 setrgbcolor
+35.4 309.7 18.5 317.4 line
+0.00 0.00 0.00 setrgbcolor
+18.3 317.1 29.9 310.6 line
+0.00 0.00 0.00 setrgbcolor
+29.9 310.6 18.3 317.1 line
+0.00 0.00 0.00 setrgbcolor
+18.9 318.9 20.8 318.9 line
+0.00 0.00 0.00 setrgbcolor
+20.8 318.9 18.9 318.9 line
+0.00 0.00 0.00 setrgbcolor
+18.0 316.5 20.0 314.9 line
+0.00 0.00 0.00 setrgbcolor
+20.0 314.9 18.0 316.5 line
+0.00 0.00 0.00 setrgbcolor
+19.6 327.5 43.8 306.5 line
+0.00 0.00 0.00 setrgbcolor
+43.8 306.5 19.6 327.5 line
+0.00 0.00 0.00 setrgbcolor
+20.0 332.4 24.7 335.1 line
+0.00 0.00 0.00 setrgbcolor
+24.7 335.1 20.0 332.4 line
+0.00 0.00 0.00 setrgbcolor
+19.4 327.3 36.2 310.9 line
+0.00 0.00 0.00 setrgbcolor
+36.2 310.9 19.4 327.3 line
+0.00 0.00 0.00 setrgbcolor
+19.0 327.0 30.9 311.8 line
+0.00 0.00 0.00 setrgbcolor
+30.9 311.8 19.0 327.0 line
+0.00 0.00 0.00 setrgbcolor
+18.9 326.9 22.5 322.0 line
+0.00 0.00 0.00 setrgbcolor
+22.5 322.0 18.9 326.9 line
+0.00 0.00 0.00 setrgbcolor
+17.9 326.3 21.8 316.1 line
+0.00 0.00 0.00 setrgbcolor
+21.8 316.1 17.9 326.3 line
+0.00 0.00 0.00 setrgbcolor
+15.8 326.1 15.4 323.3 line
+0.00 0.00 0.00 setrgbcolor
+15.4 323.3 15.8 326.1 line
+0.00 0.00 0.00 setrgbcolor
+12.0 330.7 24.4 335.7 line
+0.00 0.00 0.00 setrgbcolor
+24.4 335.7 12.0 330.7 line
+0.00 0.00 0.00 setrgbcolor
+11.6 326.8 35.7 310.3 line
+0.00 0.00 0.00 setrgbcolor
+35.7 310.3 11.6 326.8 line
+0.00 0.00 0.00 setrgbcolor
+11.4 326.5 30.3 311.2 line
+0.00 0.00 0.00 setrgbcolor
+30.3 311.2 11.4 326.5 line
+0.00 0.00 0.00 setrgbcolor
+11.7 326.9 21.5 320.8 line
+0.00 0.00 0.00 setrgbcolor
+21.5 320.8 11.7 326.9 line
+0.00 0.00 0.00 setrgbcolor
+10.9 326.0 20.5 315.3 line
+0.00 0.00 0.00 setrgbcolor
+20.5 315.3 10.9 326.0 line
+0.00 0.00 0.00 setrgbcolor
+10.4 325.6 12.4 322.6 line
+0.00 0.00 0.00 setrgbcolor
+12.4 322.6 10.4 325.6 line
+0.00 0.00 0.00 setrgbcolor
+12.3 329.7 12.3 329.7 line
+0.00 0.00 0.00 setrgbcolor
+12.3 329.7 12.3 329.7 line
+0.00 0.00 0.00 setrgbcolor
+11.2 338.4 36.3 311.0 line
+0.00 0.00 0.00 setrgbcolor
+36.3 311.0 11.2 338.4 line
+0.00 0.00 0.00 setrgbcolor
+10.9 338.1 31.0 311.8 line
+0.00 0.00 0.00 setrgbcolor
+31.0 311.8 10.9 338.1 line
+0.00 0.00 0.00 setrgbcolor
+10.8 338.1 22.5 322.0 line
+0.00 0.00 0.00 setrgbcolor
+22.5 322.0 10.8 338.1 line
+0.00 0.00 0.00 setrgbcolor
+10.3 337.7 21.4 316.0 line
+0.00 0.00 0.00 setrgbcolor
+21.4 316.0 10.3 337.7 line
+0.00 0.00 0.00 setrgbcolor
+9.5 337.5 13.6 323.1 line
+0.00 0.00 0.00 setrgbcolor
+13.6 323.1 9.5 337.5 line
+0.00 0.00 0.00 setrgbcolor
+10.8 338.1 14.0 333.6 line
+0.00 0.00 0.00 setrgbcolor
+14.0 333.6 10.8 338.1 line
+0.00 0.00 0.00 setrgbcolor
+8.3 337.3 8.2 333.3 line
+0.00 0.00 0.00 setrgbcolor
+8.2 333.3 8.3 337.3 line
+0.00 0.00 0.00 setrgbcolor
+6.1 345.1 31.0 311.9 line
+0.00 0.00 0.00 setrgbcolor
+31.0 311.9 6.1 345.1 line
+0.00 0.00 0.00 setrgbcolor
+6.0 345.0 22.6 322.0 line
+0.00 0.00 0.00 setrgbcolor
+22.6 322.0 6.0 345.0 line
+0.00 0.00 0.00 setrgbcolor
+5.6 344.7 21.3 315.9 line
+0.00 0.00 0.00 setrgbcolor
+21.3 315.9 5.6 344.7 line
+0.00 0.00 0.00 setrgbcolor
+5.1 344.5 13.2 323.0 line
+0.00 0.00 0.00 setrgbcolor
+13.2 323.0 5.1 344.5 line
+0.00 0.00 0.00 setrgbcolor
+6.0 345.0 14.0 333.6 line
+0.00 0.00 0.00 setrgbcolor
+14.0 333.6 6.0 345.0 line
+0.00 0.00 0.00 setrgbcolor
+4.6 344.3 7.2 333.2 line
+0.00 0.00 0.00 setrgbcolor
+7.2 333.2 4.6 344.3 line
+0.00 0.00 0.00 setrgbcolor
+6.0 345.0 6.0 344.9 line
+0.00 0.00 0.00 setrgbcolor
+6.0 344.9 6.0 345.0 line
+0.00 0.00 0.00 setrgbcolor
+15.3 354.3 23.9 322.7 line
+0.00 0.00 0.00 setrgbcolor
+23.9 322.7 15.3 354.3 line
+0.00 0.00 0.00 setrgbcolor
+15.0 354.2 22.5 316.3 line
+0.00 0.00 0.00 setrgbcolor
+22.5 316.3 15.0 354.2 line
+0.00 0.00 0.00 setrgbcolor
+14.3 354.1 14.7 323.3 line
+0.00 0.00 0.00 setrgbcolor
+14.7 323.3 14.3 354.1 line
+0.00 0.00 0.00 setrgbcolor
+14.5 354.1 16.1 334.4 line
+0.00 0.00 0.00 setrgbcolor
+16.1 334.4 14.5 354.1 line
+0.00 0.00 0.00 setrgbcolor
+13.4 354.2 9.0 333.2 line
+0.00 0.00 0.00 setrgbcolor
+9.0 333.2 13.4 354.2 line
+0.00 0.00 0.00 setrgbcolor
+12.8 354.4 9.7 345.4 line
+0.00 0.00 0.00 setrgbcolor
+9.7 345.4 12.8 354.4 line
+0.00 0.00 0.00 setrgbcolor
+11.2 355.4 6.6 351.2 line
+0.00 0.00 0.00 setrgbcolor
+6.6 351.2 11.2 355.4 line
+0.00 0.00 0.00 setrgbcolor
+11.9 363.0 22.4 316.3 line
+0.00 0.00 0.00 setrgbcolor
+22.4 316.3 11.9 363.0 line
+0.00 0.00 0.00 setrgbcolor
+11.3 362.9 14.4 323.3 line
+0.00 0.00 0.00 setrgbcolor
+14.4 323.3 11.3 362.9 line
+0.00 0.00 0.00 setrgbcolor
+11.6 362.9 15.8 334.3 line
+0.00 0.00 0.00 setrgbcolor
+15.8 334.3 11.6 362.9 line
+0.00 0.00 0.00 setrgbcolor
+10.7 362.9 8.4 333.3 line
+0.00 0.00 0.00 setrgbcolor
+8.4 333.3 10.7 362.9 line
+0.00 0.00 0.00 setrgbcolor
+10.6 362.9 8.8 345.6 line
+0.00 0.00 0.00 setrgbcolor
+8.8 345.6 10.6 362.9 line
+0.00 0.00 0.00 setrgbcolor
+9.4 363.2 5.1 352.3 line
+0.00 0.00 0.00 setrgbcolor
+5.1 352.3 9.4 363.2 line
+0.00 0.00 0.00 setrgbcolor
+12.4 363.1 12.8 362.2 line
+0.00 0.00 0.00 setrgbcolor
+12.8 362.2 12.4 363.1 line
+0.00 0.00 0.00 setrgbcolor
+19.9 357.4 15.3 323.3 line
+0.00 0.00 0.00 setrgbcolor
+15.3 323.3 19.9 357.4 line
+0.00 0.00 0.00 setrgbcolor
+19.9 357.4 17.0 334.4 line
+0.00 0.00 0.00 setrgbcolor
+17.0 334.4 19.9 357.4 line
+0.00 0.00 0.00 setrgbcolor
+19.0 357.6 9.6 333.0 line
+0.00 0.00 0.00 setrgbcolor
+9.6 333.0 19.0 357.6 line
+0.00 0.00 0.00 setrgbcolor
+18.3 357.9 10.5 345.0 line
+0.00 0.00 0.00 setrgbcolor
+10.5 345.0 18.3 357.9 line
+0.00 0.00 0.00 setrgbcolor
+17.2 358.9 6.9 351.0 line
+0.00 0.00 0.00 setrgbcolor
+6.9 351.0 17.2 358.9 line
+0.00 0.00 0.00 setrgbcolor
+16.7 359.6 17.9 360.2 line
+0.00 0.00 0.00 setrgbcolor
+17.9 360.2 16.7 359.6 line
+0.00 0.00 0.00 setrgbcolor
+16.8 363.6 14.6 364.9 line
+0.00 0.00 0.00 setrgbcolor
+14.6 364.9 16.8 363.6 line
+0.00 0.00 0.00 setrgbcolor
+31.3 372.0 17.8 334.2 line
+0.00 0.00 0.00 setrgbcolor
+17.8 334.2 31.3 372.0 line
+0.00 0.00 0.00 setrgbcolor
+30.8 372.2 10.1 332.8 line
+0.00 0.00 0.00 setrgbcolor
+10.1 332.8 30.8 372.2 line
+0.00 0.00 0.00 setrgbcolor
+30.3 372.5 10.8 344.8 line
+0.00 0.00 0.00 setrgbcolor
+10.8 344.8 30.3 372.5 line
+0.00 0.00 0.00 setrgbcolor
+29.7 373.1 6.6 351.3 line
+0.00 0.00 0.00 setrgbcolor
+6.6 351.3 29.7 373.1 line
+0.00 0.00 0.00 setrgbcolor
+29.7 373.0 17.2 361.1 line
+0.00 0.00 0.00 setrgbcolor
+17.2 361.1 29.7 373.0 line
+0.00 0.00 0.00 setrgbcolor
+28.9 374.3 14.8 368.6 line
+0.00 0.00 0.00 setrgbcolor
+14.8 368.6 28.9 374.3 line
+0.00 0.00 0.00 setrgbcolor
+30.0 372.7 23.1 364.7 line
+0.00 0.00 0.00 setrgbcolor
+23.1 364.7 30.0 372.7 line
+0.00 0.00 0.00 setrgbcolor
+13.0 341.0 9.7 333.0 line
+0.00 0.00 0.00 setrgbcolor
+9.7 333.0 13.0 341.0 line
+0.00 0.00 0.00 setrgbcolor
+11.0 342.9 12.0 343.4 line
+0.00 0.00 0.00 setrgbcolor
+12.0 343.4 11.0 342.9 line
+0.00 0.00 0.00 setrgbcolor
+10.6 346.1 7.6 347.1 line
+0.00 0.00 0.00 setrgbcolor
+7.6 347.1 10.6 346.1 line
+0.00 0.00 0.00 setrgbcolor
+14.5 349.0 14.3 354.1 line
+0.00 0.00 0.00 setrgbcolor
+14.3 354.1 14.5 349.0 line
+0.00 0.00 0.00 setrgbcolor
+13.9 349.0 11.6 362.9 line
+0.00 0.00 0.00 setrgbcolor
+11.6 362.9 13.9 349.0 line
+0.00 0.00 0.00 setrgbcolor
+16.0 348.8 19.1 357.6 line
+0.00 0.00 0.00 setrgbcolor
+19.1 357.6 16.0 348.8 line
+0.00 0.00 0.00 setrgbcolor
+16.7 348.5 30.6 372.3 line
+0.00 0.00 0.00 setrgbcolor
+30.6 372.3 16.7 348.5 line
+0.00 0.00 0.00 setrgbcolor
+25.4 364.0 10.9 344.8 line
+0.00 0.00 0.00 setrgbcolor
+10.9 344.8 25.4 364.0 line
+0.00 0.00 0.00 setrgbcolor
+24.7 364.8 6.9 351.0 line
+0.00 0.00 0.00 setrgbcolor
+6.9 351.0 24.7 364.8 line
+0.00 0.00 0.00 setrgbcolor
+24.5 365.1 17.7 360.6 line
+0.00 0.00 0.00 setrgbcolor
+17.7 360.6 24.5 365.1 line
+0.00 0.00 0.00 setrgbcolor
+23.8 367.3 15.1 367.1 line
+0.00 0.00 0.00 setrgbcolor
+15.1 367.1 23.8 367.3 line
+0.00 0.00 0.00 setrgbcolor
+24.7 364.8 23.7 364.1 line
+0.00 0.00 0.00 setrgbcolor
+23.7 364.1 24.7 364.8 line
+0.00 0.00 0.00 setrgbcolor
+30.0 371.0 30.7 372.3 line
+0.00 0.00 0.00 setrgbcolor
+30.7 372.3 30.0 371.0 line
+0.00 0.00 0.00 setrgbcolor
+25.8 363.8 16.7 348.4 line
+0.00 0.00 0.00 setrgbcolor
+16.7 348.4 25.8 363.8 line
+0.00 0.00 0.00 setrgbcolor
+38.1 373.2 7.0 350.8 line
+0.00 0.00 0.00 setrgbcolor
+7.0 350.8 38.1 373.2 line
+0.00 0.00 0.00 setrgbcolor
+37.9 373.4 17.7 360.5 line
+0.00 0.00 0.00 setrgbcolor
+17.7 360.5 37.9 373.4 line
+0.00 0.00 0.00 setrgbcolor
+37.4 374.5 15.0 368.2 line
+0.00 0.00 0.00 setrgbcolor
+15.0 368.2 37.4 374.5 line
+0.00 0.00 0.00 setrgbcolor
+38.0 373.3 23.9 363.8 line
+0.00 0.00 0.00 setrgbcolor
+23.9 363.8 38.0 373.3 line
+0.00 0.00 0.00 setrgbcolor
+37.3 375.8 36.9 375.8 line
+0.00 0.00 0.00 setrgbcolor
+36.9 375.8 37.3 375.8 line
+0.00 0.00 0.00 setrgbcolor
+38.7 372.5 17.3 348.0 line
+0.00 0.00 0.00 setrgbcolor
+17.3 348.0 38.7 372.5 line
+0.00 0.00 0.00 setrgbcolor
+37.9 373.5 31.5 369.5 line
+0.00 0.00 0.00 setrgbcolor
+31.5 369.5 37.9 373.5 line
+0.00 0.00 0.00 setrgbcolor
+43.8 373.8 17.9 360.2 line
+0.00 0.00 0.00 setrgbcolor
+17.9 360.2 43.8 373.8 line
+0.00 0.00 0.00 setrgbcolor
+43.5 374.7 15.0 368.0 line
+0.00 0.00 0.00 setrgbcolor
+15.0 368.0 43.5 374.7 line
+0.00 0.00 0.00 setrgbcolor
+43.8 373.7 24.1 363.4 line
+0.00 0.00 0.00 setrgbcolor
+24.1 363.4 43.8 373.7 line
+0.00 0.00 0.00 setrgbcolor
+43.3 375.7 36.9 375.8 line
+0.00 0.00 0.00 setrgbcolor
+36.9 375.8 43.3 375.7 line
+0.00 0.00 0.00 setrgbcolor
+44.5 372.8 17.6 347.7 line
+0.00 0.00 0.00 setrgbcolor
+17.6 347.7 44.5 372.8 line
+0.00 0.00 0.00 setrgbcolor
+43.7 374.0 31.8 369.0 line
+0.00 0.00 0.00 setrgbcolor
+31.8 369.0 43.7 374.0 line
+0.00 0.00 0.00 setrgbcolor
+43.3 375.7 45.6 375.7 line
+0.00 0.00 0.00 setrgbcolor
+45.6 375.7 43.3 375.7 line
+0.00 0.00 0.00 setrgbcolor
+27.7 358.0 14.6 365.1 line
+0.00 0.00 0.00 setrgbcolor
+14.6 365.1 27.7 358.0 line
+0.00 0.00 0.00 setrgbcolor
+27.6 357.9 24.2 359.6 line
+0.00 0.00 0.00 setrgbcolor
+24.2 359.6 27.6 357.9 line
+0.00 0.00 0.00 setrgbcolor
+31.6 360.2 32.4 371.8 line
+0.00 0.00 0.00 setrgbcolor
+32.4 371.8 31.6 360.2 line
+0.00 0.00 0.00 setrgbcolor
+27.9 353.7 18.1 347.2 line
+0.00 0.00 0.00 setrgbcolor
+18.1 347.2 27.9 353.7 line
+0.00 0.00 0.00 setrgbcolor
+30.1 360.1 29.1 363.4 line
+0.00 0.00 0.00 setrgbcolor
+29.1 363.4 30.1 360.1 line
+0.00 0.00 0.00 setrgbcolor
+33.2 359.8 39.5 372.0 line
+0.00 0.00 0.00 setrgbcolor
+39.5 372.0 33.2 359.8 line
+0.00 0.00 0.00 setrgbcolor
+34.0 359.3 44.9 372.5 line
+0.00 0.00 0.00 setrgbcolor
+44.9 372.5 34.0 359.3 line
+0.00 0.00 0.00 setrgbcolor
+59.4 376.0 24.3 362.9 line
+0.00 0.00 0.00 setrgbcolor
+24.3 362.9 59.4 376.0 line
+0.00 0.00 0.00 setrgbcolor
+59.2 377.2 36.9 376.1 line
+0.00 0.00 0.00 setrgbcolor
+36.9 376.1 59.2 377.2 line
+0.00 0.00 0.00 setrgbcolor
+59.9 375.1 18.1 347.2 line
+0.00 0.00 0.00 setrgbcolor
+18.1 347.2 59.9 375.1 line
+0.00 0.00 0.00 setrgbcolor
+59.3 376.3 32.0 368.5 line
+0.00 0.00 0.00 setrgbcolor
+32.0 368.5 59.3 376.3 line
+0.00 0.00 0.00 setrgbcolor
+59.2 377.1 45.6 376.0 line
+0.00 0.00 0.00 setrgbcolor
+45.6 376.0 59.2 377.1 line
+0.00 0.00 0.00 setrgbcolor
+59.2 376.9 51.6 376.1 line
+0.00 0.00 0.00 setrgbcolor
+51.6 376.1 59.2 376.9 line
+0.00 0.00 0.00 setrgbcolor
+59.9 375.1 34.8 358.4 line
+0.00 0.00 0.00 setrgbcolor
+34.8 358.4 59.9 375.1 line
+0.00 0.00 0.00 setrgbcolor
+67.2 375.6 36.9 375.9 line
+0.00 0.00 0.00 setrgbcolor
+36.9 375.9 67.2 375.6 line
+0.00 0.00 0.00 setrgbcolor
+67.7 373.6 18.3 346.8 line
+0.00 0.00 0.00 setrgbcolor
+18.3 346.8 67.7 373.6 line
+0.00 0.00 0.00 setrgbcolor
+67.3 374.8 32.0 368.1 line
+0.00 0.00 0.00 setrgbcolor
+32.0 368.1 67.3 374.8 line
+0.00 0.00 0.00 setrgbcolor
+67.2 375.5 45.6 375.6 line
+0.00 0.00 0.00 setrgbcolor
+45.6 375.6 67.2 375.5 line
+0.00 0.00 0.00 setrgbcolor
+67.2 375.6 51.7 375.7 line
+0.00 0.00 0.00 setrgbcolor
+51.7 375.7 67.2 375.6 line
+0.00 0.00 0.00 setrgbcolor
+67.6 373.7 35.1 357.9 line
+0.00 0.00 0.00 setrgbcolor
+35.1 357.9 67.6 373.7 line
+0.00 0.00 0.00 setrgbcolor
+67.3 376.5 67.4 376.5 line
+0.00 0.00 0.00 setrgbcolor
+67.4 376.5 67.3 376.5 line
+0.00 0.00 0.00 setrgbcolor
+78.7 371.1 18.5 346.4 line
+0.00 0.00 0.00 setrgbcolor
+18.5 346.4 78.7 371.1 line
+0.00 0.00 0.00 setrgbcolor
+78.4 372.2 32.1 367.7 line
+0.00 0.00 0.00 setrgbcolor
+32.1 367.7 78.4 372.2 line
+0.00 0.00 0.00 setrgbcolor
+78.4 373.0 45.6 375.4 line
+0.00 0.00 0.00 setrgbcolor
+45.6 375.4 78.4 373.0 line
+0.00 0.00 0.00 setrgbcolor
+78.4 373.0 51.7 375.3 line
+0.00 0.00 0.00 setrgbcolor
+51.7 375.3 78.4 373.0 line
+0.00 0.00 0.00 setrgbcolor
+78.6 371.4 35.3 357.3 line
+0.00 0.00 0.00 setrgbcolor
+35.3 357.3 78.6 371.4 line
+0.00 0.00 0.00 setrgbcolor
+78.5 373.6 67.4 376.4 line
+0.00 0.00 0.00 setrgbcolor
+67.4 376.4 78.5 373.6 line
+0.00 0.00 0.00 setrgbcolor
+78.5 373.7 75.4 374.5 line
+0.00 0.00 0.00 setrgbcolor
+75.4 374.5 78.5 373.7 line
+0.00 0.00 0.00 setrgbcolor
+75.1 351.6 31.9 366.0 line
+0.00 0.00 0.00 setrgbcolor
+31.9 366.0 75.1 351.6 line
+0.00 0.00 0.00 setrgbcolor
+75.6 352.6 44.9 373.3 line
+0.00 0.00 0.00 setrgbcolor
+44.9 373.3 75.6 352.6 line
+0.00 0.00 0.00 setrgbcolor
+75.8 352.9 50.7 373.1 line
+0.00 0.00 0.00 setrgbcolor
+50.7 373.1 75.8 352.9 line
+0.00 0.00 0.00 setrgbcolor
+74.9 350.8 35.4 355.6 line
+0.00 0.00 0.00 setrgbcolor
+35.4 355.6 74.9 350.8 line
+0.00 0.00 0.00 setrgbcolor
+76.9 353.9 65.4 373.8 line
+0.00 0.00 0.00 setrgbcolor
+65.4 373.8 76.9 353.9 line
+0.00 0.00 0.00 setrgbcolor
+77.8 354.3 72.6 371.5 line
+0.00 0.00 0.00 setrgbcolor
+72.6 371.5 77.8 354.3 line
+0.00 0.00 0.00 setrgbcolor
+79.7 354.4 81.9 368.5 line
+0.00 0.00 0.00 setrgbcolor
+81.9 368.5 79.7 354.4 line
+0.00 0.00 0.00 setrgbcolor
+105.8 365.2 45.6 375.0 line
+0.00 0.00 0.00 setrgbcolor
+45.6 375.0 105.8 365.2 line
+0.00 0.00 0.00 setrgbcolor
+105.8 365.2 51.6 374.9 line
+0.00 0.00 0.00 setrgbcolor
+51.6 374.9 105.8 365.2 line
+0.00 0.00 0.00 setrgbcolor
+105.8 364.0 35.5 356.5 line
+0.00 0.00 0.00 setrgbcolor
+35.5 356.5 105.8 364.0 line
+0.00 0.00 0.00 setrgbcolor
+105.9 365.6 67.4 376.3 line
+0.00 0.00 0.00 setrgbcolor
+67.4 376.3 105.9 365.6 line
+0.00 0.00 0.00 setrgbcolor
+105.9 365.6 75.4 374.4 line
+0.00 0.00 0.00 setrgbcolor
+75.4 374.4 105.9 365.6 line
+0.00 0.00 0.00 setrgbcolor
+105.9 365.7 86.6 371.5 line
+0.00 0.00 0.00 setrgbcolor
+86.6 371.5 105.9 365.7 line
+0.00 0.00 0.00 setrgbcolor
+106.1 362.7 82.8 352.0 line
+0.00 0.00 0.00 setrgbcolor
+82.8 352.0 106.1 362.7 line
+1.00 0.65 0.00 setrgbcolor
+31.3 356.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+31.3 356.1 (34) center_show
+1.00 0.65 0.00 setrgbcolor
+63.3 377.4 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+63.3 377.4 (33) center_show
+1.00 0.65 0.00 setrgbcolor
+417.8 323.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+417.8 323.1 (32) center_show
+1.00 0.65 0.00 setrgbcolor
+285.3 138.0 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+285.3 138.0 (31) center_show
+1.00 0.65 0.00 setrgbcolor
+266.3 533.0 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+266.3 533.0 (29) center_show
+1.00 0.65 0.00 setrgbcolor
+240.0 498.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+240.0 498.1 (30) center_show
+1.00 0.65 0.00 setrgbcolor
+275.8 547.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+275.8 547.7 (28) center_show
+1.00 0.65 0.00 setrgbcolor
+150.9 204.8 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+150.9 204.8 (27) center_show
+1.00 0.65 0.00 setrgbcolor
+445.9 166.4 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+445.9 166.4 (26) center_show
+1.00 0.65 0.00 setrgbcolor
+110.5 445.5 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+110.5 445.5 (25) center_show
+1.00 0.65 0.00 setrgbcolor
+66.2 301.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+66.2 301.7 (24) center_show
+1.00 0.65 0.00 setrgbcolor
+301.2 150.5 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+301.2 150.5 (23) center_show
+1.00 0.65 0.00 setrgbcolor
+115.8 183.8 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+115.8 183.8 (22) center_show
+1.00 0.65 0.00 setrgbcolor
+116.6 426.4 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+116.6 426.4 (21) center_show
+1.00 0.65 0.00 setrgbcolor
+294.9 545.0 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+294.9 545.0 (19) center_show
+1.00 0.65 0.00 setrgbcolor
+448.4 324.8 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+448.4 324.8 (20) center_show
+1.00 0.65 0.00 setrgbcolor
+55.4 377.3 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+55.4 377.3 (18) center_show
+1.00 0.65 0.00 setrgbcolor
+302.4 535.8 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+302.4 535.8 (17) center_show
+1.00 0.65 0.00 setrgbcolor
+93.0 182.9 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+93.0 182.9 (16) center_show
+1.00 0.65 0.00 setrgbcolor
+144.5 398.9 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+144.5 398.9 (15) center_show
+1.00 0.65 0.00 setrgbcolor
+309.2 190.3 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+309.2 190.3 (14) center_show
+1.00 0.65 0.00 setrgbcolor
+81.6 207.0 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+81.6 207.0 (13) center_show
+1.00 0.65 0.00 setrgbcolor
+39.1 308.0 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+39.1 308.0 (12) center_show
+1.00 0.65 0.00 setrgbcolor
+150.2 435.8 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+150.2 435.8 (11) center_show
+1.00 0.65 0.00 setrgbcolor
+74.8 226.3 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+74.8 226.3 (10) center_show
+1.00 0.65 0.00 setrgbcolor
+282.5 541.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+282.5 541.7 (199) center_show
+1.00 0.65 0.00 setrgbcolor
+296.2 142.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+296.2 142.1 (198) center_show
+1.00 0.65 0.00 setrgbcolor
+120.0 457.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+120.0 457.7 (197) center_show
+1.00 0.65 0.00 setrgbcolor
+68.8 318.6 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+68.8 318.6 (196) center_show
+1.00 0.65 0.00 setrgbcolor
+117.5 469.2 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+117.5 469.2 (195) center_show
+1.00 0.65 0.00 setrgbcolor
+134.8 186.9 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+134.8 186.9 (194) center_show
+1.00 0.65 0.00 setrgbcolor
+436.6 151.6 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+436.6 151.6 (193) center_show
+1.00 0.65 0.00 setrgbcolor
+83.7 251.2 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+83.7 251.2 (192) center_show
+1.00 0.65 0.00 setrgbcolor
+99.6 191.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+99.6 191.1 (191) center_show
+1.00 0.65 0.00 setrgbcolor
+429.6 140.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+429.6 140.7 (190) center_show
+1.00 0.65 0.00 setrgbcolor
+293.7 161.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+293.7 161.7 (189) center_show
+1.00 0.00 0.00 setrgbcolor
+283.6 337.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+283.6 337.7 (200) center_show
+1.00 0.65 0.00 setrgbcolor
+107.2 183.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+107.2 183.7 (188) center_show
+1.00 0.65 0.00 setrgbcolor
+55.8 301.3 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+55.8 301.3 (187) center_show
+1.00 0.65 0.00 setrgbcolor
+82.1 193.2 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+82.1 193.2 (186) center_show
+1.00 0.65 0.00 setrgbcolor
+270.4 150.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+270.4 150.1 (185) center_show
+1.00 0.65 0.00 setrgbcolor
+417.0 216.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+417.0 216.7 (184) center_show
+1.00 0.65 0.00 setrgbcolor
+72.4 211.3 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+72.4 211.3 (183) center_show
+1.00 0.65 0.00 setrgbcolor
+194.9 423.5 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+194.9 423.5 (182) center_show
+1.00 0.65 0.00 setrgbcolor
+126.4 415.4 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+126.4 415.4 (181) center_show
+1.00 0.65 0.00 setrgbcolor
+187.7 469.0 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+187.7 469.0 (180) center_show
+1.00 0.65 0.00 setrgbcolor
+192.1 458.5 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+192.1 458.5 (179) center_show
+1.00 0.65 0.00 setrgbcolor
+73.1 218.0 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+73.1 218.0 (178) center_show
+1.00 0.65 0.00 setrgbcolor
+304.3 201.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+304.3 201.1 (177) center_show
+1.00 0.65 0.00 setrgbcolor
+319.9 513.9 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+319.9 513.9 (176) center_show
+1.00 0.65 0.00 setrgbcolor
+415.1 133.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+415.1 133.1 (175) center_show
+1.00 0.65 0.00 setrgbcolor
+211.9 402.5 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+211.9 402.5 (174) center_show
+1.00 0.65 0.00 setrgbcolor
+82.2 241.0 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+82.2 241.0 (173) center_show
+1.00 0.65 0.00 setrgbcolor
+8.1 329.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+8.1 329.1 (172) center_show
+1.00 0.65 0.00 setrgbcolor
+90.2 257.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+90.2 257.7 (171) center_show
+1.00 0.65 0.00 setrgbcolor
+136.4 257.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+136.4 257.1 (170) center_show
+1.00 0.65 0.00 setrgbcolor
+262.4 232.4 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+262.4 232.4 (169) center_show
+1.00 0.65 0.00 setrgbcolor
+14.2 358.3 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+14.2 358.3 (168) center_show
+1.00 0.65 0.00 setrgbcolor
+419.4 396.4 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+419.4 396.4 (167) center_show
+1.00 0.65 0.00 setrgbcolor
+432.2 400.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+432.2 400.7 (166) center_show
+1.00 0.65 0.00 setrgbcolor
+422.6 400.6 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+422.6 400.6 (165) center_show
+1.00 0.65 0.00 setrgbcolor
+233.3 157.9 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+233.3 157.9 (164) center_show
+1.00 0.65 0.00 setrgbcolor
+11.0 367.0 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+11.0 367.0 (163) center_show
+1.00 0.65 0.00 setrgbcolor
+166.9 485.9 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+166.9 485.9 (162) center_show
+1.00 0.65 0.00 setrgbcolor
+227.9 173.4 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+227.9 173.4 (161) center_show
+1.00 0.65 0.00 setrgbcolor
+311.7 505.8 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+311.7 505.8 (160) center_show
+1.00 0.65 0.00 setrgbcolor
+147.4 488.5 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+147.4 488.5 (159) center_show
+1.00 0.65 0.00 setrgbcolor
+317.9 487.4 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+317.9 487.4 (158) center_show
+1.00 0.65 0.00 setrgbcolor
+454.7 387.0 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+454.7 387.0 (157) center_show
+1.00 0.65 0.00 setrgbcolor
+246.7 140.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+246.7 140.7 (156) center_show
+1.00 0.65 0.00 setrgbcolor
+308.5 470.6 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+308.5 470.6 (155) center_show
+1.00 0.65 0.00 setrgbcolor
+255.9 140.9 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+255.9 140.9 (154) center_show
+1.00 0.65 0.00 setrgbcolor
+157.8 494.4 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+157.8 494.4 (153) center_show
+1.00 0.65 0.00 setrgbcolor
+238.2 144.0 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+238.2 144.0 (152) center_show
+1.00 0.65 0.00 setrgbcolor
+314.3 478.0 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+314.3 478.0 (151) center_show
+1.00 0.65 0.00 setrgbcolor
+138.0 488.9 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+138.0 488.9 (150) center_show
+1.00 0.65 0.00 setrgbcolor
+279.9 493.4 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+279.9 493.4 (149) center_show
+1.00 0.65 0.00 setrgbcolor
+299.6 462.3 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+299.6 462.3 (148) center_show
+1.00 0.65 0.00 setrgbcolor
+457.8 404.2 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+457.8 404.2 (147) center_show
+1.00 0.65 0.00 setrgbcolor
+415.1 152.2 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+415.1 152.2 (146) center_show
+1.00 0.65 0.00 setrgbcolor
+300.6 513.8 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+300.6 513.8 (145) center_show
+1.00 0.65 0.00 setrgbcolor
+467.2 390.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+467.2 390.1 (144) center_show
+1.00 0.65 0.00 setrgbcolor
+260.1 132.2 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+260.1 132.2 (143) center_show
+1.00 0.65 0.00 setrgbcolor
+41.4 375.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+41.4 375.7 (142) center_show
+1.00 0.65 0.00 setrgbcolor
+276.1 136.3 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+276.1 136.3 (141) center_show
+1.00 0.65 0.00 setrgbcolor
+479.7 386.0 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+479.7 386.0 (140) center_show
+1.00 0.65 0.00 setrgbcolor
+487.3 368.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+487.3 368.7 (139) center_show
+1.00 0.65 0.00 setrgbcolor
+71.4 375.5 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+71.4 375.5 (138) center_show
+1.00 0.65 0.00 setrgbcolor
+482.8 356.4 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+482.8 356.4 (137) center_show
+1.00 0.65 0.00 setrgbcolor
+399.7 143.8 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+399.7 143.8 (136) center_show
+1.00 0.65 0.00 setrgbcolor
+82.6 372.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+82.6 372.7 (135) center_show
+1.00 0.65 0.00 setrgbcolor
+79.0 350.3 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+79.0 350.3 (134) center_show
+1.00 0.65 0.00 setrgbcolor
+479.4 366.6 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+479.4 366.6 (133) center_show
+1.00 0.65 0.00 setrgbcolor
+475.0 342.4 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+475.0 342.4 (132) center_show
+1.00 0.65 0.00 setrgbcolor
+246.2 486.3 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+246.2 486.3 (131) center_show
+1.00 0.65 0.00 setrgbcolor
+279.5 528.4 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+279.5 528.4 (130) center_show
+1.00 0.65 0.00 setrgbcolor
+303.6 440.5 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+303.6 440.5 (129) center_show
+1.00 0.65 0.00 setrgbcolor
+474.3 352.3 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+474.3 352.3 (128) center_show
+1.00 0.65 0.00 setrgbcolor
+242.6 508.0 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+242.6 508.0 (127) center_show
+1.00 0.65 0.00 setrgbcolor
+124.5 488.3 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+124.5 488.3 (126) center_show
+1.00 0.65 0.00 setrgbcolor
+397.2 204.6 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+397.2 204.6 (125) center_show
+1.00 0.65 0.00 setrgbcolor
+114.4 484.2 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+114.4 484.2 (124) center_show
+1.00 0.65 0.00 setrgbcolor
+466.3 335.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+466.3 335.7 (123) center_show
+1.00 0.65 0.00 setrgbcolor
+109.9 364.5 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+109.9 364.5 (122) center_show
+1.00 0.65 0.00 setrgbcolor
+455.8 331.2 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+455.8 331.2 (121) center_show
+1.00 0.65 0.00 setrgbcolor
+441.3 173.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+441.3 173.7 (120) center_show
+1.00 0.65 0.00 setrgbcolor
+247.7 516.4 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+247.7 516.4 (119) center_show
+1.00 0.65 0.00 setrgbcolor
+284.8 145.6 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+284.8 145.6 (118) center_show
+1.00 0.65 0.00 setrgbcolor
+380.6 146.2 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+380.6 146.2 (117) center_show
+1.00 0.65 0.00 setrgbcolor
+108.9 456.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+108.9 456.7 (116) center_show
+1.00 0.65 0.00 setrgbcolor
+467.2 364.3 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+467.2 364.3 (115) center_show
+1.00 0.65 0.00 setrgbcolor
+425.4 182.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+425.4 182.1 (114) center_show
+1.00 0.65 0.00 setrgbcolor
+407.2 220.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+407.2 220.1 (113) center_show
+1.00 0.65 0.00 setrgbcolor
+437.1 179.8 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+437.1 179.8 (112) center_show
+1.00 0.65 0.00 setrgbcolor
+462.8 343.9 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+462.8 343.9 (111) center_show
+1.00 0.65 0.00 setrgbcolor
+363.7 154.3 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+363.7 154.3 (110) center_show
+1.00 0.65 0.00 setrgbcolor
+107.7 467.3 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+107.7 467.3 (109) center_show
+1.00 0.65 0.00 setrgbcolor
+374.3 150.6 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+374.3 150.6 (108) center_show
+1.00 0.65 0.00 setrgbcolor
+439.0 161.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+439.0 161.1 (107) center_show
+1.00 0.65 0.00 setrgbcolor
+411.2 166.6 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+411.2 166.6 (106) center_show
+1.00 0.65 0.00 setrgbcolor
+372.2 166.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+372.2 166.7 (105) center_show
+1.00 0.65 0.00 setrgbcolor
+259.3 523.3 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+259.3 523.3 (104) center_show
+1.00 0.65 0.00 setrgbcolor
+246.4 529.0 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+246.4 529.0 (103) center_show
+1.00 0.65 0.00 setrgbcolor
+415.5 354.5 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+415.5 354.5 (102) center_show
+1.00 0.65 0.00 setrgbcolor
+255.5 536.8 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+255.5 536.8 (101) center_show
+1.00 0.65 0.00 setrgbcolor
+378.6 384.4 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+378.6 384.4 (100) center_show
+1.00 0.65 0.00 setrgbcolor
+390.2 237.2 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+390.2 237.2 (99) center_show
+1.00 0.65 0.00 setrgbcolor
+268.1 540.6 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+268.1 540.6 (98) center_show
+1.00 0.65 0.00 setrgbcolor
+195.3 444.6 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+195.3 444.6 (9) center_show
+1.00 0.65 0.00 setrgbcolor
+118.9 477.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+118.9 477.1 (97) center_show
+1.00 0.65 0.00 setrgbcolor
+23.3 312.2 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+23.3 312.2 (8) center_show
+1.00 0.65 0.00 setrgbcolor
+389.3 144.4 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+389.3 144.4 (96) center_show
+1.00 0.65 0.00 setrgbcolor
+305.1 176.6 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+305.1 176.6 (7) center_show
+1.00 0.65 0.00 setrgbcolor
+168.1 227.4 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+168.1 227.4 (95) center_show
+1.00 0.65 0.00 setrgbcolor
+298.4 216.8 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+298.4 216.8 (6) center_show
+1.00 0.65 0.00 setrgbcolor
+157.6 214.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+157.6 214.1 (94) center_show
+1.00 0.65 0.00 setrgbcolor
+14.7 319.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+14.7 319.1 (5) center_show
+1.00 0.65 0.00 setrgbcolor
+101.0 206.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+101.0 206.7 (93) center_show
+1.00 0.65 0.00 setrgbcolor
+78.2 234.0 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+78.2 234.0 (4) center_show
+1.00 0.65 0.00 setrgbcolor
+439.9 322.6 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+439.9 322.6 (92) center_show
+1.00 0.65 0.00 setrgbcolor
+154.1 484.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+154.1 484.1 (3) center_show
+1.00 0.65 0.00 setrgbcolor
+115.5 194.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+115.5 194.1 (91) center_show
+1.00 0.65 0.00 setrgbcolor
+87.4 218.6 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+87.4 218.6 (2) center_show
+1.00 0.65 0.00 setrgbcolor
+146.8 197.3 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+146.8 197.3 (90) center_show
+1.00 0.65 0.00 setrgbcolor
+135.6 193.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+135.6 193.7 (89) center_show
+1.00 0.65 0.00 setrgbcolor
+115.0 270.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+115.0 270.1 (1) center_show
+1.00 0.65 0.00 setrgbcolor
+124.9 184.9 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+124.9 184.9 (88) center_show
+1.00 0.65 0.00 setrgbcolor
+285.2 224.4 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+285.2 224.4 (0) center_show
+1.00 0.65 0.00 setrgbcolor
+118.2 439.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+118.2 439.1 (87) center_show
+1.00 0.65 0.00 setrgbcolor
+442.8 148.5 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+442.8 148.5 (86) center_show
+1.00 0.65 0.00 setrgbcolor
+306.3 162.5 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+306.3 162.5 (85) center_show
+1.00 0.65 0.00 setrgbcolor
+138.5 459.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+138.5 459.7 (84) center_show
+1.00 0.65 0.00 setrgbcolor
+93.9 189.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+93.9 189.7 (83) center_show
+1.00 0.65 0.00 setrgbcolor
+308.2 526.2 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+308.2 526.2 (82) center_show
+1.00 0.65 0.00 setrgbcolor
+83.0 199.2 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+83.0 199.2 (81) center_show
+1.00 0.65 0.00 setrgbcolor
+47.0 303.8 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+47.0 303.8 (80) center_show
+1.00 0.65 0.00 setrgbcolor
+28.3 337.2 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+28.3 337.2 (79) center_show
+1.00 0.65 0.00 setrgbcolor
+291.6 537.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+291.6 537.7 (78) center_show
+1.00 0.65 0.00 setrgbcolor
+444.6 185.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+444.6 185.7 (77) center_show
+1.00 0.65 0.00 setrgbcolor
+33.5 308.5 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+33.5 308.5 (76) center_show
+1.00 0.65 0.00 setrgbcolor
+25.0 318.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+25.0 318.7 (75) center_show
+1.00 0.65 0.00 setrgbcolor
+426.5 130.4 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+426.5 130.4 (74) center_show
+1.00 0.65 0.00 setrgbcolor
+315.9 526.6 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+315.9 526.6 (73) center_show
+1.00 0.65 0.00 setrgbcolor
+181.6 477.5 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+181.6 477.5 (72) center_show
+1.00 0.65 0.00 setrgbcolor
+16.4 330.2 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+16.4 330.2 (71) center_show
+1.00 0.65 0.00 setrgbcolor
+170.3 479.4 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+170.3 479.4 (70) center_show
+1.00 0.65 0.00 setrgbcolor
+232.4 211.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+232.4 211.1 (69) center_show
+1.00 0.65 0.00 setrgbcolor
+227.1 194.9 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+227.1 194.9 (68) center_show
+1.00 0.65 0.00 setrgbcolor
+99.7 263.8 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+99.7 263.8 (67) center_show
+1.00 0.65 0.00 setrgbcolor
+8.4 341.5 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+8.4 341.5 (66) center_show
+1.00 0.65 0.00 setrgbcolor
+184.3 265.3 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+184.3 265.3 (65) center_show
+1.00 0.65 0.00 setrgbcolor
+3.6 348.4 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+3.6 348.4 (64) center_show
+1.00 0.65 0.00 setrgbcolor
+409.7 136.0 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+409.7 136.0 (63) center_show
+1.00 0.65 0.00 setrgbcolor
+227.5 182.6 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+227.5 182.6 (62) center_show
+1.00 0.65 0.00 setrgbcolor
+425.9 148.9 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+425.9 148.9 (61) center_show
+1.00 0.65 0.00 setrgbcolor
+231.2 165.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+231.2 165.1 (60) center_show
+1.00 0.65 0.00 setrgbcolor
+405.2 399.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+405.2 399.1 (59) center_show
+1.00 0.65 0.00 setrgbcolor
+402.3 388.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+402.3 388.1 (58) center_show
+1.00 0.65 0.00 setrgbcolor
+397.2 133.2 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+397.2 133.2 (57) center_show
+1.00 0.65 0.00 setrgbcolor
+442.8 396.4 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+442.8 396.4 (56) center_show
+1.00 0.65 0.00 setrgbcolor
+298.0 525.2 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+298.0 525.2 (55) center_show
+1.00 0.65 0.00 setrgbcolor
+430.9 322.4 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+430.9 322.4 (54) center_show
+1.00 0.65 0.00 setrgbcolor
+318.8 497.6 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+318.8 497.6 (53) center_show
+1.00 0.65 0.00 setrgbcolor
+265.8 259.9 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+265.8 259.9 (52) center_show
+1.00 0.65 0.00 setrgbcolor
+237.8 150.9 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+237.8 150.9 (51) center_show
+1.00 0.65 0.00 setrgbcolor
+20.4 361.5 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+20.4 361.5 (50) center_show
+1.00 0.65 0.00 setrgbcolor
+32.7 375.9 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+32.7 375.9 (49) center_show
+1.00 0.65 0.00 setrgbcolor
+424.5 208.8 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+424.5 208.8 (48) center_show
+1.00 0.65 0.00 setrgbcolor
+445.9 407.2 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+445.9 407.2 (47) center_show
+1.00 0.65 0.00 setrgbcolor
+14.6 344.9 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+14.6 344.9 (46) center_show
+1.00 0.65 0.00 setrgbcolor
+473.8 375.1 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+473.8 375.1 (45) center_show
+1.00 0.65 0.00 setrgbcolor
+254.1 129.8 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+254.1 129.8 (44) center_show
+1.00 0.65 0.00 setrgbcolor
+141.8 497.2 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+141.8 497.2 (43) center_show
+1.00 0.65 0.00 setrgbcolor
+130.0 486.9 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+130.0 486.9 (42) center_show
+1.00 0.65 0.00 setrgbcolor
+28.0 367.3 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+28.0 367.3 (41) center_show
+1.00 0.65 0.00 setrgbcolor
+430.7 201.0 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+430.7 201.0 (39) center_show
+1.00 0.65 0.00 setrgbcolor
+461.2 396.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+461.2 396.7 (40) center_show
+1.00 0.65 0.00 setrgbcolor
+435.8 196.8 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+435.8 196.8 (38) center_show
+1.00 0.65 0.00 setrgbcolor
+474.4 385.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+474.4 385.7 (37) center_show
+1.00 0.65 0.00 setrgbcolor
+268.1 134.9 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+268.1 134.9 (36) center_show
+1.00 0.65 0.00 setrgbcolor
+47.5 375.7 2.8 circle
+3 ft
+0 0 0 setrgbcolor
+47.5 375.7 (35) center_show
+showpage
+end
+%%Trailer
