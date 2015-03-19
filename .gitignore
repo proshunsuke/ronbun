@@ -2,3 +2,5 @@
 *.gif
 *.dvi
 *.aux
+*~
+*.log
