@@ -1,5 +1,6 @@
 %% v1.3 [2003/10/31]
-\documentclass[technicalreport]{ieicej}
+%% \documentclass[technicalreport]{ieicej}
+\documentclass[letter]{ieicej}
 %\documentclass[technicalreport,usejistfm]{ieicej}
 %\usepackage{graphicx}
 \usepackage{latexsym}

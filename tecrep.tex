@@ -1,60 +1,44 @@
-%% v1.3 [2003/10/31]
-%% \documentclass[technicalreport]{ieicej}
 \documentclass[letter]{ieicej}
-%\documentclass[technicalreport,usejistfm]{ieicej}
-%\usepackage{graphicx}
-\usepackage{latexsym}
+\usepackage{graphicx}
+%\usepackage{latexsym}
 %\usepackage[fleqn]{amsmath}
 %\usepackage[psamsfonts]{amssymb}
-\usepackage[dvips]{graphicx}
 
+\setcounter{page}{1}
 
-\def\IEICEJcls{\texttt{ieicej.cls}}
-\def\IEICEver{1.3}
-\newcommand{\AmSLaTeX}{%
- $\mathcal A$\lower.4ex\hbox{$\!\mathcal M\!$}$\mathcal S$-\LaTeX}
-\newcommand{\PS}{{\scshape Post\-Script}}
-\def\BibTeX{{\rmfamily B\kern-.05em{\scshape i\kern-.025em b}\kern-.08em
- T\kern-.1667em\lower.7ex\hbox{E}\kern-.125em X}}
-
+\typeofletter{研究速報}
+%\typeofletter{紙上討論}
+%\typeofletter{問題提起}
+%\typeofletter{ショートノート}
+\field{}
 \jtitle{ダイジェスト視聴可能なP2Pライブストリーミングの提案}
-%% \jsubtitle{技術研究報告原稿のための解説とテンプレート}
 \etitle{Proposal and Evaluation of P2P live streaming system for digest viewing}
-%% \esubtitle{Guide to the Technical Report and Template}
-\authorlist{%
- \authorentry[shunsuke@spa.is.uec.ac.jp]{鈴木 駿介}{Shunsuke SUZUKI}{UEC}%
- \authorentry[]{末田 欣子}{Yoshiko SUEDA}{UEC,NTT}%
- \authorentry[]{多田 好克}{Yoshikatsu TADA}{UEC}%
-}
-\affiliate[UEC]{電気通信大学 大学院情報システム学研究科\hskip1zw
-  〒182-8585 東京都調布市調布ケ丘1--5--1}
-          {Guraduate School of Information Systems,
-            The University of Electro-Communications\hskip1em
-            1--5--1, Chofugaoka, Chofu-shi, Tokyo, 182--8585 Japan}
-\affiliate[NTT]{日本電信電話株式会社 NTTネットワーク基盤技術研究所\hskip1zw
-  〒180-0012 東京都武蔵野市緑町3--9--11}
-          {NTT Network Technology Laboratories,
-            Nippon Telegraph and Telephone Corporation\hskip1em
-            3--9--11, Midori-Cho, Chofu-shi, Tokyo, 180--8585 Japan}
 
-%\MailAddress{$\dagger$hanako@denshi.ac.jp,
-% $\dagger\dagger$\{taro,jiro\}@jouhou.co.jp}
+\authorlist{
+  \authorentry[shunsuke@spa.is.uec.ac.jp]{鈴木 駿介}{Shunsuke SUZUKI}{s}{UEC}%
+  \authorentry[]{末田 欣子}{Yoshiko SUEDA}{m}{UEC,NTT}%
+  \authorentry[]{多田 好克}{Yoshikatsu TADA}{m}{UEC}%
+}
+\affiliate[UEC]{電気通信大学 大学院情報システム学研究科\hskip1zw〒182-8585 東京都調布市調布ケ丘1--5--1}{Guraduate School of Information Systems,The University of Electro-Communications\hskip1em1--5--1, Chofugaoka, Chofu-shi, Tokyo, 182--8585 Japan}
+\affiliate[NTT]{日本電信電話株式会社 NTTネットワーク基盤技術研究所\hskip1zw〒180-0012 東京都武蔵野市緑町3--9--11}{NTT Network Technology Laboratories,Nippon Telegraph and Telephone Corporation\hskip1em3--9--11, Midori-Cho, Chofu-shi, Tokyo, 180--8585 Japan}
+%\affiliate[所属ラベル]{和文所属}{英文所属}
+%\paffiliate[]{}
+%\paffiliate[現在の所属ラベル]{和文所属}
 
 \begin{document}
-\begin{jabstract}
-P2P（peer to peer）におけるライブストリーミングは配信者への負荷の集中を軽減できたり, サーバ-クライアント方式よりも低コストで実現できるなど, 近年その需要は高まっている. しかし, 既存のP2Pライブストリーミングシステムでは, 途中参加したユーザはそれまでの配信内容を把握することができないといった問題がある. そのため, P2Pライブストリーミングにおいて, 途中参加したユーザがダイジェストを視聴可能なP2Pライブストリーミングシステムが必要となる. 本研究では, そのようなP2Pライブストリーミングシステムにおいて, P2Pネットワーク内でダイジェストを作成し, 保持し, 広めるために各ピアが役割を持ったトポロジを提案する. シミュレーションの結果, ノード数が増加してもネットワーク全体のスループットは低下しなかった. さらに, 役割を持たせなかった場合と比べ役割を持たせた場合は全体的なスループットが大きく, 役割を与えることの有用性を確認することが出来た.
-\end{jabstract}
-\begin{jkeyword}
-P2P, ダイジェスト, トポロジ, 役割
-\end{jkeyword}
+\maketitle
+\begin{abstract}
+  P2P（peer to peer）におけるライブストリーミングは配信者への負荷の集中を軽減できたり, サーバ-クライアント方式よりも低コストで実現できるなど, 近年その需要は高まっている. しかし, 既存のP2Pライブストリーミングシステムでは, 途中参加したユーザはそれまでの配信内容を把握することができないといった問題がある. そのため, P2Pライブストリーミングにおいて, 途中参加したユーザがダイジェストを視聴可能なP2Pライブストリーミングシステムが必要となる. 本研究では, そのようなP2Pライブストリーミングシステムにおいて, P2Pネットワーク内でダイジェストを作成し, 保持し, 広めるために各ピアが役割を持ったトポロジを提案する. シミュレーションの結果, ノード数が増加してもネットワーク全体のスループットは低下しなかった. さらに, 役割を持たせなかった場合と比べ役割を持たせた場合は全体的なスループットが大きく, 役割を与えることの有用性を確認することが出来た.
+\end{abstract}
+\begin{keyword}
+  P2P, ダイジェスト, トポロジ, 役割
+\end{keyword}
 \begin{eabstract}
-Live streaming in P2P(peer to peer) can solve a concentration of load on a distributor, and its demand has increased in recent years. But, users joined since live streaming starts unable to understand the content of a distribution in the existing method. Threfore, a live streaming system that users joined since live streaming starts can watch digests is required. In this study, we propose new topology that peers have roles of creating, keeping and spreading digests in P2P network for such  P2P live streaming. As a result of simulation, when the number of peers so increased, the throughput of network did not decrease. We show the peers having role are higher throughput than the peers having not role.
-
+  Live streaming in P2P(peer to peer) can solve a concentration of load on a distributor, and its demand has increased in recent years. But, users joined since live streaming starts unable to understand the content of a distribution in the existing method. Threfore, a live streaming system that users joined since live streaming starts can watch digests is required. In this study, we propose new topology that peers have roles of creating, keeping and spreading digests in P2P network for such  P2P live streaming. As a result of simulation, when the number of peers so increased, the throughput of network did not decrease. We show the peers having role are higher throughput than the peers having not role.
 \end{eabstract}
 \begin{ekeyword}
-P2P, digest, topology, role
+  P2P, digest, topology, role
 \end{ekeyword}
-\maketitle
 
 \section{背景}
 ネットワーク技術の発達に伴い, ネットワークを用いた動画配信サービスが急速に普及している. 特にニコニコ生放送\cite{nico}やUSTREAM\cite{ust}といったリアルタイム動画配信サービスが人気である. 動画配信の形態としてはサーバ-クライアント方式が一般的であるが, 配信サーバのコスト削減や配信者の負荷を軽減するためP2Pを利用したライブストリーミング配信が期待されている.
@@ -173,16 +157,16 @@ MeTreeでは貢献度を意識した設計のため貢献度の低いノード�
 
   \centering
 
-\vspace*{0.3cm}
-\caption{既存システムと提案システムの比較 \label{tb:tb1}}
-\ecaption{Comparison with existing systems and our proposal system}
+  \vspace*{0.3cm}
+  \caption{既存システムと提案システムの比較 \label{tb:tb1}}
+  \ecaption{Comparison with existing systems and our proposal system}
   \begin{tabular}{|c|c|c|c|c|} \hline
-     & HCPS & 重畳 & MeTree & 提案 \\ \hline
+    & HCPS & 重畳 & MeTree & 提案 \\ \hline
     \shortstack{ダイジェ \\ スト} & なし & なし & なし & あり\\ \hline
-        クラスタ & \shortstack{完全 \\ 結合} & \shortstack{一部 \\ メッシュ} & \shortstack{一部 \\ メッシュ}  & \shortstack{一部 \\ メッシュ}\\
-     \hline
-     \shortstack{ゲート \\ ノード} & \shortstack{高帯域 \\ ピア} & \shortstack{滞在時間 \\ の長い \\ ピア} & \shortstack{高帯域 \\ ピア} & \shortstack{高帯域+ \\ コメント \\ 量の多い \\ ピア} \\
-     \hline
+    クラスタ & \shortstack{完全 \\ 結合} & \shortstack{一部 \\ メッシュ} & \shortstack{一部 \\ メッシュ}  & \shortstack{一部 \\ メッシュ}\\
+    \hline
+    \shortstack{ゲート \\ ノード} & \shortstack{高帯域 \\ ピア} & \shortstack{滞在時間 \\ の長い \\ ピア} & \shortstack{高帯域 \\ ピア} & \shortstack{高帯域+ \\ コメント \\ 量の多い \\ ピア} \\
+    \hline
   \end{tabular}
 \end{table}
 
@@ -194,10 +178,10 @@ MeTreeでは貢献度を意識した設計のため貢献度の低いノード�
 
   \centering
 
-\vspace*{0.3cm}
-\caption{帯域幅分布 \label{tb:tb2}}
-\ecaption{Bandwidth distribution}
-\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|} \hline
+  \vspace*{0.3cm}
+  \caption{帯域幅分布 \label{tb:tb2}}
+  \ecaption{Bandwidth distribution}
+  \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|} \hline
     \shortstack{帯域幅 \\ (kbps)} & 256 & 320 & 384 & 448 & 512 & 640 & 768 & 1024 & 1500 & 3000 \\ \hline
     \shortstack{割合 \\ (\%)} & 10.0 & 14.3 & 8.6 & 12.5 & 2.2 & 1.4 & 6.6 & 28.1 & 1.4 & 14.9 \\ \hline
   \end{tabular}
@@ -220,9 +204,9 @@ MeTreeでは貢献度を意識した設計のため貢献度の低いノード�
 
   \centering
 
-\vspace*{0.3cm}
-\caption{コメント数分布 \label{tb:tb3}}
-\ecaption{Number of comments distribution}
+  \vspace*{0.3cm}
+  \caption{コメント数分布 \label{tb:tb3}}
+  \ecaption{Number of comments distribution}
   \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|} \hline
     \shortstack{コメント数} & 2 & 5 & 7 & 10 & 12 & 15 & 17 & 20 & 22 & 25 \\ \hline
     \shortstack{割合 \\ (\%)} & 16 & 17 & 17 & 16 & 15 & 13 & 10 & 2 & 1 & 1 \\ \hline
@@ -235,9 +219,9 @@ MeTreeでは貢献度を意識した設計のため貢献度の低いノード�
 
   \centering
 
-\vspace*{0.3cm}
-\caption{ノード数とクラスタ数対応表 \label{tb:tb4}}
-\ecaption{Number of nodes and clusters distribution}
+  \vspace*{0.3cm}
+  \caption{ノード数とクラスタ数対応表 \label{tb:tb4}}
+  \ecaption{Number of nodes and clusters distribution}
   \begin{tabular}{|c|c|c|c|c|} \hline
     \shortstack{ノード数} & 200 & 400 & 600 & 800 \\ \hline
     \shortstack{クラスタ数} & 7 & 10 & 14 & 18  \\ \hline
@@ -343,6 +327,11 @@ MeTreeでは貢献度を意識した設計のため貢献度の低いノード�
 
 今後は, 要求条件の達成度を確認するために, 配信者ノードからの各ノードへストリームの情報が到達するまでの遅延情報や, ホップ数情報などの分析を行う予定である. さらに他のP2Pライブストリーミングシステムとの比較を行い, 本研究の有用の検証を行う予定である.
 
+
+\ack %% 謝辞
+
+%\bibliographystyle{sieicej}
+%\bibliography{myrefs}
 \begin{thebibliography}{99}
 
 \bibitem{nico}
@@ -365,5 +354,9 @@ G. Bianchi, N. Melazzi, L. Bracciale, F. Piccolo, and S. Salsano, “Streamline:
 
 
 \end{thebibliography}
+
+
+\appendix
+\section{}
 
 \end{document}

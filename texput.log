@@ -1,0 +1,21 @@
+This is e-pTeX, Version 3.1415926-p3.3-110825-2.4 (utf8.euc) (TeX Live 2012/Debian) (format=platex 2013.7.5)  18 MAR 2015 19:24
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**tecrep.texdvipdfmx tecrep
+
+! Emergency stop.
+<*> tecrep.texdvipdfmx 
+                       tecrep
+*** (job aborted, file error in nonstop mode)
+
+ 
+Here is how much of TeX's memory you used:
+ 3 strings out of 494066
+ 28 string characters out of 3158223
+ 51920 words of memory out of 3000000
+ 3530 multiletter control sequences out of 15000+200000
+ 7519 words of font info for 31 fonts, out of 3000000 for 9000
+ 745 hyphenation exceptions out of 8191
+ 0i,0n,0p,1b,6s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.
